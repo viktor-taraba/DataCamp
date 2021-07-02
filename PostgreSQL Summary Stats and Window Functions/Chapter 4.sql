@@ -1,4 +1,3 @@
-
 -- Create the correct extension. Fill in the column names of the pivoted table.
 -- Create the correct extention to enable CROSSTAB
 CREATE EXTENSION IF NOT EXISTS tablefunc;
