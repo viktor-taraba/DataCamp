@@ -1,0 +1,201 @@
+Rank,Company,Revenue,employees,Industry,age
+1,Walmart,523964,"2,300,000",Tech,44
+2,Sinopec Group,407009,"71,200",Tech,56
+3,State Grid,383906,"377,000",Oil,21
+4,China National Petroleum,379130,"123,000",Tech,33
+5,Royal Dutch Shell,352106,"260,000",Tech,70
+6,Saudi Aramco,329784,"64,500",Tech,72
+7,Volkswagen,282760,"203,000",Tech,65
+8,BP,282616,"566,000",Pharmaceuticals,4
+9,Amazon.com,280522,"254,000",Pharmaceuticals,12
+10,Toyota Motor,275288,"180,000",Pharmaceuticals,26
+11,Exxon Mobil,264938,"202,000",Pharmaceuticals,58
+12,Apple,260174,"19,500",Tech,29
+13,CVS Health,256776,"51,900",Tech,29
+14,Berkshire Hathaway,254616,"40,400",Tech,40
+15,UnitedHealth Group,242155,"182,000",Tech,35
+16,McKesson,231051,"155,400",Tech,26
+17,Glencore,215111,"449,000",Pharmaceuticals,73
+18,China State Construction Engineering,205839,"313,000",Pharmaceuticals,45
+19,Samsung Electronics,197705,"290,000",Pharmaceuticals,31
+20,Daimler,193346,"252,539",Pharmaceuticals,59
+21,Ping An Insurance,184280,"7,200",Oil,39
+22,AT&T,181193,"80,110",Oil,29
+23,AmerisourceBergen,179589,"413,000",Professional Services,52
+24,Industrial & Commercial Bank of China,177069,"209,376",Oil,23
+25,Total,176249,"26,600",Oil,54
+26,Hon Hai Precision Industry,172869,"262,700",Tech,42
+27,Trafigura Group,171474,"140,800",Tech,39
+28,EXOR Group,162754,"14,600",Tech,77
+29,Alphabet,161857,"56,000",Tech,35
+30,China Construction Bank,158884,"124,000",Pharmaceuticals,76
+31,Ford Motor,155900,"10,015",Tech,61
+32,Cigna,153566,"209,000",Tech,65
+33,Costco Wholesale,152703,"164,000",Tech,27
+34,AXA,148984,"397,800",Tech,10
+35,Agricultural Bank of China,147313,"145,000",Oil,4
+36,Chevron,146516,"65,664",Professional Services,56
+37,Cardinal Health,145534,"134,000",Oil,12
+38,JPMorgan Chase,142422,"6,165",Oil,12
+39,Honda Motor,137332,"345,000",Oil,52
+40,General Motors,137237,"255,000",Oil,26
+41,Walgreens Boots Alliance,136866,"43,800",Tech,34
+42,Mitsubishi,135940,"95,000",Tech,80
+43,Bank of China,135091,"49,000",Tech,4
+44,Verizon Communications,131868,"346,415",Tech,72
+45,China Life Insurance,131244,"263,000",Tech,29
+46,Allianz,130359,"102,700",Tech,9
+47,Microsoft,125843,98000,Tech,40
+48,Marathon Petroleum,124813,"31,300",Retail,82
+49,Huawei Investment & Holding,124316,"47,950",Retail,80
+50,China Railway Engineering Group,123324,"357,000",Retail,79
+51,Kroger,122286,"204,700",Retail,66
+52,SAIC Motor,122071,"49,705",Retail,37
+53,Fannie Mae,120304,"273,000",Retail,20
+54,China Railway Construction,120302,"66,500",Retail,79
+55,Gazprom,118009,"199,000",Retail,46
+56,BMW Group,116638,"45,900",Legal,75
+57,Lukoil,114621,"90,200",Legal,80
+58,Bank of America,113589,"49,000",Legal,17
+59,Home Depot,110225,"100,000",Legal,83
+60,Japan Post Holdings,109915,"49,800",Legal,74
+61,Phillips 66,109559,"33,700",Legal,16
+62,Nippon Telegraph and Telephone,109448,"72,900",Legal,83
+63,Comcast,108942,221491,Legal,77
+64,China National Offshore Oil,108687,"29,486",Legal,18
+65,China Mobile Communications,108527,"98,400",Legal,26
+66,Assicurazioni Generali,105921,"33,135",Legal,9
+67,Crédit Agricole,104972,"57,633",Professional Services,51
+68,Anthem,104213,"50,000",Professional Services,52
+69,Wells Fargo,103915,"11,114",Professional Services,49
+70,Citigroup,103449,"36,600",Professional Services,31
+71,Valero Energy,102729,"126,600",Professional Services,25
+72,Itochu,100522,"125,000",Professional Services,78
+73,HSBC Holdings,98673,"46,000",Professional Services,80
+74,Siemens,97937,"94,800",Professional Services,3
+75,Pacific Construction Group,97536,"86,564",Professional Services,51
+76,Rosneft Oil,96313,"25,105",Professional Services,61
+77,General Electric,95214,"131,000",Professional Services,21
+78,China Communications Construction,95096,"69,000",Tech,17
+79,China Resources,94758,"42,680",Tech,75
+80,Prudential,93736,"122,000",Professional Services,61
+81,Dell Technologies,92154,"89,800",Professional Services,61
+82,Nestlé,92107,"138,000",Professional Services,33
+83,Nissan Motor,90863,"14,000",Professional Services,82
+84,Hyundai Motor,90740,"16,829",Professional Services,54
+85,Legal & General Group,90615,"249,000",Retail,51
+86,Deutsche Telekom,90135,"55,000",Retail,3
+87,Enel,89907,"61,800",Retail,67
+88,Aviva,89647,"193,000",Retail,51
+89,China FAW Group,89417,"74,400",Retail,59
+90,China Post Group,89347,14300,Retail,12
+91,Amer International Group,88862,"5,000",Retail,4
+92,China Minmetals,88357,"34,621",Retail,57
+93,Banco Santander,88257,"11,811",Retail,39
+94,SoftBank Group,87440,"70,430",Retail,44
+95,Bosch Group,86990,"11,400",Retail,20
+96,Reliance Industries,86270,"11,626",Retail,15
+97,SK Holdings,86163,"91,536",Retail,58
+98,Carrefour,85905,"26,000",Retail,6
+99,BNP Paribas,85058,"98,600",Retail,7
+100,Dongfeng Motor,84049,"32,705",Retail,11
+101,Peugeot,83643,"49,300",Unknown,56
+102,JD.com,83505,"60,476",Unknown,83
+103,Tesco,82700,"1,607",Unknown,9
+104,Johnson & Johnson,82059,"5,437",Unknown,31
+105,China Southern Power Grid,81978,"7,000",Unknown,51
+106,Hitachi,80639,"30,800",Unknown,22
+107,Hengli Group,80588,"66,000",Unknown,22
+108,China Energy Investment,80498,"80,600",Unknown,24
+109,Sinochem Group,80376,"21,700",Unknown,30
+110,Electricité de France,80278,"29,000",Unknown,81
+111,China Baowu Steel Group,79932,"99,000",Unknown,43
+112,People's Insurance Co. of China,79788,"33,656",Unknown,34
+113,ENI,79513,"18,800",Unknown,58
+114,State Farm Insurance,79395,"39,000",Unknown,20
+115,AEON,78930,"4,850",Unknown,23
+116,Airbus,78883,"10,000",Unknown,15
+117,Target,78112,"83,000",Unknown,57
+118,International Business Machines,77147,"70,000",Unknown,15
+119,Raytheon Technologies,77046,"64,000",Unknown,38
+120,Petrobras,76589,"130,000",Unknown,82
+121,Boeing,76559,"25,204",Unknown,58
+122,Sony,75972,"72,402",Unknown,23
+123,ENEOS Holdings,75897,"129,000",Unknown,16
+124,Aegon,75344,"56,000",Unknown,42
+125,Freddie Mac,75125,"29,060",Unknown,19
+126,CITIC Group,75115,"31,344",Unknown,79
+127,Centene,74639,"177,000",Unknown,28
+128,Royal Ahold Delhaize,74162,"15,700",Unknown,14
+129,UPS,74094,"40,655",Unknown,22
+130,Nippon Life Insurance,74048,"20,800",Unknown,9
+131,Uniper,73652,"235,000",Unknown,40
+132,Alibaba,73166,"277,000",Unknown,6
+133,Pemex,72820,"33,800",Unknown,19
+134,Beijing Automotive Group,72554,"116,200",Unknown,52
+135,Munich Re Group,72537,"3,165",Unknown,44
+136,COFCO,72149,"89,034",Unknown,56
+137,Lowe's,72148,"11,318",Unknown,36
+138,Intel,71965,"26,000",Unknown,30
+139,Zurich Insurance Group,71792,"26,000",Unknown,31
+140,PTT,71502,"92,000",Unknown,7
+141,U.S. Postal Service,71154,"41,992",Unknown,29
+142,Deutsche Post DHL Group,70895,"56,110",Unknown,83
+143,BASF,70723,"29,000",Unknown,59
+144,Facebook,70697,"66,100",Unknown,32
+145,Sinopharm,70690,"23,700",Unknown,52
+146,ArcelorMittal,70615,"55,000",Unknown,47
+147,Country Garden Holdings,70335,"111,980",Unknown,43
+148,FedEx,69693,"165,000",Unknown,42
+149,MetLife,69620,"58,600",Unknown,6
+150,Walt Disney,69570,"34,100",Unknown,47
+151,Indian Oil,69246,"25,100",Unknown,49
+152,China Evergrande Group,69127,"20,000",Unknown,81
+153,Panasonic,68897,"56,706",Unknown,78
+154,China North Industries Group,68714,"8,300",Unknown,32
+155,Brookfield Asset Management,67826,"25,000",Unknown,53
+156,Procter & Gamble,67684,"16,400",Unknown,83
+157,PowerChina,67371,"85,000",Unknown,45
+158,China Telecommunications,67365,"67,629",Unknown,23
+159,Engie,67220,170000,Unknown,13
+160,PepsiCo,67161,"86,000",Unknown,57
+161,Mitsubishi UFJ Financial Group,67135,"15,000",Unknown,33
+162,Bank of Communications,66564,"67,000",Unknown,61
+163,Aviation Industry Corp. of China,65909,"42,000",Unknown,64
+164,ChemChina,65767,"87,000",Unknown,42
+165,Dai-ichi Life Holdings,65434,"51,632",Unknown,9
+166,Humana,64888,"51,000",Unknown,64
+167,Prudential Financial,64807,"14,000",Unknown,47
+168,Archer Daniels Midland,64656,"23,000",Unknown,66
+169,Equinor,64357,"113,600",Unknown,15
+170,Lloyds Banking Group,64297,"8,900",Unknown,71
+171,Roche Group,63434,"14,000",Unknown,79
+172,Mitsui,63327,"89,000",Unknown,69
+173,Marubeni,62799,"16,000",Unknown,4
+174,Albertsons,62455,"24,344",Unknown,26
+175,Renault,62160,52500,Unknown,15
+176,Greenland Holding Group,61965,"25,200",Unknown,73
+177,Toyota Tsusho,61570,"48,000",Unknown,82
+178,Seven & I Holdings,60952,"76,500",Unknown,12
+179,Sysco,60114,"74,500",Unknown,41
+180,Christian Dior,60071,"29,000",Unknown,6
+181,Manulife Financial,59969,"135,000",Unknown,67
+182,Lockheed Martin,59812,"38,000",Unknown,23
+183,Alimentation Couche-Tard,59118,"76,000",Unknown,7
+184,HP,58756,"35,900",Unknown,34
+185,Unilever,58179,"17,666",Unknown,62
+186,Petronas,58027,"95,000",Unknown,64
+187,China National Building Material Group,57626,"64,000",Unknown,23
+188,Tokyo Electric Power,57407,"77,300",Unknown,35
+189,China Merchants Bank,57252,"8,726",Unknown,32
+190,Oil & Natural Gas,57171,"52,695",Unknown,29
+191,China Poly Group,57147,"47,200",Unknown,29
+192,Société Générale,56852,"29,714",Unknown,46
+193,China Pacific Insurance (Group),55800,"15,074",Unknown,18
+194,POSCO,55592,"44,800",Unknown,35
+195,Vinci,54788,"260,000",Unknown,71
+196,Auchan Holding,54672,"49,000",Unknown,74
+197,Tencent Holdings,54613,"14,715",Unknown,78
+198,Nippon Steel Corporation,54465,"57,750",Unknown,9
+199,CNP Assurances,54365,"21,900",Unknown,65
+200,Energy Transfer,Unknown,"215,000",Unknown,79
