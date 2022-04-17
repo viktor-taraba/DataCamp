@@ -1,0 +1,201 @@
+﻿Rank,Company,Revenue
+1,Walmart,523964
+2,Sinopec Group,407009
+3,State Grid,383906
+4,China National Petroleum,379130
+5,Royal Dutch Shell,352106
+6,Saudi Aramco,329784
+7,Volkswagen,282760
+8,BP,282616
+9,Amazon.com,280522
+10,Toyota Motor,275288
+11,Exxon Mobil,264938
+12,Apple,260174
+13,CVS Health,256776
+14,Berkshire Hathaway,254616
+15,UnitedHealth Group,242155
+16,McKesson,231051
+17,Glencore,215111
+18,China State Construction Engineering,205839
+19,Samsung Electronics,197705
+20,Daimler,193346
+21,Ping An Insurance,184280
+22,AT&T,181193
+23,AmerisourceBergen,179589
+24,Industrial & Commercial Bank of China,177069
+25,Total,176249
+26,Hon Hai Precision Industry,172869
+27,Trafigura Group,171474
+28,EXOR Group,162754
+29,Alphabet,161857
+30,China Construction Bank,158884
+31,Ford Motor,155900
+32,Cigna,153566
+33,Costco Wholesale,152703
+34,AXA,148984
+35,Agricultural Bank of China,147313
+36,Chevron,146516
+37,Cardinal Health,145534
+38,JPMorgan Chase,142422
+39,Honda Motor,137332
+40,General Motors,137237
+41,Walgreens Boots Alliance,136866
+42,Mitsubishi,135940
+43,Bank of China,135091
+44,Verizon Communications,131868
+45,China Life Insurance,131244
+46,Allianz,130359
+47,Microsoft,125843
+48,Marathon Petroleum,124813
+49,Huawei Investment & Holding,124316
+50,China Railway Engineering Group,123324
+51,Kroger,122286
+52,SAIC Motor,122071
+53,Fannie Mae,120304
+54,China Railway Construction,120302
+55,Gazprom,118009
+56,BMW Group,116638
+57,Lukoil,114621
+58,Bank of America,113589
+59,Home Depot,110225
+60,Japan Post Holdings,109915
+61,Phillips 66,109559
+62,Nippon Telegraph and Telephone,109448
+63,Comcast,108942
+64,China National Offshore Oil,108687
+65,China Mobile Communications,108527
+66,Assicurazioni Generali,105921
+67,Crédit Agricole,104972
+68,Anthem,104213
+69,Wells Fargo,103915
+70,Citigroup,103449
+71,Valero Energy,102729
+72,Itochu,100522
+73,HSBC Holdings,98673
+74,Siemens,97937
+75,Pacific Construction Group,97536
+76,Rosneft Oil,96313
+77,General Electric,95214
+78,China Communications Construction,95096
+79,China Resources,94758
+80,Prudential,93736
+81,Dell Technologies,92154
+82,Nestlé,92107
+83,Nissan Motor,90863
+84,Hyundai Motor,90740
+85,Legal & General Group,90615
+86,Deutsche Telekom,90135
+87,Enel,89907
+88,Aviva,89647
+89,China FAW Group,89417
+90,China Post Group,89347
+91,Amer International Group,88862
+92,China Minmetals,88357
+93,Banco Santander,88257
+94,SoftBank Group,87440
+95,Bosch Group,86990
+96,Reliance Industries,86270
+97,SK Holdings,86163
+98,Carrefour,85905
+99,BNP Paribas,85058
+100,Dongfeng Motor,84049
+101,Peugeot,83643
+102,JD.com,83505
+103,Tesco,82700
+104,Johnson & Johnson,82059
+105,China Southern Power Grid,81978
+106,Hitachi,80639
+107,Hengli Group,80588
+108,China Energy Investment,80498
+109,Sinochem Group,80376
+110,Electricité de France,80278
+111,China Baowu Steel Group,79932
+112,People's Insurance Co. of China,79788
+113,ENI,79513
+114,State Farm Insurance,79395
+115,AEON,78930
+116,Airbus,78883
+117,Target,78112
+118,International Business Machines,77147
+119,Raytheon Technologies,77046
+120,Petrobras,76589
+121,Boeing,76559
+122,Sony,75972
+123,ENEOS Holdings,75897
+124,Aegon,75344
+125,Freddie Mac,75125
+126,CITIC Group,75115
+127,Centene,74639
+128,Royal Ahold Delhaize,74162
+129,UPS,74094
+130,Nippon Life Insurance,74048
+131,Uniper,73652
+132,Alibaba,73166
+133,Pemex,72820
+134,Beijing Automotive Group,72554
+135,Munich Re Group,72537
+136,COFCO,72149
+137,Lowe's,72148
+138,Intel,71965
+139,Zurich Insurance Group,71792
+140,PTT,71502
+141,U.S. Postal Service,71154
+142,Deutsche Post DHL Group,70895
+143,BASF,70723
+144,Facebook,70697
+145,Sinopharm,70690
+146,ArcelorMittal,70615
+147,Country Garden Holdings,70335
+148,FedEx,69693
+149,MetLife,69620
+150,Walt Disney,69570
+151,Indian Oil,69246
+152,China Evergrande Group,69127
+153,Panasonic,68897
+154,China North Industries Group,68714
+155,Brookfield Asset Management,67826
+156,Procter & Gamble,67684
+157,PowerChina,67371
+158,China Telecommunications,67365
+159,Engie,67220
+160,PepsiCo,67161
+161,Mitsubishi UFJ Financial Group,67135
+162,Bank of Communications,66564
+163,Aviation Industry Corp. of China,65909
+164,ChemChina,65767
+165,Dai-ichi Life Holdings,65434
+166,Humana,64888
+167,Prudential Financial,64807
+168,Archer Daniels Midland,64656
+169,Equinor,64357
+170,Lloyds Banking Group,64297
+171,Roche Group,63434
+172,Mitsui,63327
+173,Marubeni,62799
+174,Albertsons,62455
+175,Renault,62160
+176,Greenland Holding Group,61965
+177,Toyota Tsusho,61570
+178,Seven & I Holdings,60952
+179,Sysco,60114
+180,Christian Dior,60071
+181,Manulife Financial,59969
+182,Lockheed Martin,59812
+183,Alimentation Couche-Tard,59118
+184,HP,58756
+185,Unilever,58179
+186,Petronas,58027
+187,China National Building Material Group,57626
+188,Tokyo Electric Power,57407
+189,China Merchants Bank,57252
+190,Oil & Natural Gas,57171
+191,China Poly Group,57147
+192,Société Générale,56852
+193,China Pacific Insurance (Group),55800
+194,POSCO,55592
+195,Vinci,54788
+196,Auchan Holding,54672
+197,Tencent Holdings,54613
+198,Nippon Steel Corporation,54465
+199,CNP Assurances,54365
+200,Energy Transfer,
