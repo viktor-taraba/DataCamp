@@ -1,16 +1,16 @@
-# **Transactions and Error Handling in PostgreSQL**
+# **Web Scraping in Python**
 
-Link: https://www.datacamp.com/courses/transactions-and-error-handling-in-postgresql
+Link: https://app.datacamp.com/learn/courses/web-scraping-with-python
 
 ## **Course Description**
 
-Being able to leverage transactions and find and handle errors is critical to building resilient SQL scripts and working with databases. Transactions provide the protection needed to ensure that your data is consistent and operations work on the desired data in concurrent environments. Improper error handling can cause many serious and unexpected issues. Without the proper use of transactions and error handling, it's possible to make decisions based on incorrect data leading to false outcomes. In this course, we'll cover proper ways to use transactions and handle errors with a record of what went wrong. Additionally, we discuss how concurrently plays into the use of transactions and data outcomes. We'll practice these concepts on the FFEIC bank health data and with a patient data table.
+The ability to build tools capable of retrieving and parsing information stored across the internet has been and continues to be valuable in many veins of data science. In this course, you will learn to navigate and parse html code, and build tools to crawl websites automatically. Although our scraping will be conducted using the versatile Python library scrapy, many of the techniques you learn in this course can be applied to other popular Python libraries as well, including BeautifulSoup and Selenium. Upon the completion of this course, you will have a strong mental model of html structure, will be able to build tools to parse html code and access desired information, and create a simple scrapy spiders to crawl the web at scale.
 
 ## **Course Structure**
 
 | № | Module | Description |
 | - | - | - |
-| 1 | Getting to know transactions | This chapter focuses on learning about single and multistatement transactions and the read committed isolation level |
-| 2 | Rolling back and Savepoints | How to rollback when an error is encountered in a transaction block and setting savepoints |
-| 3 | Handling exceptions | In this chapter, you'll learn about exceptions and how to handle them |
-| 4 | Stacked Diagnostics | With stacked diagnostics, you can get all the information available from PostgreSQL about an exception |
+| 1 | Introduction to HTML | Learn the structure of HTML. We begin by explaining why web scraping can be a valuable addition to your data science toolbox and then delving into some basics of HTML. We end the chapter by giving a brief introduction on XPath notation, which is used to navigate the elements within HTML code |
+| 2 | XPaths and Selectors | Leverage XPath syntax to explore scrapy selectors. Both of these concepts will move you towards being able to scrape an HTML document |
+| 3 | CSS Locators, Chaining, and Responses | Learn CSS Locator syntax and begin playing with the idea of chaining together CSS Locators with XPath. We also introduce Response objects, which behave like Selectors but give us extra tools to mobilize our scraping efforts across multiple websites |
+| 4 | Spiders | Learn to create web crawlers with scrapy. These scrapy spiders will crawl the web through multiple pages, following links to scrape each of those pages automatically according to the procedures we've learned in the previous chapters |
