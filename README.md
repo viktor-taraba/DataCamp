@@ -10,6 +10,9 @@
 | 6 | [Transactions and Error Handling in PostgreSQL](https://github.com/Viktor-T-2001/DataCamp/tree/master/Transactions%20and%20Error%20Handling%20in%20PostgreSQL) | Done |
 | 7 | [Regular Expressions in Python](https://github.com/Viktor-T-2001/DataCamp/tree/master/Regular%20Expressions%20in%20Python) | Done |
 | 8 | [Introduction to DAX in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Introduction%20to%20DAX%20in%20Power%20BI) | Done |
+| 9 | [Data Modeling in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Data%20Modeling%20in%20Power%20BI) | Done |
+| 10 | Reshaping Data with pandas | In progress |
+| 11 | DAX Functions in Power BI | In progress |
 
 ## Datacamp Projects ##
 
