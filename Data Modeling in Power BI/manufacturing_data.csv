@@ -1,0 +1,799 @@
+GEO_ID,NAME,GEO_ID_F,NAICS2017,INDGROUP,NAICS2017_F,NAICS2017_LABEL,SECTOR,SUBSECTOR,INDLEVEL,YEAR,RCPTOT,RCPTOT_S,PAYANN,PAYQTR1,EMP,EMPQ1PW,PAYANN_IMP,EMP_IMP
+id,Geographic Area Name,Geo Footnote,2017 NAICS code,Industry group,2017 NAICS Footnote,Meaning of NAICS code,NAICS economic sector ,SUBSECTOR,Industry level,Year,"Sales, value of shipments, or revenue ($1,000)","Relative standard error for estimate of sales, value of shipments, or revenue (%)","Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of employees,Production workers for pay period including March 12,Range indicating percent of total annual payroll imputed,Range indicating percent of total employees imputed
+0400000US01,Alabama,null,31-33,null,null,Manufacturing,31,null,2,2018,137578434,0.21,13356360,3319728,249562,190899,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,31-33,null,null,Manufacturing,31,null,2,2019,135383425,0.33,13920285,3422998,251083,191552,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,311,null,null,Food manufacturing,31,311,3,2018,11712369,0.60,1057614,270682,30322,25840,30% to less than 40%,30% to less than 40%
+0400000US01,Alabama,null,311,null,null,Food manufacturing,31,311,3,2019,11867099,0.62,1162584,298981,33222,28311,30% to less than 40%,40% to less than 50%
+0400000US01,Alabama,null,3111,3111,null,Animal food manufacturing,31,311,4,2018,1292176,1.8,65603,16091,1151,813,30% to less than 40%,40% to less than 50%
+0400000US01,Alabama,null,3111,3111,null,Animal food manufacturing,31,311,4,2019,1298591,0.1,67024,16425,1169,911,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,3112,3112,null,Grain and oilseed milling,31,311,4,2018,2086783,0,56071,12816,882,697,10% to less than 20%,Less than 10%
+0400000US01,Alabama,null,3112,3112,null,Grain and oilseed milling,31,311,4,2019,1854511,0,55389,13842,875,672,40% to less than 50%,30% to less than 40%
+0400000US01,Alabama,null,3113,3113,null,Sugar and confectionery product manufacturing,31,311,4,2018,99491,0,14915,3368,252,186,70% to less than 80%,60% to less than 70%
+0400000US01,Alabama,null,3113,3113,null,Sugar and confectionery product manufacturing,31,311,4,2019,92003,0,0,0,169,0,90% to 100%,90% to 100%
+0400000US01,Alabama,null,3114,3114,null,Fruit and vegetable preserving and specialty food manufacturing,31,311,4,2018,10648,0,1302,312,18,10,Less than 10%,90% to 100%
+0400000US01,Alabama,null,3114,3114,null,Fruit and vegetable preserving and specialty food manufacturing,31,311,4,2019,11097,0,0,0,16,0,Less than 10%,90% to 100%
+0400000US01,Alabama,null,3115,3115,null,Dairy product manufacturing,31,311,4,2018,475328,0,50659,12714,1063,617,60% to less than 70%,40% to less than 50%
+0400000US01,Alabama,null,3115,3115,null,Dairy product manufacturing,31,311,4,2019,454791,0,49926,12239,1077,676,50% to less than 60%,40% to less than 50%
+0400000US01,Alabama,null,3116,3116,null,Animal slaughtering and processing,31,311,4,2018,6165041,1,691253,175136,22950,20613,40% to less than 50%,40% to less than 50%
+0400000US01,Alabama,null,3116,3116,null,Animal slaughtering and processing,31,311,4,2019,6644505,0.8,769198,194308,24419,22233,30% to less than 40%,40% to less than 50%
+0400000US01,Alabama,null,3117,3117,null,Seafood product preparation and packaging,31,311,4,2018,201180,0,31271,7472,943,797,Less than 10%,20% to less than 30%
+0400000US01,Alabama,null,3117,3117,null,Seafood product preparation and packaging,31,311,4,2019,207251,17.6,0,0,2399,1487,Less than 10%,Less than 10%
+0400000US01,Alabama,null,3118,3118,null,Bakeries and tortilla manufacturing,31,311,4,2018,442148,7.2,62093,17109,1399,1052,10% to less than 20%,30% to less than 40%
+0400000US01,Alabama,null,3118,3118,null,Bakeries and tortilla manufacturing,31,311,4,2019,420703,1.8,58452,14267,1298,977,Less than 10%,20% to less than 30%
+0400000US01,Alabama,null,3119,3119,null,Other food manufacturing,31,311,4,2018,939574,2.3,84447,25663,1664,1055,30% to less than 40%,30% to less than 40%
+0400000US01,Alabama,null,3119,3119,null,Other food manufacturing,31,311,4,2019,883647,1.7,91495,23300,1800,1233,80% to less than 90%,80% to less than 90%
+0400000US01,Alabama,null,312,null,null,Beverage and tobacco product manufacturing,31,312,3,2018,870172,4.4,169477,43868,2145,1279,70% to less than 80%,70% to less than 80%
+0400000US01,Alabama,null,312,null,null,Beverage and tobacco product manufacturing,31,312,3,2019,765420,4.2,125600,31677,1883,1153,60% to less than 70%,60% to less than 70%
+0400000US01,Alabama,null,3121,3121,null,Beverage manufacturing,31,312,4,2018,0,0,0,0,1500,0,80% to less than 90%,70% to less than 80%
+0400000US01,Alabama,null,3121,3121,null,Beverage manufacturing,31,312,4,2019,0,0,0,0,1500,0,60% to less than 70%,70% to less than 80%
+0400000US01,Alabama,null,3122,3122,null,Tobacco manufacturing,31,312,4,2018,0,0,0,0,150,0,Less than 10%,Less than 10%
+0400000US01,Alabama,null,3122,3122,null,Tobacco manufacturing,31,312,4,2019,0,0,0,0,150,0,Less than 10%,Less than 10%
+0400000US01,Alabama,null,313,null,null,Textile mills,31,313,3,2018,513197,0,66987,17673,1845,1583,Less than 10%,30% to less than 40%
+0400000US01,Alabama,null,313,null,null,Textile mills,31,313,3,2019,487244,0,63619,17828,1706,1453,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,3131,3131,null,"Fiber, yarn, and thread mills",31,313,4,2018,275151,0,25344,6430,843,766,Less than 10%,50% to less than 60%
+0400000US01,Alabama,null,3131,3131,null,"Fiber, yarn, and thread mills",31,313,4,2019,253109,0,22079,5538,745,672,50% to less than 60%,50% to less than 60%
+0400000US01,Alabama,null,3132,3132,null,Fabric mills,31,313,4,2018,227619,0,38814,10667,930,761,Less than 10%,Less than 10%
+0400000US01,Alabama,null,3132,3132,null,Fabric mills,31,313,4,2019,222266,0,38279,11519,884,720,Less than 10%,Less than 10%
+0400000US01,Alabama,null,3133,3133,null,Textile and fabric finishing and fabric coating mills,31,313,4,2018,10427,0,2829,576,72,56,Less than 10%,90% to 100%
+0400000US01,Alabama,null,3133,3133,null,Textile and fabric finishing and fabric coating mills,31,313,4,2019,11869,0,3261,771,77,61,Less than 10%,90% to 100%
+0400000US01,Alabama,null,314,null,null,Textile product mills,31,314,3,2018,889802,0.9,140979,36269,4080,3360,20% to less than 30%,40% to less than 50%
+0400000US01,Alabama,null,314,null,null,Textile product mills,31,314,3,2019,931309,2.7,155914,38549,4241,3336,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,3141,3141,null,Textile furnishings mills,31,314,4,2018,566284,1.3,97288,24669,2769,2283,10% to less than 20%,20% to less than 30%
+0400000US01,Alabama,null,3141,3141,null,Textile furnishings mills,31,314,4,2019,549440,2.8,104417,27439,3045,2484,10% to less than 20%,10% to less than 20%
+0400000US01,Alabama,null,3149,3149,null,Other textile product mills,31,314,4,2018,323518,0.3,43691,11600,1311,1077,60% to less than 70%,90% to 100%
+0400000US01,Alabama,null,3149,3149,null,Other textile product mills,31,314,4,2019,381869,5.2,51497,11110,1196,852,50% to less than 60%,60% to less than 70%
+0400000US01,Alabama,null,315,null,null,Apparel manufacturing,31,315,3,2018,191693,1.8,52413,12636,2116,1839,10% to less than 20%,30% to less than 40%
+0400000US01,Alabama,null,315,null,null,Apparel manufacturing,31,315,3,2019,200038,1.6,49382,11531,2043,1765,30% to less than 40%,50% to less than 60%
+0400000US01,Alabama,null,3151,3151,null,Apparel knitting mills,31,315,4,2018,103714,3.3,28534,6594,1148,1065,Less than 10%,20% to less than 30%
+0400000US01,Alabama,null,3151,3151,null,Apparel knitting mills,31,315,4,2019,117686,0,29432,6774,1185,1090,50% to less than 60%,80% to less than 90%
+0400000US01,Alabama,null,3152,3152,null,Cut and sew apparel manufacturing,31,315,4,2018,0,0,0,0,750,0,40% to less than 50%,40% to less than 50%
+0400000US01,Alabama,null,3152,3152,null,Cut and sew apparel manufacturing,31,315,4,2019,0,0,0,0,750,0,Less than 10%,20% to less than 30%
+0400000US01,Alabama,null,3159,3159,null,Apparel accessories and other apparel manufacturing,31,315,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US01,Alabama,null,3159,3159,null,Apparel accessories and other apparel manufacturing,31,315,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US01,Alabama,null,316,null,null,Leather and allied product manufacturing,31,316,3,2018,6574,0,1958,454,60,46,Less than 10%,90% to 100%
+0400000US01,Alabama,null,316,null,null,Leather and allied product manufacturing,31,316,3,2019,7171,0,2645,661,61,48,Less than 10%,90% to 100%
+0400000US01,Alabama,null,3169,3169,null,Other leather and allied product manufacturing,31,316,4,2018,6574,0,1958,454,60,46,Less than 10%,90% to 100%
+0400000US01,Alabama,null,3169,3169,null,Other leather and allied product manufacturing,31,316,4,2019,7171,0,2645,661,61,48,Less than 10%,90% to 100%
+0400000US01,Alabama,null,321,null,null,Wood product manufacturing,31,321,3,2018,4820314,0.7,674619,158080,15567,13107,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,321,null,null,Wood product manufacturing,31,321,3,2019,4381534,1,650068,152995,14093,11859,10% to less than 20%,30% to less than 40%
+0400000US01,Alabama,null,3211,3211,null,Sawmills and wood preservation,31,321,4,2018,2072684,1.2,267374,62123,5227,4511,30% to less than 40%,30% to less than 40%
+0400000US01,Alabama,null,3211,3211,null,Sawmills and wood preservation,31,321,4,2019,1936775,1.6,272559,65293,5246,4412,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,3212,3212,null,"Veneer, plywood, and engineered wood product manufacturing",31,321,4,2018,877668,1.4,125451,29137,2570,2185,30% to less than 40%,40% to less than 50%
+0400000US01,Alabama,null,3212,3212,null,"Veneer, plywood, and engineered wood product manufacturing",31,321,4,2019,841543,0.8,109270,25629,2111,1759,10% to less than 20%,30% to less than 40%
+0400000US01,Alabama,null,3219,3219,null,Other wood product manufacturing,31,321,4,2018,1869962,1.2,281794,66821,7770,6411,10% to less than 20%,30% to less than 40%
+0400000US01,Alabama,null,3219,3219,null,Other wood product manufacturing,31,321,4,2019,1603216,1.9,268239,62073,6737,5688,10% to less than 20%,30% to less than 40%
+0400000US01,Alabama,null,322,null,null,Paper manufacturing,31,322,3,2018,8680280,1.8,830605,225048,10526,8253,Less than 10%,Less than 10%
+0400000US01,Alabama,null,322,null,null,Paper manufacturing,31,322,3,2019,8479758,4,874805,220864,10805,8244,Less than 10%,Less than 10%
+0400000US01,Alabama,null,3221,3221,null,"Pulp, paper, and paperboard mills",31,322,4,2018,6703055,0,632199,160213,7163,5652,Less than 10%,Less than 10%
+0400000US01,Alabama,null,3221,3221,null,"Pulp, paper, and paperboard mills",31,322,4,2019,6287440,0,683003,174339,7506,5697,Less than 10%,Less than 10%
+0400000US01,Alabama,null,3222,3222,null,Converted paper product manufacturing,31,322,4,2018,1977225,8,198406,64835,3363,2601,Less than 10%,10% to less than 20%
+0400000US01,Alabama,null,3222,3222,null,Converted paper product manufacturing,31,322,4,2019,2192318,15.5,191802,46525,3299,2547,10% to less than 20%,20% to less than 30%
+0400000US01,Alabama,null,323,null,null,Printing and related support activities,31,323,3,2018,263470,56.6,86925,20763,2310,1972,10% to less than 20%,40% to less than 50%
+0400000US01,Alabama,null,323,null,null,Printing and related support activities,31,323,3,2019,417944,4.6,121879,28955,2784,2098,20% to less than 30%,60% to less than 70%
+0400000US01,Alabama,null,3231,3231,null,Printing and related support activities,31,323,4,2018,263470,56.6,86925,20763,2310,1972,10% to less than 20%,40% to less than 50%
+0400000US01,Alabama,null,3231,3231,null,Printing and related support activities,31,323,4,2019,417944,4.6,121879,28955,2784,2098,20% to less than 30%,60% to less than 70%
+0400000US01,Alabama,null,324,null,null,Petroleum and coal products manufacturing,31,324,3,2018,6227008,0.4,163081,45087,2086,1449,20% to less than 30%,10% to less than 20%
+0400000US01,Alabama,null,324,null,null,Petroleum and coal products manufacturing,31,324,3,2019,5566796,0.1,177554,50623,2162,1472,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,3241,3241,null,Petroleum and coal products manufacturing,31,324,4,2018,6227008,0.4,163081,45087,2086,1449,20% to less than 30%,10% to less than 20%
+0400000US01,Alabama,null,3241,3241,null,Petroleum and coal products manufacturing,31,324,4,2019,5566796,0.1,177554,50623,2162,1472,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,325,null,null,Chemical manufacturing,31,325,3,2018,12044801,0.1,975642,254942,13144,9105,40% to less than 50%,40% to less than 50%
+0400000US01,Alabama,null,325,null,null,Chemical manufacturing,31,325,3,2019,11291036,0.4,1012749,262446,13256,9122,40% to less than 50%,40% to less than 50%
+0400000US01,Alabama,null,3251,3251,null,Basic chemical manufacturing,31,325,4,2018,5302242,0.2,384962,98773,3933,2563,30% to less than 40%,40% to less than 50%
+0400000US01,Alabama,null,3251,3251,null,Basic chemical manufacturing,31,325,4,2019,4720788,0.8,380238,99444,3616,2353,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,3252,3252,null,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",31,325,4,2018,4371284,0.1,347446,95360,5342,3938,40% to less than 50%,30% to less than 40%
+0400000US01,Alabama,null,3252,3252,null,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",31,325,4,2019,3951006,0.1,353755,90755,5215,3842,50% to less than 60%,50% to less than 60%
+0400000US01,Alabama,null,3253,3253,null,"Pesticide, fertilizer, and other agricultural chemical manufacturing",31,325,4,2018,559060,1.1,51829,12875,796,501,50% to less than 60%,30% to less than 40%
+0400000US01,Alabama,null,3253,3253,null,"Pesticide, fertilizer, and other agricultural chemical manufacturing",31,325,4,2019,778031,1.1,72702,19655,1027,676,50% to less than 60%,50% to less than 60%
+0400000US01,Alabama,null,3254,3254,null,Pharmaceutical and medicine manufacturing,31,325,4,2018,425076,0,73202,17657,997,569,60% to less than 70%,30% to less than 40%
+0400000US01,Alabama,null,3254,3254,null,Pharmaceutical and medicine manufacturing,31,325,4,2019,410324,0,75727,19812,1048,688,60% to less than 70%,70% to less than 80%
+0400000US01,Alabama,null,3255,3255,null,"Paint, coating, and adhesive manufacturing",31,325,4,2018,694188,0.9,64579,17338,1019,704,30% to less than 40%,40% to less than 50%
+0400000US01,Alabama,null,3255,3255,null,"Paint, coating, and adhesive manufacturing",31,325,4,2019,758331,1.9,73869,18802,1176,643,30% to less than 40%,40% to less than 50%
+0400000US01,Alabama,null,3256,3256,null,"Soap, cleaning compound, and toilet preparation manufacturing",31,325,4,2018,109723,0,13904,3587,350,316,Less than 10%,60% to less than 70%
+0400000US01,Alabama,null,3256,3256,null,"Soap, cleaning compound, and toilet preparation manufacturing",31,325,4,2019,120310,0,14235,3974,317,271,Less than 10%,50% to less than 60%
+0400000US01,Alabama,null,3259,3259,null,Other chemical product and preparation manufacturing,31,325,4,2018,583228,0.1,39719,9353,707,514,20% to less than 30%,40% to less than 50%
+0400000US01,Alabama,null,3259,3259,null,Other chemical product and preparation manufacturing,31,325,4,2019,552246,0,42223,10005,857,649,30% to less than 40%,40% to less than 50%
+0400000US01,Alabama,null,326,null,null,Plastics and rubber products manufacturing,31,326,3,2018,5732732,0.4,920373,230381,19177,15865,30% to less than 40%,30% to less than 40%
+0400000US01,Alabama,null,326,null,null,Plastics and rubber products manufacturing,31,326,3,2019,5807266,0.6,984010,231180,19375,15812,20% to less than 30%,40% to less than 50%
+0400000US01,Alabama,null,3261,3261,null,Plastics product manufacturing,31,326,4,2018,3790755,0.6,603568,151186,13131,10868,30% to less than 40%,50% to less than 60%
+0400000US01,Alabama,null,3261,3261,null,Plastics product manufacturing,31,326,4,2019,3965127,0.9,645744,156792,13614,11024,30% to less than 40%,40% to less than 50%
+0400000US01,Alabama,null,3262,3262,null,Rubber product manufacturing,31,326,4,2018,1941978,0.3,316805,79195,6046,4998,30% to less than 40%,10% to less than 20%
+0400000US01,Alabama,null,3262,3262,null,Rubber product manufacturing,31,326,4,2019,1842139,0.3,338265,74388,5761,4787,10% to less than 20%,30% to less than 40%
+0400000US01,Alabama,null,327,null,null,Nonmetallic mineral product manufacturing,31,327,3,2018,2234121,1.4,359672,88326,7217,6022,30% to less than 40%,40% to less than 50%
+0400000US01,Alabama,null,327,null,null,Nonmetallic mineral product manufacturing,31,327,3,2019,2474960,6.7,420304,104216,7142,5831,30% to less than 40%,30% to less than 40%
+0400000US01,Alabama,null,3271,3271,null,Clay product and refractory manufacturing,31,327,4,2018,254884,11.2,54187,14805,1095,892,10% to less than 20%,20% to less than 30%
+0400000US01,Alabama,null,3271,3271,null,Clay product and refractory manufacturing,31,327,4,2019,241660,3.6,56076,14950,1010,802,50% to less than 60%,60% to less than 70%
+0400000US01,Alabama,null,3272,3272,null,Glass and glass product manufacturing,31,327,4,2018,353298,0,54886,14404,1323,1085,60% to less than 70%,60% to less than 70%
+0400000US01,Alabama,null,3272,3272,null,Glass and glass product manufacturing,31,327,4,2019,384310,0,63436,16626,1134,960,50% to less than 60%,Less than 10%
+0400000US01,Alabama,null,3273,3273,null,Cement and concrete product manufacturing,31,327,4,2018,1051253,1,165260,39253,3360,2876,10% to less than 20%,30% to less than 40%
+0400000US01,Alabama,null,3273,3273,null,Cement and concrete product manufacturing,31,327,4,2019,1331310,12.2,205237,49052,3522,2810,30% to less than 40%,40% to less than 50%
+0400000US01,Alabama,null,3274,3274,null,Lime and gypsum product manufacturing,31,327,4,2018,331757,0,37343,9026,436,405,40% to less than 50%,40% to less than 50%
+0400000US01,Alabama,null,3274,3274,null,Lime and gypsum product manufacturing,31,327,4,2019,303825,0,43013,11581,523,448,10% to less than 20%,20% to less than 30%
+0400000US01,Alabama,null,3279,3279,null,Other nonmetallic mineral product manufacturing,31,327,4,2018,242929,0,47997,10838,1004,764,50% to less than 60%,80% to less than 90%
+0400000US01,Alabama,null,3279,3279,null,Other nonmetallic mineral product manufacturing,31,327,4,2019,213855,13.8,52543,12007,953,811,10% to less than 20%,30% to less than 40%
+0400000US01,Alabama,null,331,null,null,Primary metal manufacturing,31,331,3,2018,18117347,0.1,1269588,313594,17894,13505,10% to less than 20%,10% to less than 20%
+0400000US01,Alabama,null,331,null,null,Primary metal manufacturing,31,331,3,2019,16797730,0.2,1304547,321849,17839,13423,10% to less than 20%,20% to less than 30%
+0400000US01,Alabama,null,3311,3311,null,Iron and steel mills and ferroalloy manufacturing,31,331,4,2018,10526962,0,548944,143244,5872,4303,Less than 10%,Less than 10%
+0400000US01,Alabama,null,3311,3311,null,Iron and steel mills and ferroalloy manufacturing,31,331,4,2019,9476558,0,560863,139654,5831,4209,Less than 10%,10% to less than 20%
+0400000US01,Alabama,null,3312,3312,null,Steel product manufacturing from purchased steel,31,331,4,2018,1426909,0.2,92434,23509,1434,1155,10% to less than 20%,10% to less than 20%
+0400000US01,Alabama,null,3312,3312,null,Steel product manufacturing from purchased steel,31,331,4,2019,1451456,0,102462,24283,1598,1288,Less than 10%,10% to less than 20%
+0400000US01,Alabama,null,3313,3313,null,Alumina and aluminum production and processing,31,331,4,2018,2040994,0,145197,33668,2328,1425,Less than 10%,10% to less than 20%
+0400000US01,Alabama,null,3313,3313,null,Alumina and aluminum production and processing,31,331,4,2019,1883291,0,141622,35294,2116,1285,10% to less than 20%,10% to less than 20%
+0400000US01,Alabama,null,3314,3314,null,Nonferrous metal (except aluminum) production and processing,31,331,4,2018,2102651,0,121286,29123,2628,2228,20% to less than 30%,20% to less than 30%
+0400000US01,Alabama,null,3314,3314,null,Nonferrous metal (except aluminum) production and processing,31,331,4,2019,1967788,0,125409,31578,2623,2214,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,3315,3315,null,Foundries,31,331,4,2018,2019830,0.3,361727,84050,5632,4394,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,3315,3315,null,Foundries,31,331,4,2019,2018637,1.5,374191,91040,5671,4427,10% to less than 20%,30% to less than 40%
+0400000US01,Alabama,null,332,null,null,Fabricated metal product manufacturing,31,332,3,2018,6681786,0.7,1248044,305477,23715,17492,10% to less than 20%,30% to less than 40%
+0400000US01,Alabama,null,332,null,null,Fabricated metal product manufacturing,31,332,3,2019,6641285,1.5,1269991,320568,23985,18146,20% to less than 30%,40% to less than 50%
+0400000US01,Alabama,null,3321,3321,null,Forging and stamping,31,332,4,2018,526593,1,84541,22493,1752,1436,30% to less than 40%,50% to less than 60%
+0400000US01,Alabama,null,3321,3321,null,Forging and stamping,31,332,4,2019,463319,1.2,77906,20379,1683,1343,40% to less than 50%,60% to less than 70%
+0400000US01,Alabama,null,3322,3322,null,Cutlery and handtool manufacturing,31,332,4,2018,35474,0,8531,2014,186,157,Less than 10%,40% to less than 50%
+0400000US01,Alabama,null,3322,3322,null,Cutlery and handtool manufacturing,31,332,4,2019,41443,0,10469,2387,211,179,Less than 10%,40% to less than 50%
+0400000US01,Alabama,null,3323,3323,null,Architectural and structural metals manufacturing,31,332,4,2018,2680676,1.5,475561,112139,9238,6635,10% to less than 20%,40% to less than 50%
+0400000US01,Alabama,null,3323,3323,null,Architectural and structural metals manufacturing,31,332,4,2019,2752285,2.9,506544,120217,9760,7412,10% to less than 20%,30% to less than 40%
+0400000US01,Alabama,null,3324,3324,null,"Boiler, tank, and shipping container manufacturing",31,332,4,2018,409168,0.8,61736,15532,1048,820,10% to less than 20%,30% to less than 40%
+0400000US01,Alabama,null,3324,3324,null,"Boiler, tank, and shipping container manufacturing",31,332,4,2019,429896,2.4,64302,17871,1029,803,10% to less than 20%,20% to less than 30%
+0400000US01,Alabama,null,3325,3325,null,Hardware manufacturing,31,332,4,2018,247308,0,26208,6710,695,521,30% to less than 40%,50% to less than 60%
+0400000US01,Alabama,null,3325,3325,null,Hardware manufacturing,31,332,4,2019,249455,0,27424,6568,621,519,30% to less than 40%,60% to less than 70%
+0400000US01,Alabama,null,3326,3326,null,Spring and wire product manufacturing,31,332,4,2018,203083,1.8,25392,6476,508,396,Less than 10%,10% to less than 20%
+0400000US01,Alabama,null,3326,3326,null,Spring and wire product manufacturing,31,332,4,2019,180842,0,22321,5612,453,375,10% to less than 20%,10% to less than 20%
+0400000US01,Alabama,null,3327,3327,null,"Machine shops; turned product; and screw, nut, and bolt manufacturing",31,332,4,2018,985806,1.5,276391,67988,5121,3541,10% to less than 20%,40% to less than 50%
+0400000US01,Alabama,null,3327,3327,null,"Machine shops; turned product; and screw, nut, and bolt manufacturing",31,332,4,2019,989294,4.4,283630,69424,5089,3504,10% to less than 20%,40% to less than 50%
+0400000US01,Alabama,null,3328,3328,null,"Coating, engraving, heat treating, and allied activities",31,332,4,2018,368231,2.9,63215,16769,1307,1079,Less than 10%,20% to less than 30%
+0400000US01,Alabama,null,3328,3328,null,"Coating, engraving, heat treating, and allied activities",31,332,4,2019,383489,4.6,58038,15025,1156,966,20% to less than 30%,40% to less than 50%
+0400000US01,Alabama,null,3329,3329,null,Other fabricated metal product manufacturing,31,332,4,2018,1225447,1.2,226468,55356,3860,2907,10% to less than 20%,20% to less than 30%
+0400000US01,Alabama,null,3329,3329,null,Other fabricated metal product manufacturing,31,332,4,2019,1151262,2.2,219357,63084,3982,3044,50% to less than 60%,50% to less than 60%
+0400000US01,Alabama,null,333,null,null,Machinery manufacturing,31,333,3,2018,3008517,1.4,521693,134465,9309,6430,30% to less than 40%,40% to less than 50%
+0400000US01,Alabama,null,333,null,null,Machinery manufacturing,31,333,3,2019,3156370,2.3,564963,142019,9885,7012,40% to less than 50%,60% to less than 70%
+0400000US01,Alabama,null,3331,3331,null,"Agriculture, construction, and mining machinery manufacturing",31,333,4,2018,258745,0,52239,13300,910,628,50% to less than 60%,80% to less than 90%
+0400000US01,Alabama,null,3331,3331,null,"Agriculture, construction, and mining machinery manufacturing",31,333,4,2019,298572,3.2,51067,12908,988,594,10% to less than 20%,30% to less than 40%
+0400000US01,Alabama,null,3332,3332,null,Industrial machinery manufacturing,31,333,4,2018,127413,16.3,34247,8302,521,348,Less than 10%,40% to less than 50%
+0400000US01,Alabama,null,3332,3332,null,Industrial machinery manufacturing,31,333,4,2019,150033,0.9,33399,8160,533,371,50% to less than 60%,80% to less than 90%
+0400000US01,Alabama,null,3333,3333,null,Commercial and service industry machinery manufacturing,31,333,4,2018,202738,12.9,41367,10865,606,381,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,3333,3333,null,Commercial and service industry machinery manufacturing,31,333,4,2019,211699,0,37869,8984,570,381,30% to less than 40%,70% to less than 80%
+0400000US01,Alabama,null,3334,3334,null,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",31,333,4,2018,475695,0.3,88271,24115,1896,1439,30% to less than 40%,30% to less than 40%
+0400000US01,Alabama,null,3334,3334,null,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",31,333,4,2019,475981,4.3,84847,23631,1680,1293,30% to less than 40%,70% to less than 80%
+0400000US01,Alabama,null,3335,3335,null,Metalworking machinery manufacturing,31,333,4,2018,163813,3.1,49059,11969,948,737,10% to less than 20%,30% to less than 40%
+0400000US01,Alabama,null,3335,3335,null,Metalworking machinery manufacturing,31,333,4,2019,246462,27.5,97347,23689,1851,1675,60% to less than 70%,60% to less than 70%
+0400000US01,Alabama,null,3336,3336,null,"Engine, turbine, and power transmission equipment manufacturing",31,333,4,2018,554807,0,52721,13925,977,736,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,3336,3336,null,"Engine, turbine, and power transmission equipment manufacturing",31,333,4,2019,581457,0,51495,13086,931,710,40% to less than 50%,60% to less than 70%
+0400000US01,Alabama,null,3339,3339,null,Other general purpose machinery manufacturing,31,333,4,2018,1225306,2.2,203788,51989,3450,2161,50% to less than 60%,60% to less than 70%
+0400000US01,Alabama,null,3339,3339,null,Other general purpose machinery manufacturing,31,333,4,2019,1192167,1.1,208939,51560,3333,1988,50% to less than 60%,80% to less than 90%
+0400000US01,Alabama,null,334,null,null,Computer and electronic product manufacturing,31,334,3,2018,2264409,0.7,506513,133266,7138,3225,20% to less than 30%,20% to less than 30%
+0400000US01,Alabama,null,334,null,null,Computer and electronic product manufacturing,31,334,3,2019,2507829,0.7,565445,138799,7699,3201,50% to less than 60%,20% to less than 30%
+0400000US01,Alabama,null,3341,3341,null,Computer and peripheral equipment manufacturing,31,334,4,2018,132531,0,35039,8979,474,166,40% to less than 50%,40% to less than 50%
+0400000US01,Alabama,null,3341,3341,null,Computer and peripheral equipment manufacturing,31,334,4,2019,152196,0,40397,9891,496,174,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,3342,3342,null,Communications equipment manufacturing,31,334,4,2018,0,0,0,0,1500,0,Less than 10%,Less than 10%
+0400000US01,Alabama,null,3342,3342,null,Communications equipment manufacturing,31,334,4,2019,0,0,0,0,1500,0,90% to 100%,Less than 10%
+0400000US01,Alabama,null,3343,3343,null,Audio and video equipment manufacturing,31,334,4,2018,0,0,0,0,150,0,Less than 10%,90% to 100%
+0400000US01,Alabama,null,3343,3343,null,Audio and video equipment manufacturing,31,334,4,2019,0,0,0,0,150,0,Less than 10%,Less than 10%
+0400000US01,Alabama,null,3344,3344,null,Semiconductor and other electronic component manufacturing,31,334,4,2018,473185,3.1,63015,18707,1254,839,Less than 10%,10% to less than 20%
+0400000US01,Alabama,null,3344,3344,null,Semiconductor and other electronic component manufacturing,31,334,4,2019,525660,0.8,95047,22087,1814,941,Less than 10%,70% to less than 80%
+0400000US01,Alabama,null,3345,3345,null,"Navigational, measuring, electromedical, and control instruments manufacturing",31,334,4,2018,989644,0,230825,59864,2922,1333,50% to less than 60%,50% to less than 60%
+0400000US01,Alabama,null,3345,3345,null,"Navigational, measuring, electromedical, and control instruments manufacturing",31,334,4,2019,1159272,1.4,246761,66025,2849,1195,40% to less than 50%,Less than 10%
+0400000US01,Alabama,null,3346,3346,null,Manufacturing and reproducing magnetic and optical media,31,334,4,2018,0,0,0,0,375,0,Less than 10%,Less than 10%
+0400000US01,Alabama,null,3346,3346,null,Manufacturing and reproducing magnetic and optical media,31,334,4,2019,0,0,0,0,375,0,Less than 10%,90% to 100%
+0400000US01,Alabama,null,335,null,null,"Electrical equipment, appliance, and component manufacturing",31,335,3,2018,2027157,0.2,291882,63196,4686,3255,30% to less than 40%,80% to less than 90%
+0400000US01,Alabama,null,335,null,null,"Electrical equipment, appliance, and component manufacturing",31,335,3,2019,2121147,0.8,307283,75241,4416,3332,20% to less than 30%,50% to less than 60%
+0400000US01,Alabama,null,3351,3351,null,Electric lighting equipment manufacturing,31,335,4,2018,0,0,0,0,87,71,Less than 10%,60% to less than 70%
+0400000US01,Alabama,null,3351,3351,null,Electric lighting equipment manufacturing,31,335,4,2019,0,0,3775,0,50,0,Less than 10%,90% to 100%
+0400000US01,Alabama,null,3352,3352,null,Household appliance manufacturing,31,335,4,2018,0,0,0,0,1693,1580,20% to less than 30%,90% to 100%
+0400000US01,Alabama,null,3352,3352,null,Household appliance manufacturing,31,335,4,2019,0,0,0,0,1500,0,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,3353,3353,null,Electrical equipment manufacturing,31,335,4,2018,619143,0.5,123916,23614,1993,1025,50% to less than 60%,80% to less than 90%
+0400000US01,Alabama,null,3353,3353,null,Electrical equipment manufacturing,31,335,4,2019,685730,2.3,123877,30441,1777,1083,10% to less than 20%,50% to less than 60%
+0400000US01,Alabama,null,3359,3359,null,Other electrical equipment and component manufacturing,31,335,4,2018,448883,0.1,49015,11477,913,578,30% to less than 40%,50% to less than 60%
+0400000US01,Alabama,null,3359,3359,null,Other electrical equipment and component manufacturing,31,335,4,2019,0,0,0,0,975,699,40% to less than 50%,60% to less than 70%
+0400000US01,Alabama,null,336,null,null,Transportation equipment manufacturing,31,336,3,2018,47431694,0.1,3344511,787480,59770,44699,30% to less than 40%,40% to less than 50%
+0400000US01,Alabama,null,336,null,null,Transportation equipment manufacturing,31,336,3,2019,47713337,0.2,3420528,807526,58476,43602,20% to less than 30%,40% to less than 50%
+0400000US01,Alabama,null,3361,3361,null,Motor vehicle manufacturing,31,336,4,2018,25240119,0,929299,209141,11679,7968,30% to less than 40%,30% to less than 40%
+0400000US01,Alabama,null,3361,3361,null,Motor vehicle manufacturing,31,336,4,2019,25900148,0,1001625,226206,12064,8033,Less than 10%,Less than 10%
+0400000US01,Alabama,null,3362,3362,null,Motor vehicle body and trailer manufacturing,31,336,4,2018,1649233,1.1,262649,66849,6090,4925,60% to less than 70%,70% to less than 80%
+0400000US01,Alabama,null,3362,3362,null,Motor vehicle body and trailer manufacturing,31,336,4,2019,1573156,1.5,241349,61296,5501,4492,30% to less than 40%,70% to less than 80%
+0400000US01,Alabama,null,3363,3363,null,Motor vehicle parts manufacturing,31,336,4,2018,16061656,0.1,1370485,325810,28824,22357,40% to less than 50%,40% to less than 50%
+0400000US01,Alabama,null,3363,3363,null,Motor vehicle parts manufacturing,31,336,4,2019,15668793,0.5,1391093,335802,28458,21840,30% to less than 40%,40% to less than 50%
+0400000US01,Alabama,null,3364,3364,null,Aerospace product and parts manufacturing,31,336,4,2018,2489402,0.6,381784,84255,5927,4479,20% to less than 30%,40% to less than 50%
+0400000US01,Alabama,null,3364,3364,null,Aerospace product and parts manufacturing,31,336,4,2019,2397107,0.1,358575,81423,5609,4329,70% to less than 80%,90% to 100%
+0400000US01,Alabama,null,3365,3365,null,Railroad rolling stock manufacturing,31,336,4,2018,379422,0,40614,9704,953,820,60% to less than 70%,70% to less than 80%
+0400000US01,Alabama,null,3365,3365,null,Railroad rolling stock manufacturing,31,336,4,2019,277412,0,46634,12288,937,762,Less than 10%,Less than 10%
+0400000US01,Alabama,null,3366,3366,null,Ship and boat building,31,336,4,2018,1184181,0.1,310243,79092,5460,3616,Less than 10%,10% to less than 20%
+0400000US01,Alabama,null,3366,3366,null,Ship and boat building,31,336,4,2019,1386388,0,327824,77869,5082,3618,10% to less than 20%,20% to less than 30%
+0400000US01,Alabama,null,3369,3369,null,Other transportation equipment manufacturing,31,336,4,2018,427681,0,49437,12629,837,534,Less than 10%,20% to less than 30%
+0400000US01,Alabama,null,3369,3369,null,Other transportation equipment manufacturing,31,336,4,2019,510333,0,53427,12643,824,529,Less than 10%,10% to less than 20%
+0400000US01,Alabama,null,337,null,null,Furniture and related product manufacturing,31,337,3,2018,2478904,0.7,378552,98273,10137,7962,20% to less than 30%,30% to less than 40%
+0400000US01,Alabama,null,337,null,null,Furniture and related product manufacturing,31,337,3,2019,2390241,1.2,389136,94985,9680,7455,Less than 10%,20% to less than 30%
+0400000US01,Alabama,null,3371,3371,null,Household and institutional furniture and kitchen cabinet manufacturing,31,337,4,2018,1229051,0.7,240216,59809,6930,5597,30% to less than 40%,40% to less than 50%
+0400000US01,Alabama,null,3371,3371,null,Household and institutional furniture and kitchen cabinet manufacturing,31,337,4,2019,1177738,2.4,246359,55209,6680,5335,10% to less than 20%,30% to less than 40%
+0400000US01,Alabama,null,3372,3372,null,Office furniture (including fixtures) manufacturing,31,337,4,2018,1160666,1.3,122079,33313,2794,2010,Less than 10%,10% to less than 20%
+0400000US01,Alabama,null,3372,3372,null,Office furniture (including fixtures) manufacturing,31,337,4,2019,1169623,0.1,136407,37199,2835,1972,Less than 10%,10% to less than 20%
+0400000US01,Alabama,null,3379,3379,null,Other furniture related product manufacturing,31,337,4,2018,89187,0,16257,5151,413,355,50% to less than 60%,60% to less than 70%
+0400000US01,Alabama,null,3379,3379,null,Other furniture related product manufacturing,31,337,4,2019,42879,0,6370,2577,164,149,40% to less than 50%,70% to less than 80%
+0400000US01,Alabama,null,339,null,null,Miscellaneous manufacturing,31,339,3,2018,1382087,1.5,295233,79767,6319,4611,Less than 10%,40% to less than 50%
+0400000US01,Alabama,null,339,null,null,Miscellaneous manufacturing,31,339,3,2019,1377913,1.1,297279,71505,6329,4876,30% to less than 40%,50% to less than 60%
+0400000US01,Alabama,null,3391,3391,null,Medical equipment and supplies manufacturing,31,339,4,2018,473044,4.1,110408,27253,2243,1703,Less than 10%,20% to less than 30%
+0400000US01,Alabama,null,3391,3391,null,Medical equipment and supplies manufacturing,31,339,4,2019,499494,1.3,120624,28932,2525,2057,30% to less than 40%,50% to less than 60%
+0400000US01,Alabama,null,3399,3399,null,Other miscellaneous manufacturing,31,339,4,2018,909043,0.6,184825,52514,4075,2907,10% to less than 20%,60% to less than 70%
+0400000US01,Alabama,null,3399,3399,null,Other miscellaneous manufacturing,31,339,4,2019,878419,1.5,176655,42573,3804,2819,30% to less than 40%,50% to less than 60%
+0400000US02,Alaska,null,31-33,null,null,Manufacturing,31,null,2,2018,6869580,0.6,615024,151226,12241,10140,40% to less than 50%,60% to less than 70%
+0400000US02,Alaska,null,31-33,null,null,Manufacturing,31,null,2,2019,6570993,0.6,660647,157520,12544,10630,40% to less than 50%,50% to less than 60%
+0400000US02,Alaska,null,311,null,null,Food manufacturing,31,311,3,2018,3229431,1.3,394807,94825,8815,7777,50% to less than 60%,50% to less than 60%
+0400000US02,Alaska,null,311,null,null,Food manufacturing,31,311,3,2019,3245540,1,406202,96379,8657,7898,50% to less than 60%,50% to less than 60%
+0400000US02,Alaska,null,3111,3111,null,Animal food manufacturing,31,311,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3111,3111,null,Animal food manufacturing,31,311,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3113,3113,null,Sugar and confectionery product manufacturing,31,311,4,2018,0,0,1608,312,61,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3113,3113,null,Sugar and confectionery product manufacturing,31,311,4,2019,0,0,1680,337,66,0,Less than 10%,20% to less than 30%
+0400000US02,Alaska,null,3114,3114,null,Fruit and vegetable preserving and specialty food manufacturing,31,311,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3114,3114,null,Fruit and vegetable preserving and specialty food manufacturing,31,311,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3115,3115,null,Dairy product manufacturing,31,311,4,2018,0,0,0,0,10,7,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3115,3115,null,Dairy product manufacturing,31,311,4,2019,3982,0,0,106,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3116,3116,null,Animal slaughtering and processing,31,311,4,2018,0,0,2612,520,52,35,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3116,3116,null,Animal slaughtering and processing,31,311,4,2019,15080,0,2830,607,50,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3117,3117,null,Seafood product preparation and packaging,31,311,4,2018,3166778,1.3,381580,92135,8371,7452,50% to less than 60%,50% to less than 60%
+0400000US02,Alaska,null,3117,3117,null,Seafood product preparation and packaging,31,311,4,2019,3148102,1.1,387206,92263,8147,7565,50% to less than 60%,50% to less than 60%
+0400000US02,Alaska,null,3118,3118,null,Bakeries and tortilla manufacturing,31,311,4,2018,0,0,5131,1058,247,208,Less than 10%,40% to less than 50%
+0400000US02,Alaska,null,3118,3118,null,Bakeries and tortilla manufacturing,31,311,4,2019,46451,1.2,10734,2371,310,215,70% to less than 80%,90% to 100%
+0400000US02,Alaska,null,3119,3119,null,Other food manufacturing,31,311,4,2018,15648,0,2848,595,50,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3119,3119,null,Other food manufacturing,31,311,4,2019,15222,0,0,0,55,35,Less than 10%,90% to 100%
+0400000US02,Alaska,null,312,null,null,Beverage and tobacco product manufacturing,31,312,3,2018,103295,0,21125,4921,462,193,40% to less than 50%,90% to 100%
+0400000US02,Alaska,null,312,null,null,Beverage and tobacco product manufacturing,31,312,3,2019,101637,3.5,21996,5616,465,189,30% to less than 40%,90% to 100%
+0400000US02,Alaska,null,3121,3121,null,Beverage manufacturing,31,312,4,2018,103295,0,21125,4921,462,193,40% to less than 50%,90% to 100%
+0400000US02,Alaska,null,3121,3121,null,Beverage manufacturing,31,312,4,2019,101637,3.5,21996,5616,465,189,30% to less than 40%,90% to 100%
+0400000US02,Alaska,null,313,null,null,Textile mills,31,313,3,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,313,null,null,Textile mills,31,313,3,2019,0,0,0,0,0,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3131,3131,null,"Fiber, yarn, and thread mills",31,313,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3131,3131,null,"Fiber, yarn, and thread mills",31,313,4,2019,0,0,0,0,0,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,314,null,null,Textile product mills,31,314,3,2018,0,0,2830,680,78,59,Less than 10%,40% to less than 50%
+0400000US02,Alaska,null,314,null,null,Textile product mills,31,314,3,2019,0,0,2253,539,65,52,Less than 10%,60% to less than 70%
+0400000US02,Alaska,null,3149,3149,null,Other textile product mills,31,314,4,2018,0,0,2830,680,78,59,Less than 10%,40% to less than 50%
+0400000US02,Alaska,null,3149,3149,null,Other textile product mills,31,314,4,2019,0,0,2253,539,65,52,Less than 10%,60% to less than 70%
+0400000US02,Alaska,null,315,null,null,Apparel manufacturing,31,315,3,2018,0,0,438,111,10,10,Less than 10%,90% to 100%
+0400000US02,Alaska,null,315,null,null,Apparel manufacturing,31,315,3,2019,0,0,463,0,17,11,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3152,3152,null,Cut and sew apparel manufacturing,31,315,4,2018,732,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3152,3152,null,Cut and sew apparel manufacturing,31,315,4,2019,0,0,310,0,11,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3159,3159,null,Apparel accessories and other apparel manufacturing,31,315,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3159,3159,null,Apparel accessories and other apparel manufacturing,31,315,4,2019,0,0,153,38,6,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,316,null,null,Leather and allied product manufacturing,31,316,3,2018,0,0,666,153,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,316,null,null,Leather and allied product manufacturing,31,316,3,2019,0,0,0,0,15,0,Less than 10%,10% to less than 20%
+0400000US02,Alaska,null,3161,3161,null,Leather and hide tanning and finishing,31,316,4,2018,563,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3161,3161,null,Leather and hide tanning and finishing,31,316,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3169,3169,null,Other leather and allied product manufacturing,31,316,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3169,3169,null,Other leather and allied product manufacturing,31,316,4,2019,0,0,0,0,10,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,321,null,null,Wood product manufacturing,31,321,3,2018,90498,0,18430,5152,426,310,Less than 10%,30% to less than 40%
+0400000US02,Alaska,null,321,null,null,Wood product manufacturing,31,321,3,2019,87000,0,17780,4310,352,279,10% to less than 20%,50% to less than 60%
+0400000US02,Alaska,null,3211,3211,null,Sawmills and wood preservation,31,321,4,2018,26426,0,2618,0,50,45,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3211,3211,null,Sawmills and wood preservation,31,321,4,2019,26607,0,2903,708,54,0,Less than 10%,80% to less than 90%
+0400000US02,Alaska,null,3212,3212,null,"Veneer, plywood, and engineered wood product manufacturing",31,321,4,2018,35505,0,10335,0,210,147,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3212,3212,null,"Veneer, plywood, and engineered wood product manufacturing",31,321,4,2019,36246,0,9944,0,160,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3219,3219,null,Other wood product manufacturing,31,321,4,2018,28567,0,5477,1194,166,118,Less than 10%,50% to less than 60%
+0400000US02,Alaska,null,3219,3219,null,Other wood product manufacturing,31,321,4,2019,24147,0,4933,0,138,95,40% to less than 50%,90% to 100%
+0400000US02,Alaska,null,322,null,null,Paper manufacturing,31,322,3,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,322,null,null,Paper manufacturing,31,322,3,2019,0,0,0,0,10,0,Less than 10%,50% to less than 60%
+0400000US02,Alaska,null,3222,3222,null,Converted paper product manufacturing,31,322,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3222,3222,null,Converted paper product manufacturing,31,322,4,2019,0,0,0,0,10,0,Less than 10%,50% to less than 60%
+0400000US02,Alaska,null,323,null,null,Printing and related support activities,31,323,3,2018,0,0,17234,4081,331,233,70% to less than 80%,90% to 100%
+0400000US02,Alaska,null,323,null,null,Printing and related support activities,31,323,3,2019,58239,2.9,17682,3826,318,215,40% to less than 50%,60% to less than 70%
+0400000US02,Alaska,null,3231,3231,null,Printing and related support activities,31,323,4,2018,0,0,17234,4081,331,233,70% to less than 80%,90% to 100%
+0400000US02,Alaska,null,3231,3231,null,Printing and related support activities,31,323,4,2019,58239,2.9,17682,3826,318,215,40% to less than 50%,60% to less than 70%
+0400000US02,Alaska,null,324,null,null,Petroleum and coal products manufacturing,31,324,3,2018,2884472,0.1,55555,0,393,283,Less than 10%,60% to less than 70%
+0400000US02,Alaska,null,324,null,null,Petroleum and coal products manufacturing,31,324,3,2019,2381892,0.1,48761,15363,387,290,70% to less than 80%,Less than 10%
+0400000US02,Alaska,null,3241,3241,null,Petroleum and coal products manufacturing,31,324,4,2018,2884472,0.1,55555,0,393,283,Less than 10%,60% to less than 70%
+0400000US02,Alaska,null,3241,3241,null,Petroleum and coal products manufacturing,31,324,4,2019,2381892,0.1,48761,15363,387,290,70% to less than 80%,Less than 10%
+0400000US02,Alaska,null,325,null,null,Chemical manufacturing,31,325,3,2018,0,0,0,0,50,0,10% to less than 20%,90% to 100%
+0400000US02,Alaska,null,325,null,null,Chemical manufacturing,31,325,3,2019,0,0,0,0,50,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3251,3251,null,Basic chemical manufacturing,31,325,4,2018,0,0,0,0,0,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3251,3251,null,Basic chemical manufacturing,31,325,4,2019,0,0,0,0,0,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3253,3253,null,"Pesticide, fertilizer, and other agricultural chemical manufacturing",31,325,4,2018,0,0,0,0,50,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3253,3253,null,"Pesticide, fertilizer, and other agricultural chemical manufacturing",31,325,4,2019,0,0,0,0,50,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3254,3254,null,Pharmaceutical and medicine manufacturing,31,325,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3254,3254,null,Pharmaceutical and medicine manufacturing,31,325,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3255,3255,null,"Paint, coating, and adhesive manufacturing",31,325,4,2018,0,0,0,0,10,0,10% to less than 20%,90% to 100%
+0400000US02,Alaska,null,3255,3255,null,"Paint, coating, and adhesive manufacturing",31,325,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3256,3256,null,"Soap, cleaning compound, and toilet preparation manufacturing",31,325,4,2018,1787,0,296,72,12,0,10% to less than 20%,90% to 100%
+0400000US02,Alaska,null,3256,3256,null,"Soap, cleaning compound, and toilet preparation manufacturing",31,325,4,2019,1679,0,257,63,11,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3259,3259,null,Other chemical product and preparation manufacturing,31,325,4,2018,0,0,1057,294,10,0,60% to less than 70%,90% to 100%
+0400000US02,Alaska,null,3259,3259,null,Other chemical product and preparation manufacturing,31,325,4,2019,0,0,1846,506,24,0,30% to less than 40%,90% to 100%
+0400000US02,Alaska,null,326,null,null,Plastics and rubber products manufacturing,31,326,3,2018,42893,0,6177,1508,104,59,20% to less than 30%,50% to less than 60%
+0400000US02,Alaska,null,326,null,null,Plastics and rubber products manufacturing,31,326,3,2019,0,0,5215,1256,90,50,20% to less than 30%,90% to 100%
+0400000US02,Alaska,null,3261,3261,null,Plastics product manufacturing,31,326,4,2018,0,0,0,0,50,0,20% to less than 30%,60% to less than 70%
+0400000US02,Alaska,null,3261,3261,null,Plastics product manufacturing,31,326,4,2019,0,0,0,1193,50,0,20% to less than 30%,90% to 100%
+0400000US02,Alaska,null,3262,3262,null,Rubber product manufacturing,31,326,4,2018,0,0,0,0,10,0,Less than 10%,50% to less than 60%
+0400000US02,Alaska,null,3262,3262,null,Rubber product manufacturing,31,326,4,2019,0,0,0,63,10,0,Less than 10%,40% to less than 50%
+0400000US02,Alaska,null,327,null,null,Nonmetallic mineral product manufacturing,31,327,3,2018,79859,6.4,14023,2635,220,169,20% to less than 30%,80% to less than 90%
+0400000US02,Alaska,null,327,null,null,Nonmetallic mineral product manufacturing,31,327,3,2019,97405,8.8,14992,2796,205,171,Less than 10%,60% to less than 70%
+0400000US02,Alaska,null,3271,3271,null,Clay product and refractory manufacturing,31,327,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3271,3271,null,Clay product and refractory manufacturing,31,327,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3272,3272,null,Glass and glass product manufacturing,31,327,4,2018,0,0,0,0,50,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3272,3272,null,Glass and glass product manufacturing,31,327,4,2019,0,0,0,0,50,0,Less than 10%,10% to less than 20%
+0400000US02,Alaska,null,3273,3273,null,Cement and concrete product manufacturing,31,327,4,2018,75234,6.8,12931,2331,186,142,20% to less than 30%,80% to less than 90%
+0400000US02,Alaska,null,3273,3273,null,Cement and concrete product manufacturing,31,327,4,2019,93083,9.2,14140,2527,180,155,Less than 10%,60% to less than 70%
+0400000US02,Alaska,null,3279,3279,null,Other nonmetallic mineral product manufacturing,31,327,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3279,3279,null,Other nonmetallic mineral product manufacturing,31,327,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,331,null,null,Primary metal manufacturing,31,331,3,2018,0,0,0,0,10,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,331,null,null,Primary metal manufacturing,31,331,3,2019,0,0,0,0,10,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3313,3313,null,Alumina and aluminum production and processing,31,331,4,2018,0,0,0,0,10,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3313,3313,null,Alumina and aluminum production and processing,31,331,4,2019,0,0,0,0,10,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3314,3314,null,Nonferrous metal (except aluminum) production and processing,31,331,4,2018,0,0,0,0,0,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3314,3314,null,Nonferrous metal (except aluminum) production and processing,31,331,4,2019,0,0,0,0,0,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,332,null,null,Fabricated metal product manufacturing,31,332,3,2018,130696,0.3,30968,7100,485,358,10% to less than 20%,60% to less than 70%
+0400000US02,Alaska,null,332,null,null,Fabricated metal product manufacturing,31,332,3,2019,308294,4.4,69378,14309,1030,747,Less than 10%,20% to less than 30%
+0400000US02,Alaska,null,3322,3322,null,Cutlery and handtool manufacturing,31,332,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3322,3322,null,Cutlery and handtool manufacturing,31,332,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3323,3323,null,Architectural and structural metals manufacturing,31,332,4,2018,45069,0,9365,1996,146,108,10% to less than 20%,50% to less than 60%
+0400000US02,Alaska,null,3323,3323,null,Architectural and structural metals manufacturing,31,332,4,2019,203302,0,41284,8759,691,458,Less than 10%,20% to less than 30%
+0400000US02,Alaska,null,3324,3324,null,"Boiler, tank, and shipping container manufacturing",31,332,4,2018,21288,0,5262,1127,82,0,70% to less than 80%,90% to 100%
+0400000US02,Alaska,null,3324,3324,null,"Boiler, tank, and shipping container manufacturing",31,332,4,2019,25336,17.2,5666,637,117,81,Less than 10%,20% to less than 30%
+0400000US02,Alaska,null,3327,3327,null,"Machine shops; turned product; and screw, nut, and bolt manufacturing",31,332,4,2018,44227,1,11397,2922,166,116,Less than 10%,60% to less than 70%
+0400000US02,Alaska,null,3327,3327,null,"Machine shops; turned product; and screw, nut, and bolt manufacturing",31,332,4,2019,52708,24.6,16767,3848,123,124,Less than 10%,20% to less than 30%
+0400000US02,Alaska,null,3328,3328,null,"Coating, engraving, heat treating, and allied activities",31,332,4,2018,0,0,0,0,10,8,10% to less than 20%,90% to 100%
+0400000US02,Alaska,null,3328,3328,null,"Coating, engraving, heat treating, and allied activities",31,332,4,2019,0,0,0,667,50,39,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3329,3329,null,Other fabricated metal product manufacturing,31,332,4,2018,16283,0,3741,761,65,0,50% to less than 60%,60% to less than 70%
+0400000US02,Alaska,null,3329,3329,null,Other fabricated metal product manufacturing,31,332,4,2019,14380,0,2573,0,40,0,Less than 10%,30% to less than 40%
+0400000US02,Alaska,null,333,null,null,Machinery manufacturing,31,333,3,2018,0,0,4150,885,53,32,Less than 10%,10% to less than 20%
+0400000US02,Alaska,null,333,null,null,Machinery manufacturing,31,333,3,2019,0,0,0,0,50,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3331,3331,null,"Agriculture, construction, and mining machinery manufacturing",31,333,4,2018,0,0,0,0,50,0,10% to less than 20%,20% to less than 30%
+0400000US02,Alaska,null,3331,3331,null,"Agriculture, construction, and mining machinery manufacturing",31,333,4,2019,0,0,0,0,50,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3334,3334,null,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",31,333,4,2018,0,0,0,0,10,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3334,3334,null,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",31,333,4,2019,0,0,0,0,50,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3335,3335,null,Metalworking machinery manufacturing,31,333,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3335,3335,null,Metalworking machinery manufacturing,31,333,4,2019,0,0,0,0,0,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3339,3339,null,Other general purpose machinery manufacturing,31,333,4,2018,0,0,0,0,10,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,334,null,null,Computer and electronic product manufacturing,31,334,3,2018,0,0,2196,510,31,18,Less than 10%,20% to less than 30%
+0400000US02,Alaska,null,334,null,null,Computer and electronic product manufacturing,31,334,3,2019,0,0,2527,541,35,19,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3345,3345,null,"Navigational, measuring, electromedical, and control instruments manufacturing",31,334,4,2018,0,0,0,0,50,0,Less than 10%,20% to less than 30%
+0400000US02,Alaska,null,3345,3345,null,"Navigational, measuring, electromedical, and control instruments manufacturing",31,334,4,2019,0,0,0,0,50,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3346,3346,null,Manufacturing and reproducing magnetic and optical media,31,334,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3346,3346,null,Manufacturing and reproducing magnetic and optical media,31,334,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,335,null,null,"Electrical equipment, appliance, and component manufacturing",31,335,3,2018,0,0,0,0,50,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,335,null,null,"Electrical equipment, appliance, and component manufacturing",31,335,3,2019,0,0,0,0,10,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3353,3353,null,Electrical equipment manufacturing,31,335,4,2018,0,0,0,0,50,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3353,3353,null,Electrical equipment manufacturing,31,335,4,2019,0,0,0,0,10,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,3359,3359,null,Other electrical equipment and component manufacturing,31,335,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3359,3359,null,Other electrical equipment and component manufacturing,31,335,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,336,null,null,Transportation equipment manufacturing,31,336,3,2018,99526,0,25449,6247,434,366,40% to less than 50%,70% to less than 80%
+0400000US02,Alaska,null,336,null,null,Transportation equipment manufacturing,31,336,3,2019,116991,0,27870,6721,488,415,70% to less than 80%,90% to 100%
+0400000US02,Alaska,null,3361,3361,null,Motor vehicle manufacturing,31,336,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3362,3362,null,Motor vehicle body and trailer manufacturing,31,336,4,2018,0,0,0,0,10,0,10% to less than 20%,90% to 100%
+0400000US02,Alaska,null,3362,3362,null,Motor vehicle body and trailer manufacturing,31,336,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3363,3363,null,Motor vehicle parts manufacturing,31,336,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3363,3363,null,Motor vehicle parts manufacturing,31,336,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3364,3364,null,Aerospace product and parts manufacturing,31,336,4,2018,0,0,10217,2237,150,115,Less than 10%,30% to less than 40%
+0400000US02,Alaska,null,3364,3364,null,Aerospace product and parts manufacturing,31,336,4,2019,20672,0,7690,1866,128,97,70% to less than 80%,90% to 100%
+0400000US02,Alaska,null,3366,3366,null,Ship and boat building,31,336,4,2018,0,0,14447,0,271,242,70% to less than 80%,90% to 100%
+0400000US02,Alaska,null,3366,3366,null,Ship and boat building,31,336,4,2019,91727,0,19329,4700,344,307,70% to less than 80%,90% to 100%
+0400000US02,Alaska,null,3369,3369,null,Other transportation equipment manufacturing,31,336,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3369,3369,null,Other transportation equipment manufacturing,31,336,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,337,null,null,Furniture and related product manufacturing,31,337,3,2018,0,0,0,0,52,0,Less than 10%,70% to less than 80%
+0400000US02,Alaska,null,337,null,null,Furniture and related product manufacturing,31,337,3,2019,0,0,0,0,35,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3371,3371,null,Household and institutional furniture and kitchen cabinet manufacturing,31,337,4,2018,0,0,367,75,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3371,3371,null,Household and institutional furniture and kitchen cabinet manufacturing,31,337,4,2019,0,0,0,0,15,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3372,3372,null,Office furniture (including fixtures) manufacturing,31,337,4,2018,0,0,1324,337,31,0,Less than 10%,50% to less than 60%
+0400000US02,Alaska,null,3372,3372,null,Office furniture (including fixtures) manufacturing,31,337,4,2019,0,0,914,0,20,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3379,3379,null,Other furniture related product manufacturing,31,337,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US02,Alaska,null,3379,3379,null,Other furniture related product manufacturing,31,337,4,2019,0,0,0,0,0,0,Less than 10%,Less than 10%
+0400000US02,Alaska,null,339,null,null,Miscellaneous manufacturing,31,339,3,2018,29463,0,10218,2268,210,141,50% to less than 60%,80% to less than 90%
+0400000US02,Alaska,null,339,null,null,Miscellaneous manufacturing,31,339,3,2019,32287,0,10843,2446,224,148,60% to less than 70%,90% to 100%
+0400000US02,Alaska,null,3391,3391,null,Medical equipment and supplies manufacturing,31,339,4,2018,0,0,4120,983,84,58,40% to less than 50%,90% to 100%
+0400000US02,Alaska,null,3391,3391,null,Medical equipment and supplies manufacturing,31,339,4,2019,0,0,0,0,50,0,40% to less than 50%,90% to 100%
+0400000US02,Alaska,null,3399,3399,null,Other miscellaneous manufacturing,31,339,4,2018,0,0,6098,1285,126,83,50% to less than 60%,80% to less than 90%
+0400000US02,Alaska,null,3399,3399,null,Other miscellaneous manufacturing,31,339,4,2019,0,0,0,0,150,0,70% to less than 80%,90% to 100%
+0400000US04,Arizona,null,31-33,null,null,Manufacturing,31,null,2,2018,59211643,0.3,9473837,2534830,145127,93348,30% to less than 40%,40% to less than 50%
+0400000US04,Arizona,null,31-33,null,null,Manufacturing,31,null,2,2019,59389754,0.5,9642353,2618243,141952,89362,40% to less than 50%,50% to less than 60%
+0400000US04,Arizona,null,311,null,null,Food manufacturing,31,311,3,2018,7601429,0.9,595416,148813,12628,10443,10% to less than 20%,30% to less than 40%
+0400000US04,Arizona,null,311,null,null,Food manufacturing,31,311,3,2019,7760470,0.3,613083,151640,11847,9357,20% to less than 30%,40% to less than 50%
+0400000US04,Arizona,null,3111,3111,null,Animal food manufacturing,31,311,4,2018,751828,0,38830,11208,546,439,Less than 10%,20% to less than 30%
+0400000US04,Arizona,null,3111,3111,null,Animal food manufacturing,31,311,4,2019,770995,0,41961,12057,579,458,70% to less than 80%,20% to less than 30%
+0400000US04,Arizona,null,3112,3112,null,Grain and oilseed milling,31,311,4,2018,0,0,6423,1498,114,85,70% to less than 80%,90% to 100%
+0400000US04,Arizona,null,3112,3112,null,Grain and oilseed milling,31,311,4,2019,0,0,6462,1554,112,82,70% to less than 80%,90% to 100%
+0400000US04,Arizona,null,3113,3113,null,Sugar and confectionery product manufacturing,31,311,4,2018,0,0,4159,957,116,95,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3113,3113,null,Sugar and confectionery product manufacturing,31,311,4,2019,0,0,0,1170,150,0,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3114,3114,null,Fruit and vegetable preserving and specialty food manufacturing,31,311,4,2018,195260,0.1,21395,6380,542,462,20% to less than 30%,60% to less than 70%
+0400000US04,Arizona,null,3114,3114,null,Fruit and vegetable preserving and specialty food manufacturing,31,311,4,2019,182017,0,23766,6964,499,429,20% to less than 30%,70% to less than 80%
+0400000US04,Arizona,null,3115,3115,null,Dairy product manufacturing,31,311,4,2018,2880392,0,141587,35096,2174,1396,Less than 10%,30% to less than 40%
+0400000US04,Arizona,null,3115,3115,null,Dairy product manufacturing,31,311,4,2019,2981389,0,149972,37238,2219,1449,Less than 10%,Less than 10%
+0400000US04,Arizona,null,3116,3116,null,Animal slaughtering and processing,31,311,4,2018,0,0,88084,17363,1534,1330,90% to 100%,90% to 100%
+0400000US04,Arizona,null,3116,3116,null,Animal slaughtering and processing,31,311,4,2019,0,0,82871,16817,1460,1259,90% to 100%,90% to 100%
+0400000US04,Arizona,null,3117,3117,null,Seafood product preparation and packaging,31,311,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3118,3118,null,Bakeries and tortilla manufacturing,31,311,4,2018,868947,0.6,152084,37078,3748,3134,10% to less than 20%,50% to less than 60%
+0400000US04,Arizona,null,3118,3118,null,Bakeries and tortilla manufacturing,31,311,4,2019,851703,1.7,161653,38611,3664,2847,Less than 10%,40% to less than 50%
+0400000US04,Arizona,null,3119,3119,null,Other food manufacturing,31,311,4,2018,1212309,5.9,142854,39233,3854,3501,Less than 10%,Less than 10%
+0400000US04,Arizona,null,3119,3119,null,Other food manufacturing,31,311,4,2019,1256485,1.2,141968,37230,3208,2748,20% to less than 30%,20% to less than 30%
+0400000US04,Arizona,null,312,null,null,Beverage and tobacco product manufacturing,31,312,3,2018,1612834,5.7,178363,43340,4361,2998,60% to less than 70%,10% to less than 20%
+0400000US04,Arizona,null,312,null,null,Beverage and tobacco product manufacturing,31,312,3,2019,1572840,1.3,146096,37102,3153,1699,40% to less than 50%,30% to less than 40%
+0400000US04,Arizona,null,3121,3121,null,Beverage manufacturing,31,312,4,2018,0,0,0,0,3750,0,60% to less than 70%,10% to less than 20%
+0400000US04,Arizona,null,3121,3121,null,Beverage manufacturing,31,312,4,2019,0,0,0,0,3750,0,40% to less than 50%,30% to less than 40%
+0400000US04,Arizona,null,3122,3122,null,Tobacco manufacturing,31,312,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3122,3122,null,Tobacco manufacturing,31,312,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US04,Arizona,null,313,null,null,Textile mills,31,313,3,2018,170466,0,13299,3258,343,305,Less than 10%,10% to less than 20%
+0400000US04,Arizona,null,313,null,null,Textile mills,31,313,3,2019,170281,0,13878,3416,361,322,Less than 10%,20% to less than 30%
+0400000US04,Arizona,null,3131,3131,null,"Fiber, yarn, and thread mills",31,313,4,2018,0,0,0,0,375,0,Less than 10%,Less than 10%
+0400000US04,Arizona,null,3131,3131,null,"Fiber, yarn, and thread mills",31,313,4,2019,0,0,0,0,375,0,Less than 10%,Less than 10%
+0400000US04,Arizona,null,3132,3132,null,Fabric mills,31,313,4,2018,0,0,0,0,50,0,Less than 10%,30% to less than 40%
+0400000US04,Arizona,null,3132,3132,null,Fabric mills,31,313,4,2019,0,0,0,594,50,0,Less than 10%,50% to less than 60%
+0400000US04,Arizona,null,3133,3133,null,Textile and fabric finishing and fabric coating mills,31,313,4,2018,0,0,1655,385,48,0,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3133,3133,null,Textile and fabric finishing and fabric coating mills,31,313,4,2019,0,0,1756,0,50,43,Less than 10%,90% to 100%
+0400000US04,Arizona,null,314,null,null,Textile product mills,31,314,3,2018,234649,0.5,35544,8841,1076,804,10% to less than 20%,40% to less than 50%
+0400000US04,Arizona,null,314,null,null,Textile product mills,31,314,3,2019,208892,8.7,29123,6685,928,661,Less than 10%,30% to less than 40%
+0400000US04,Arizona,null,3141,3141,null,Textile furnishings mills,31,314,4,2018,54430,2.1,7434,2103,263,218,10% to less than 20%,40% to less than 50%
+0400000US04,Arizona,null,3141,3141,null,Textile furnishings mills,31,314,4,2019,47051,2.4,6240,1766,262,183,10% to less than 20%,40% to less than 50%
+0400000US04,Arizona,null,3149,3149,null,Other textile product mills,31,314,4,2018,180219,0.3,28110,6737,813,586,10% to less than 20%,40% to less than 50%
+0400000US04,Arizona,null,3149,3149,null,Other textile product mills,31,314,4,2019,161841,11.2,22883,4919,666,478,Less than 10%,30% to less than 40%
+0400000US04,Arizona,null,315,null,null,Apparel manufacturing,31,315,3,2018,22517,0.7,8812,2165,305,241,Less than 10%,30% to less than 40%
+0400000US04,Arizona,null,315,null,null,Apparel manufacturing,31,315,3,2019,22307,0,8657,1930,297,225,10% to less than 20%,50% to less than 60%
+0400000US04,Arizona,null,3151,3151,null,Apparel knitting mills,31,315,4,2018,0,0,0,0,150,0,Less than 10%,Less than 10%
+0400000US04,Arizona,null,3151,3151,null,Apparel knitting mills,31,315,4,2019,0,0,0,0,150,0,Less than 10%,Less than 10%
+0400000US04,Arizona,null,3152,3152,null,Cut and sew apparel manufacturing,31,315,4,2018,0,0,4265,1029,147,128,Less than 10%,50% to less than 60%
+0400000US04,Arizona,null,3152,3152,null,Cut and sew apparel manufacturing,31,315,4,2019,9028,0,3463,823,140,113,20% to less than 30%,90% to 100%
+0400000US04,Arizona,null,3159,3159,null,Apparel accessories and other apparel manufacturing,31,315,4,2018,2604,0,0,0,10,0,Less than 10%,70% to less than 80%
+0400000US04,Arizona,null,3159,3159,null,Apparel accessories and other apparel manufacturing,31,315,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US04,Arizona,null,316,null,null,Leather and allied product manufacturing,31,316,3,2018,7210,0.8,1934,438,49,34,Less than 10%,90% to 100%
+0400000US04,Arizona,null,316,null,null,Leather and allied product manufacturing,31,316,3,2019,7578,0,1894,450,52,38,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3161,3161,null,Leather and hide tanning and finishing,31,316,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3161,3161,null,Leather and hide tanning and finishing,31,316,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3162,3162,null,Footwear manufacturing,31,316,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3162,3162,null,Footwear manufacturing,31,316,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3169,3169,null,Other leather and allied product manufacturing,31,316,4,2018,4328,1.3,1361,298,30,20,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3169,3169,null,Other leather and allied product manufacturing,31,316,4,2019,4691,0,1391,321,36,27,Less than 10%,90% to 100%
+0400000US04,Arizona,null,321,null,null,Wood product manufacturing,31,321,3,2018,982439,6.2,230000,50172,5581,4368,Less than 10%,20% to less than 30%
+0400000US04,Arizona,null,321,null,null,Wood product manufacturing,31,321,3,2019,1079112,3,231059,54828,5414,4304,10% to less than 20%,30% to less than 40%
+0400000US04,Arizona,null,3211,3211,null,Sawmills and wood preservation,31,321,4,2018,50577,0,8352,1870,119,105,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3211,3211,null,Sawmills and wood preservation,31,321,4,2019,129480,0,17131,3937,264,195,Less than 10%,30% to less than 40%
+0400000US04,Arizona,null,3212,3212,null,"Veneer, plywood, and engineered wood product manufacturing",31,321,4,2018,320405,13.1,64051,15728,1642,1342,Less than 10%,10% to less than 20%
+0400000US04,Arizona,null,3212,3212,null,"Veneer, plywood, and engineered wood product manufacturing",31,321,4,2019,359590,5.8,69952,16117,1607,1249,Less than 10%,20% to less than 30%
+0400000US04,Arizona,null,3219,3219,null,Other wood product manufacturing,31,321,4,2018,611456,7.2,157598,32574,3821,2921,10% to less than 20%,30% to less than 40%
+0400000US04,Arizona,null,3219,3219,null,Other wood product manufacturing,31,321,4,2019,590043,4.1,143976,34774,3543,2860,10% to less than 20%,30% to less than 40%
+0400000US04,Arizona,null,322,null,null,Paper manufacturing,31,322,3,2018,1194527,1,119214,34709,2107,1666,10% to less than 20%,40% to less than 50%
+0400000US04,Arizona,null,322,null,null,Paper manufacturing,31,322,3,2019,1257736,0.8,142631,35069,2387,1908,Less than 10%,40% to less than 50%
+0400000US04,Arizona,null,3221,3221,null,"Pulp, paper, and paperboard mills",31,322,4,2018,50450,0,8802,2155,121,96,50% to less than 60%,90% to 100%
+0400000US04,Arizona,null,3221,3221,null,"Pulp, paper, and paperboard mills",31,322,4,2019,101419,0,17273,4236,207,166,40% to less than 50%,90% to 100%
+0400000US04,Arizona,null,3222,3222,null,Converted paper product manufacturing,31,322,4,2018,1144077,1.1,110412,32554,1986,1570,10% to less than 20%,40% to less than 50%
+0400000US04,Arizona,null,3222,3222,null,Converted paper product manufacturing,31,322,4,2019,1156317,0.9,125358,30833,2180,1742,Less than 10%,30% to less than 40%
+0400000US04,Arizona,null,323,null,null,Printing and related support activities,31,323,3,2018,1052118,0.4,268883,65951,5189,3469,30% to less than 40%,60% to less than 70%
+0400000US04,Arizona,null,323,null,null,Printing and related support activities,31,323,3,2019,1032815,2.7,274072,63743,4727,3156,30% to less than 40%,70% to less than 80%
+0400000US04,Arizona,null,3231,3231,null,Printing and related support activities,31,323,4,2018,1052118,0.4,268883,65951,5189,3469,30% to less than 40%,60% to less than 70%
+0400000US04,Arizona,null,3231,3231,null,Printing and related support activities,31,323,4,2019,1032815,2.7,274072,63743,4727,3156,30% to less than 40%,70% to less than 80%
+0400000US04,Arizona,null,324,null,null,Petroleum and coal products manufacturing,31,324,3,2018,419457,1.9,31142,8379,519,363,40% to less than 50%,50% to less than 60%
+0400000US04,Arizona,null,324,null,null,Petroleum and coal products manufacturing,31,324,3,2019,357997,5.5,26711,7440,443,288,40% to less than 50%,40% to less than 50%
+0400000US04,Arizona,null,3241,3241,null,Petroleum and coal products manufacturing,31,324,4,2018,419457,1.9,31142,8379,519,363,40% to less than 50%,50% to less than 60%
+0400000US04,Arizona,null,3241,3241,null,Petroleum and coal products manufacturing,31,324,4,2019,357997,5.5,26711,7440,443,288,40% to less than 50%,40% to less than 50%
+0400000US04,Arizona,null,325,null,null,Chemical manufacturing,31,325,3,2018,3215515,0.9,505212,145540,6441,3570,40% to less than 50%,50% to less than 60%
+0400000US04,Arizona,null,325,null,null,Chemical manufacturing,31,325,3,2019,3081905,6.6,492305,140865,6214,3433,40% to less than 50%,40% to less than 50%
+0400000US04,Arizona,null,3251,3251,null,Basic chemical manufacturing,31,325,4,2018,471606,5.3,56431,11431,882,610,30% to less than 40%,40% to less than 50%
+0400000US04,Arizona,null,3251,3251,null,Basic chemical manufacturing,31,325,4,2019,497567,40.2,45515,8872,797,640,10% to less than 20%,10% to less than 20%
+0400000US04,Arizona,null,3252,3252,null,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",31,325,4,2018,148238,0,24704,6251,342,212,30% to less than 40%,70% to less than 80%
+0400000US04,Arizona,null,3252,3252,null,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",31,325,4,2019,152212,0,24001,5840,340,209,10% to less than 20%,40% to less than 50%
+0400000US04,Arizona,null,3253,3253,null,"Pesticide, fertilizer, and other agricultural chemical manufacturing",31,325,4,2018,151429,0,15108,4347,176,127,20% to less than 30%,50% to less than 60%
+0400000US04,Arizona,null,3253,3253,null,"Pesticide, fertilizer, and other agricultural chemical manufacturing",31,325,4,2019,176887,1.1,16146,4347,209,163,20% to less than 30%,40% to less than 50%
+0400000US04,Arizona,null,3254,3254,null,Pharmaceutical and medicine manufacturing,31,325,4,2018,1371480,0.1,296347,96722,3253,1474,50% to less than 60%,70% to less than 80%
+0400000US04,Arizona,null,3254,3254,null,Pharmaceutical and medicine manufacturing,31,325,4,2019,1366127,2.4,313785,99419,3414,1501,40% to less than 50%,40% to less than 50%
+0400000US04,Arizona,null,3255,3255,null,"Paint, coating, and adhesive manufacturing",31,325,4,2018,439158,0,16304,3200,286,197,60% to less than 70%,90% to 100%
+0400000US04,Arizona,null,3255,3255,null,"Paint, coating, and adhesive manufacturing",31,325,4,2019,409995,0,14565,3264,256,179,50% to less than 60%,90% to 100%
+0400000US04,Arizona,null,3256,3256,null,"Soap, cleaning compound, and toilet preparation manufacturing",31,325,4,2018,170108,0.7,29979,6926,465,273,Less than 10%,50% to less than 60%
+0400000US04,Arizona,null,3256,3256,null,"Soap, cleaning compound, and toilet preparation manufacturing",31,325,4,2019,218827,1.4,30885,7447,516,349,Less than 10%,70% to less than 80%
+0400000US04,Arizona,null,3259,3259,null,Other chemical product and preparation manufacturing,31,325,4,2018,463496,3,66339,16663,1036,677,Less than 10%,Less than 10%
+0400000US04,Arizona,null,3259,3259,null,Other chemical product and preparation manufacturing,31,325,4,2019,260289,3,47408,11676,681,391,70% to less than 80%,80% to less than 90%
+0400000US04,Arizona,null,326,null,null,Plastics and rubber products manufacturing,31,326,3,2018,2100264,3.3,333175,79473,6508,5038,10% to less than 20%,30% to less than 40%
+0400000US04,Arizona,null,326,null,null,Plastics and rubber products manufacturing,31,326,3,2019,2204272,3,332913,80973,6568,5090,20% to less than 30%,40% to less than 50%
+0400000US04,Arizona,null,3261,3261,null,Plastics product manufacturing,31,326,4,2018,1993225,3.5,308827,74048,6073,4696,20% to less than 30%,30% to less than 40%
+0400000US04,Arizona,null,3261,3261,null,Plastics product manufacturing,31,326,4,2019,2047955,1.6,316085,78355,6214,4811,30% to less than 40%,50% to less than 60%
+0400000US04,Arizona,null,3262,3262,null,Rubber product manufacturing,31,326,4,2018,107039,4.1,24348,5424,436,342,Less than 10%,20% to less than 30%
+0400000US04,Arizona,null,3262,3262,null,Rubber product manufacturing,31,326,4,2019,156317,36,16829,2618,353,280,Less than 10%,10% to less than 20%
+0400000US04,Arizona,null,327,null,null,Nonmetallic mineral product manufacturing,31,327,3,2018,1775250,1.5,289969,68949,5534,4290,30% to less than 40%,50% to less than 60%
+0400000US04,Arizona,null,327,null,null,Nonmetallic mineral product manufacturing,31,327,3,2019,1850511,1.1,290846,70450,5450,4076,30% to less than 40%,40% to less than 50%
+0400000US04,Arizona,null,3271,3271,null,Clay product and refractory manufacturing,31,327,4,2018,0,0,0,0,150,0,80% to less than 90%,90% to 100%
+0400000US04,Arizona,null,3271,3271,null,Clay product and refractory manufacturing,31,327,4,2019,0,0,0,0,150,0,30% to less than 40%,30% to less than 40%
+0400000US04,Arizona,null,3272,3272,null,Glass and glass product manufacturing,31,327,4,2018,183383,0,32650,8176,639,449,70% to less than 80%,80% to less than 90%
+0400000US04,Arizona,null,3272,3272,null,Glass and glass product manufacturing,31,327,4,2019,190295,3.7,32869,7826,669,513,10% to less than 20%,30% to less than 40%
+0400000US04,Arizona,null,3273,3273,null,Cement and concrete product manufacturing,31,327,4,2018,1297026,2,207875,47750,3837,3095,30% to less than 40%,40% to less than 50%
+0400000US04,Arizona,null,3273,3273,null,Cement and concrete product manufacturing,31,327,4,2019,1280723,1,207216,50199,3717,2871,50% to less than 60%,50% to less than 60%
+0400000US04,Arizona,null,3274,3274,null,Lime and gypsum product manufacturing,31,327,4,2018,0,0,0,0,150,0,Less than 10%,Less than 10%
+0400000US04,Arizona,null,3274,3274,null,Lime and gypsum product manufacturing,31,327,4,2019,0,0,0,0,150,0,Less than 10%,Less than 10%
+0400000US04,Arizona,null,3279,3279,null,Other nonmetallic mineral product manufacturing,31,327,4,2018,191046,3.3,31524,8522,775,518,40% to less than 50%,80% to less than 90%
+0400000US04,Arizona,null,3279,3279,null,Other nonmetallic mineral product manufacturing,31,327,4,2019,273235,5.3,31668,7739,761,431,Less than 10%,30% to less than 40%
+0400000US04,Arizona,null,331,null,null,Primary metal manufacturing,31,331,3,2018,1949231,0.1,174235,43156,3160,2377,10% to less than 20%,30% to less than 40%
+0400000US04,Arizona,null,331,null,null,Primary metal manufacturing,31,331,3,2019,1910353,0,181640,46913,3250,2425,10% to less than 20%,40% to less than 50%
+0400000US04,Arizona,null,3311,3311,null,Iron and steel mills and ferroalloy manufacturing,31,331,4,2018,0,0,0,0,150,0,Less than 10%,Less than 10%
+0400000US04,Arizona,null,3311,3311,null,Iron and steel mills and ferroalloy manufacturing,31,331,4,2019,0,0,0,0,150,0,Less than 10%,Less than 10%
+0400000US04,Arizona,null,3312,3312,null,Steel product manufacturing from purchased steel,31,331,4,2018,160247,0,0,0,150,0,Less than 10%,Less than 10%
+0400000US04,Arizona,null,3312,3312,null,Steel product manufacturing from purchased steel,31,331,4,2019,188588,0,0,0,375,0,Less than 10%,10% to less than 20%
+0400000US04,Arizona,null,3313,3313,null,Alumina and aluminum production and processing,31,331,4,2018,488895,0.2,60399,15330,1073,781,10% to less than 20%,40% to less than 50%
+0400000US04,Arizona,null,3313,3313,null,Alumina and aluminum production and processing,31,331,4,2019,500526,0,66243,17962,1156,840,Less than 10%,40% to less than 50%
+0400000US04,Arizona,null,3314,3314,null,Nonferrous metal (except aluminum) production and processing,31,331,4,2018,895800,0,57406,14492,961,740,10% to less than 20%,10% to less than 20%
+0400000US04,Arizona,null,3314,3314,null,Nonferrous metal (except aluminum) production and processing,31,331,4,2019,856676,0,54754,14173,917,695,10% to less than 20%,10% to less than 20%
+0400000US04,Arizona,null,3315,3315,null,Foundries,31,331,4,2018,0,0,35970,8281,747,550,30% to less than 40%,50% to less than 60%
+0400000US04,Arizona,null,3315,3315,null,Foundries,31,331,4,2019,0,0,34979,8121,742,538,40% to less than 50%,90% to 100%
+0400000US04,Arizona,null,332,null,null,Fabricated metal product manufacturing,31,332,3,2018,5142880,1.1,1294449,303852,21400,15099,20% to less than 30%,30% to less than 40%
+0400000US04,Arizona,null,332,null,null,Fabricated metal product manufacturing,31,332,3,2019,5343107,1.8,1275845,325143,20629,14430,30% to less than 40%,50% to less than 60%
+0400000US04,Arizona,null,3321,3321,null,Forging and stamping,31,332,4,2018,202972,0.5,53645,11145,949,745,50% to less than 60%,60% to less than 70%
+0400000US04,Arizona,null,3321,3321,null,Forging and stamping,31,332,4,2019,207154,0,53942,11946,972,730,40% to less than 50%,60% to less than 70%
+0400000US04,Arizona,null,3322,3322,null,Cutlery and handtool manufacturing,31,332,4,2018,34266,0,11010,2736,243,162,Less than 10%,50% to less than 60%
+0400000US04,Arizona,null,3322,3322,null,Cutlery and handtool manufacturing,31,332,4,2019,31453,0,9723,2410,224,144,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3323,3323,null,Architectural and structural metals manufacturing,31,332,4,2018,1460184,1.3,287934,66724,5644,4208,30% to less than 40%,40% to less than 50%
+0400000US04,Arizona,null,3323,3323,null,Architectural and structural metals manufacturing,31,332,4,2019,1426145,2.7,275464,67789,5283,3912,20% to less than 30%,50% to less than 60%
+0400000US04,Arizona,null,3324,3324,null,"Boiler, tank, and shipping container manufacturing",31,332,4,2018,158345,0,21192,5021,270,215,60% to less than 70%,60% to less than 70%
+0400000US04,Arizona,null,3324,3324,null,"Boiler, tank, and shipping container manufacturing",31,332,4,2019,182112,0,25687,6378,335,270,50% to less than 60%,50% to less than 60%
+0400000US04,Arizona,null,3325,3325,null,Hardware manufacturing,31,332,4,2018,24064,0,4659,1191,87,64,20% to less than 30%,70% to less than 80%
+0400000US04,Arizona,null,3325,3325,null,Hardware manufacturing,31,332,4,2019,19321,0,3254,1051,102,81,Less than 10%,40% to less than 50%
+0400000US04,Arizona,null,3326,3326,null,Spring and wire product manufacturing,31,332,4,2018,95882,3.8,15793,3703,296,229,50% to less than 60%,70% to less than 80%
+0400000US04,Arizona,null,3326,3326,null,Spring and wire product manufacturing,31,332,4,2019,85136,0,15685,3809,308,236,30% to less than 40%,40% to less than 50%
+0400000US04,Arizona,null,3327,3327,null,"Machine shops; turned product; and screw, nut, and bolt manufacturing",31,332,4,2018,1255189,3.6,376319,84054,7051,5666,10% to less than 20%,40% to less than 50%
+0400000US04,Arizona,null,3327,3327,null,"Machine shops; turned product; and screw, nut, and bolt manufacturing",31,332,4,2019,1196859,6.9,354845,87164,6676,5248,Less than 10%,40% to less than 50%
+0400000US04,Arizona,null,3328,3328,null,"Coating, engraving, heat treating, and allied activities",31,332,4,2018,227648,2.7,64537,14487,1400,1089,10% to less than 20%,20% to less than 30%
+0400000US04,Arizona,null,3328,3328,null,"Coating, engraving, heat treating, and allied activities",31,332,4,2019,219186,11.9,60691,13527,1180,967,Less than 10%,50% to less than 60%
+0400000US04,Arizona,null,3329,3329,null,Other fabricated metal product manufacturing,31,332,4,2018,1684329,1.5,459360,114791,5461,2720,30% to less than 40%,20% to less than 30%
+0400000US04,Arizona,null,3329,3329,null,Other fabricated metal product manufacturing,31,332,4,2019,1975740,0.8,476554,131070,5550,2843,70% to less than 80%,50% to less than 60%
+0400000US04,Arizona,null,333,null,null,Machinery manufacturing,31,333,3,2018,1959209,1.7,375971,88082,6572,4369,20% to less than 30%,60% to less than 70%
+0400000US04,Arizona,null,333,null,null,Machinery manufacturing,31,333,3,2019,1925437,2.1,400629,97551,7151,4827,20% to less than 30%,50% to less than 60%
+0400000US04,Arizona,null,3331,3331,null,"Agriculture, construction, and mining machinery manufacturing",31,333,4,2018,640243,0,69924,17085,1402,995,60% to less than 70%,70% to less than 80%
+0400000US04,Arizona,null,3331,3331,null,"Agriculture, construction, and mining machinery manufacturing",31,333,4,2019,611640,2.1,71113,17165,1409,1023,20% to less than 30%,40% to less than 50%
+0400000US04,Arizona,null,3332,3332,null,Industrial machinery manufacturing,31,333,4,2018,180991,1.7,41011,9438,632,420,30% to less than 40%,60% to less than 70%
+0400000US04,Arizona,null,3332,3332,null,Industrial machinery manufacturing,31,333,4,2019,201866,3.9,43348,9754,649,404,10% to less than 20%,60% to less than 70%
+0400000US04,Arizona,null,3333,3333,null,Commercial and service industry machinery manufacturing,31,333,4,2018,183399,6.1,43102,10595,720,464,30% to less than 40%,90% to 100%
+0400000US04,Arizona,null,3333,3333,null,Commercial and service industry machinery manufacturing,31,333,4,2019,226464,8.7,48229,11856,836,535,40% to less than 50%,70% to less than 80%
+0400000US04,Arizona,null,3334,3334,null,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",31,333,4,2018,314480,9.4,57248,12289,1020,701,10% to less than 20%,40% to less than 50%
+0400000US04,Arizona,null,3334,3334,null,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",31,333,4,2019,258004,4.1,56580,15693,985,714,10% to less than 20%,40% to less than 50%
+0400000US04,Arizona,null,3335,3335,null,Metalworking machinery manufacturing,31,333,4,2018,305673,1,91056,22367,1625,990,10% to less than 20%,30% to less than 40%
+0400000US04,Arizona,null,3335,3335,null,Metalworking machinery manufacturing,31,333,4,2019,324373,4.2,104768,24818,1943,1173,30% to less than 40%,60% to less than 70%
+0400000US04,Arizona,null,3336,3336,null,"Engine, turbine, and power transmission equipment manufacturing",31,333,4,2018,76602,0,13846,3528,227,166,10% to less than 20%,90% to 100%
+0400000US04,Arizona,null,3336,3336,null,"Engine, turbine, and power transmission equipment manufacturing",31,333,4,2019,36823,0,11766,3122,174,127,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3339,3339,null,Other general purpose machinery manufacturing,31,333,4,2018,257821,2.3,59783,12781,945,633,20% to less than 30%,70% to less than 80%
+0400000US04,Arizona,null,3339,3339,null,Other general purpose machinery manufacturing,31,333,4,2019,266268,9.9,64826,15143,1155,850,Less than 10%,50% to less than 60%
+0400000US04,Arizona,null,334,null,null,Computer and electronic product manufacturing,31,334,3,2018,9880297,0.6,1523208,385991,19465,9953,30% to less than 40%,30% to less than 40%
+0400000US04,Arizona,null,334,null,null,Computer and electronic product manufacturing,31,334,3,2019,9700330,1,1528916,388023,18648,9483,60% to less than 70%,50% to less than 60%
+0400000US04,Arizona,null,3341,3341,null,Computer and peripheral equipment manufacturing,31,334,4,2018,55313,0,11453,3393,166,92,20% to less than 30%,20% to less than 30%
+0400000US04,Arizona,null,3341,3341,null,Computer and peripheral equipment manufacturing,31,334,4,2019,55035,0,13710,3052,172,91,20% to less than 30%,30% to less than 40%
+0400000US04,Arizona,null,3342,3342,null,Communications equipment manufacturing,31,334,4,2018,1036178,0,266107,66792,3093,990,70% to less than 80%,70% to less than 80%
+0400000US04,Arizona,null,3342,3342,null,Communications equipment manufacturing,31,334,4,2019,1057241,0,264592,67890,2935,895,90% to 100%,90% to 100%
+0400000US04,Arizona,null,3343,3343,null,Audio and video equipment manufacturing,31,334,4,2018,102308,0,12768,3311,279,222,Less than 10%,10% to less than 20%
+0400000US04,Arizona,null,3343,3343,null,Audio and video equipment manufacturing,31,334,4,2019,37522,0,8761,1961,176,139,Less than 10%,40% to less than 50%
+0400000US04,Arizona,null,3344,3344,null,Semiconductor and other electronic component manufacturing,31,334,4,2018,6211888,0.3,712892,165735,9650,6800,20% to less than 30%,20% to less than 30%
+0400000US04,Arizona,null,3344,3344,null,Semiconductor and other electronic component manufacturing,31,334,4,2019,6249444,0.4,737970,173746,9605,6737,60% to less than 70%,30% to less than 40%
+0400000US04,Arizona,null,3345,3345,null,"Navigational, measuring, electromedical, and control instruments manufacturing",31,334,4,2018,2471459,2.4,518989,146497,6258,1838,10% to less than 20%,30% to less than 40%
+0400000US04,Arizona,null,3345,3345,null,"Navigational, measuring, electromedical, and control instruments manufacturing",31,334,4,2019,2296942,3.9,503072,141174,5738,1609,70% to less than 80%,70% to less than 80%
+0400000US04,Arizona,null,3346,3346,null,Manufacturing and reproducing magnetic and optical media,31,334,4,2018,3150,0,1000,263,19,10,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3346,3346,null,Manufacturing and reproducing magnetic and optical media,31,334,4,2019,4145,0,811,200,22,13,Less than 10%,90% to 100%
+0400000US04,Arizona,null,335,null,null,"Electrical equipment, appliance, and component manufacturing",31,335,3,2018,899179,3.3,133493,35164,2129,1315,10% to less than 20%,70% to less than 80%
+0400000US04,Arizona,null,335,null,null,"Electrical equipment, appliance, and component manufacturing",31,335,3,2019,842087,1.4,126525,39018,1861,1166,40% to less than 50%,70% to less than 80%
+0400000US04,Arizona,null,3351,3351,null,Electric lighting equipment manufacturing,31,335,4,2018,0,0,11158,2457,175,112,Less than 10%,60% to less than 70%
+0400000US04,Arizona,null,3351,3351,null,Electric lighting equipment manufacturing,31,335,4,2019,0,0,0,0,150,0,Less than 10%,60% to less than 70%
+0400000US04,Arizona,null,3352,3352,null,Household appliance manufacturing,31,335,4,2018,0,0,30436,8520,483,365,Less than 10%,80% to less than 90%
+0400000US04,Arizona,null,3352,3352,null,Household appliance manufacturing,31,335,4,2019,0,0,0,0,375,0,90% to 100%,90% to 100%
+0400000US04,Arizona,null,3353,3353,null,Electrical equipment manufacturing,31,335,4,2018,172539,3.9,23974,6049,358,191,20% to less than 30%,80% to less than 90%
+0400000US04,Arizona,null,3353,3353,null,Electrical equipment manufacturing,31,335,4,2019,161864,0,24331,6405,355,189,20% to less than 30%,50% to less than 60%
+0400000US04,Arizona,null,3359,3359,null,Other electrical equipment and component manufacturing,31,335,4,2018,434886,6.6,67925,18138,1113,647,10% to less than 20%,60% to less than 70%
+0400000US04,Arizona,null,3359,3359,null,Other electrical equipment and component manufacturing,31,335,4,2019,413177,2.8,64184,15787,893,520,30% to less than 40%,60% to less than 70%
+0400000US04,Arizona,null,336,null,null,Transportation equipment manufacturing,31,336,3,2018,14387969,0.1,2343028,767045,24975,12002,70% to less than 80%,50% to less than 60%
+0400000US04,Arizona,null,336,null,null,Transportation equipment manufacturing,31,336,3,2019,14567163,0.9,2491779,806022,26090,11991,60% to less than 70%,60% to less than 70%
+0400000US04,Arizona,null,3361,3361,null,Motor vehicle manufacturing,31,336,4,2018,0,0,1568,0,19,0,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3361,3361,null,Motor vehicle manufacturing,31,336,4,2019,57152,37.3,2940,661,36,24,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3362,3362,null,Motor vehicle body and trailer manufacturing,31,336,4,2018,188036,3.2,25246,5757,589,470,30% to less than 40%,60% to less than 70%
+0400000US04,Arizona,null,3362,3362,null,Motor vehicle body and trailer manufacturing,31,336,4,2019,195836,8.3,27519,6992,570,458,10% to less than 20%,20% to less than 30%
+0400000US04,Arizona,null,3363,3363,null,Motor vehicle parts manufacturing,31,336,4,2018,1222779,0.1,178347,36392,3018,2030,30% to less than 40%,50% to less than 60%
+0400000US04,Arizona,null,3363,3363,null,Motor vehicle parts manufacturing,31,336,4,2019,1122325,11.5,154039,41128,2534,1623,20% to less than 30%,40% to less than 50%
+0400000US04,Arizona,null,3364,3364,null,Aerospace product and parts manufacturing,31,336,4,2018,12813618,0.1,2122572,720900,21005,9268,80% to less than 90%,50% to less than 60%
+0400000US04,Arizona,null,3364,3364,null,Aerospace product and parts manufacturing,31,336,4,2019,13091755,0.3,2289883,752685,22585,9605,70% to less than 80%,60% to less than 70%
+0400000US04,Arizona,null,3366,3366,null,Ship and boat building,31,336,4,2018,0,0,4069,0,117,0,Less than 10%,80% to less than 90%
+0400000US04,Arizona,null,3366,3366,null,Ship and boat building,31,336,4,2019,30481,0,6235,1363,156,144,Less than 10%,90% to 100%
+0400000US04,Arizona,null,3369,3369,null,Other transportation equipment manufacturing,31,336,4,2018,110226,0,11226,2757,227,118,40% to less than 50%,90% to 100%
+0400000US04,Arizona,null,3369,3369,null,Other transportation equipment manufacturing,31,336,4,2019,69614,0,11163,3194,209,138,Less than 10%,50% to less than 60%
+0400000US04,Arizona,null,337,null,null,Furniture and related product manufacturing,31,337,3,2018,1159833,4.3,235351,58516,5978,4913,Less than 10%,40% to less than 50%
+0400000US04,Arizona,null,337,null,null,Furniture and related product manufacturing,31,337,3,2019,1084806,1.5,234115,58940,5567,4503,20% to less than 30%,50% to less than 60%
+0400000US04,Arizona,null,3371,3371,null,Household and institutional furniture and kitchen cabinet manufacturing,31,337,4,2018,605057,0.5,121739,29798,3450,2807,10% to less than 20%,50% to less than 60%
+0400000US04,Arizona,null,3371,3371,null,Household and institutional furniture and kitchen cabinet manufacturing,31,337,4,2019,575484,1.8,119669,29868,3372,2700,10% to less than 20%,40% to less than 50%
+0400000US04,Arizona,null,3372,3372,null,Office furniture (including fixtures) manufacturing,31,337,4,2018,231680,14.8,58793,14995,1115,772,Less than 10%,30% to less than 40%
+0400000US04,Arizona,null,3372,3372,null,Office furniture (including fixtures) manufacturing,31,337,4,2019,229996,5.8,68968,17828,1136,799,Less than 10%,50% to less than 60%
+0400000US04,Arizona,null,3379,3379,null,Other furniture related product manufacturing,31,337,4,2018,323097,11.3,54819,13723,1413,1335,10% to less than 20%,10% to less than 20%
+0400000US04,Arizona,null,3379,3379,null,Other furniture related product manufacturing,31,337,4,2019,279326,0,45478,11244,1060,1003,80% to less than 90%,90% to 100%
+0400000US04,Arizona,null,339,null,null,Miscellaneous manufacturing,31,339,3,2018,3444371,0.3,783139,192996,10804,5732,10% to less than 20%,30% to less than 40%
+0400000US04,Arizona,null,339,null,null,Miscellaneous manufacturing,31,339,3,2019,3409757,0.6,799635,202042,10915,5979,20% to less than 30%,70% to less than 80%
+0400000US04,Arizona,null,3391,3391,null,Medical equipment and supplies manufacturing,31,339,4,2018,2655058,0.1,581137,144415,7027,3615,20% to less than 30%,40% to less than 50%
+0400000US04,Arizona,null,3391,3391,null,Medical equipment and supplies manufacturing,31,339,4,2019,2576769,0.4,592591,154385,7157,3854,20% to less than 30%,90% to 100%
+0400000US04,Arizona,null,3399,3399,null,Other miscellaneous manufacturing,31,339,4,2018,789314,1.3,202002,48582,3777,2117,Less than 10%,30% to less than 40%
+0400000US04,Arizona,null,3399,3399,null,Other miscellaneous manufacturing,31,339,4,2019,832988,2.3,207044,47657,3758,2125,Less than 10%,40% to less than 50%
+0400000US05,Arkansas,null,31-33,null,null,Manufacturing,31,null,2,2018,62068954,0.3,7261386,1777769,152166,123447,30% to less than 40%,40% to less than 50%
+0400000US05,Arkansas,null,31-33,null,null,Manufacturing,31,null,2,2019,61138488,0.3,7318812,1842708,149382,121014,30% to less than 40%,40% to less than 50%
+0400000US05,Arkansas,null,311,null,null,Food manufacturing,31,311,3,2018,16838741,0.4,1620535,381887,44484,39052,40% to less than 50%,50% to less than 60%
+0400000US05,Arkansas,null,311,null,null,Food manufacturing,31,311,3,2019,16794166,0.4,1623926,411868,44388,38836,50% to less than 60%,60% to less than 70%
+0400000US05,Arkansas,null,3111,3111,null,Animal food manufacturing,31,311,4,2018,2046266,0.5,92514,18593,1614,1205,20% to less than 30%,40% to less than 50%
+0400000US05,Arkansas,null,3111,3111,null,Animal food manufacturing,31,311,4,2019,1793373,0.1,78939,19178,1815,1373,40% to less than 50%,40% to less than 50%
+0400000US05,Arkansas,null,3112,3112,null,Grain and oilseed milling,31,311,4,2018,1884807,2.9,128012,30343,2876,2212,40% to less than 50%,30% to less than 40%
+0400000US05,Arkansas,null,3112,3112,null,Grain and oilseed milling,31,311,4,2019,1958137,2.1,129922,30796,2719,2201,30% to less than 40%,20% to less than 30%
+0400000US05,Arkansas,null,3113,3113,null,Sugar and confectionery product manufacturing,31,311,4,2018,0,0,0,0,50,0,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,3113,3113,null,Sugar and confectionery product manufacturing,31,311,4,2019,0,0,0,0,50,0,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,3114,3114,null,Fruit and vegetable preserving and specialty food manufacturing,31,311,4,2018,1603370,0,195790,49012,3973,3416,50% to less than 60%,30% to less than 40%
+0400000US05,Arkansas,null,3114,3114,null,Fruit and vegetable preserving and specialty food manufacturing,31,311,4,2019,1450647,0,197344,46901,4148,3532,40% to less than 50%,30% to less than 40%
+0400000US05,Arkansas,null,3115,3115,null,Dairy product manufacturing,31,311,4,2018,215101,0,20792,5310,491,0,80% to less than 90%,80% to less than 90%
+0400000US05,Arkansas,null,3115,3115,null,Dairy product manufacturing,31,311,4,2019,0,0,0,0,375,0,90% to 100%,90% to 100%
+0400000US05,Arkansas,null,3116,3116,null,Animal slaughtering and processing,31,311,4,2018,8431718,0.4,910310,211278,29424,26954,50% to less than 60%,50% to less than 60%
+0400000US05,Arkansas,null,3116,3116,null,Animal slaughtering and processing,31,311,4,2019,8518769,0.6,902081,238398,28719,26268,70% to less than 80%,70% to less than 80%
+0400000US05,Arkansas,null,3117,3117,null,Seafood product preparation and packaging,31,311,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,3117,3117,null,Seafood product preparation and packaging,31,311,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,3118,3118,null,Bakeries and tortilla manufacturing,31,311,4,2018,1098741,0.3,155985,37636,3592,2700,10% to less than 20%,40% to less than 50%
+0400000US05,Arkansas,null,3118,3118,null,Bakeries and tortilla manufacturing,31,311,4,2019,1233945,1.9,174442,42470,4007,2965,20% to less than 30%,40% to less than 50%
+0400000US05,Arkansas,null,3119,3119,null,Other food manufacturing,31,311,4,2018,1553894,0.1,115940,29410,2460,2216,20% to less than 30%,30% to less than 40%
+0400000US05,Arkansas,null,3119,3119,null,Other food manufacturing,31,311,4,2019,1622564,0.6,118453,28491,2510,2211,10% to less than 20%,20% to less than 30%
+0400000US05,Arkansas,null,312,null,null,Beverage and tobacco product manufacturing,31,312,3,2018,359292,2.2,37137,9149,811,563,Less than 10%,30% to less than 40%
+0400000US05,Arkansas,null,312,null,null,Beverage and tobacco product manufacturing,31,312,3,2019,221861,27.9,31163,7666,692,396,30% to less than 40%,60% to less than 70%
+0400000US05,Arkansas,null,3121,3121,null,Beverage manufacturing,31,312,4,2018,359292,2.2,37137,9149,811,563,Less than 10%,30% to less than 40%
+0400000US05,Arkansas,null,3121,3121,null,Beverage manufacturing,31,312,4,2019,221861,27.9,31163,7666,692,396,30% to less than 40%,60% to less than 70%
+0400000US05,Arkansas,null,313,null,null,Textile mills,31,313,3,2018,1013,0,297,72,7,0,70% to less than 80%,90% to 100%
+0400000US05,Arkansas,null,313,null,null,Textile mills,31,313,3,2019,2956,0,659,163,13,9,20% to less than 30%,90% to 100%
+0400000US05,Arkansas,null,3132,3132,null,Fabric mills,31,313,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,3132,3132,null,Fabric mills,31,313,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,3133,3133,null,Textile and fabric finishing and fabric coating mills,31,313,4,2018,0,0,0,0,10,0,70% to less than 80%,90% to 100%
+0400000US05,Arkansas,null,3133,3133,null,Textile and fabric finishing and fabric coating mills,31,313,4,2019,0,0,0,0,10,0,30% to less than 40%,90% to 100%
+0400000US05,Arkansas,null,314,null,null,Textile product mills,31,314,3,2018,313336,0.1,60107,17029,1266,1078,60% to less than 70%,40% to less than 50%
+0400000US05,Arkansas,null,314,null,null,Textile product mills,31,314,3,2019,303223,1.5,67866,16729,1422,1214,30% to less than 40%,50% to less than 60%
+0400000US05,Arkansas,null,3141,3141,null,Textile furnishings mills,31,314,4,2018,3169,0,738,153,23,15,Less than 10%,80% to less than 90%
+0400000US05,Arkansas,null,3141,3141,null,Textile furnishings mills,31,314,4,2019,2832,0,673,147,19,13,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,3149,3149,null,Other textile product mills,31,314,4,2018,310167,0.1,59369,16876,1243,1063,60% to less than 70%,40% to less than 50%
+0400000US05,Arkansas,null,3149,3149,null,Other textile product mills,31,314,4,2019,300391,1.5,67193,16582,1403,1201,30% to less than 40%,50% to less than 60%
+0400000US05,Arkansas,null,315,null,null,Apparel manufacturing,31,315,3,2018,101572,0.1,28180,7096,875,0,40% to less than 50%,Less than 10%
+0400000US05,Arkansas,null,315,null,null,Apparel manufacturing,31,315,3,2019,102582,0,28876,7089,852,597,40% to less than 50%,40% to less than 50%
+0400000US05,Arkansas,null,3151,3151,null,Apparel knitting mills,31,315,4,2018,0,0,0,0,750,0,40% to less than 50%,Less than 10%
+0400000US05,Arkansas,null,3151,3151,null,Apparel knitting mills,31,315,4,2019,0,0,0,0,750,0,40% to less than 50%,30% to less than 40%
+0400000US05,Arkansas,null,3152,3152,null,Cut and sew apparel manufacturing,31,315,4,2018,0,0,3795,0,119,96,40% to less than 50%,50% to less than 60%
+0400000US05,Arkansas,null,3152,3152,null,Cut and sew apparel manufacturing,31,315,4,2019,0,0,7199,1723,204,171,20% to less than 30%,50% to less than 60%
+0400000US05,Arkansas,null,3159,3159,null,Apparel accessories and other apparel manufacturing,31,315,4,2018,13452,0.9,0,640,150,0,30% to less than 40%,Less than 10%
+0400000US05,Arkansas,null,3159,3159,null,Apparel accessories and other apparel manufacturing,31,315,4,2019,14859,0,0,0,50,0,20% to less than 30%,40% to less than 50%
+0400000US05,Arkansas,null,316,null,null,Leather and allied product manufacturing,31,316,3,2018,106001,0,34961,7598,1315,1086,80% to less than 90%,80% to less than 90%
+0400000US05,Arkansas,null,316,null,null,Leather and allied product manufacturing,31,316,3,2019,109157,0,38662,9167,1420,1177,80% to less than 90%,80% to less than 90%
+0400000US05,Arkansas,null,3161,3161,null,Leather and hide tanning and finishing,31,316,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,3161,3161,null,Leather and hide tanning and finishing,31,316,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,3162,3162,null,Footwear manufacturing,31,316,4,2018,0,0,0,0,750,0,70% to less than 80%,70% to less than 80%
+0400000US05,Arkansas,null,3162,3162,null,Footwear manufacturing,31,316,4,2019,0,0,0,0,750,0,60% to less than 70%,60% to less than 70%
+0400000US05,Arkansas,null,3169,3169,null,Other leather and allied product manufacturing,31,316,4,2018,0,0,0,0,750,0,80% to less than 90%,90% to 100%
+0400000US05,Arkansas,null,3169,3169,null,Other leather and allied product manufacturing,31,316,4,2019,0,0,0,0,750,0,90% to 100%,90% to 100%
+0400000US05,Arkansas,null,321,null,null,Wood product manufacturing,31,321,3,2018,3263604,1.1,434824,104715,9474,8156,10% to less than 20%,30% to less than 40%
+0400000US05,Arkansas,null,321,null,null,Wood product manufacturing,31,321,3,2019,2439386,2.4,399733,100976,8467,7282,10% to less than 20%,30% to less than 40%
+0400000US05,Arkansas,null,3211,3211,null,Sawmills and wood preservation,31,321,4,2018,1892762,0.2,234120,54448,4722,4116,20% to less than 30%,30% to less than 40%
+0400000US05,Arkansas,null,3211,3211,null,Sawmills and wood preservation,31,321,4,2019,1470639,0.6,218344,55354,4148,3544,10% to less than 20%,30% to less than 40%
+0400000US05,Arkansas,null,3212,3212,null,"Veneer, plywood, and engineered wood product manufacturing",31,321,4,2018,621965,0,83805,22493,1600,1344,Less than 10%,20% to less than 30%
+0400000US05,Arkansas,null,3212,3212,null,"Veneer, plywood, and engineered wood product manufacturing",31,321,4,2019,493117,11.3,78598,21064,1494,1256,Less than 10%,10% to less than 20%
+0400000US05,Arkansas,null,3219,3219,null,Other wood product manufacturing,31,321,4,2018,748877,4.7,116899,27774,3152,2696,10% to less than 20%,30% to less than 40%
+0400000US05,Arkansas,null,3219,3219,null,Other wood product manufacturing,31,321,4,2019,475630,2.3,102791,24558,2825,2482,30% to less than 40%,50% to less than 60%
+0400000US05,Arkansas,null,322,null,null,Paper manufacturing,31,322,3,2018,5264781,0.2,629266,156281,9146,7140,Less than 10%,10% to less than 20%
+0400000US05,Arkansas,null,322,null,null,Paper manufacturing,31,322,3,2019,5250133,1.5,655418,162193,9639,7402,Less than 10%,Less than 10%
+0400000US05,Arkansas,null,3221,3221,null,"Pulp, paper, and paperboard mills",31,322,4,2018,2938370,0,377641,91867,4575,3338,Less than 10%,10% to less than 20%
+0400000US05,Arkansas,null,3221,3221,null,"Pulp, paper, and paperboard mills",31,322,4,2019,2874186,0,389562,93605,4660,3438,Less than 10%,Less than 10%
+0400000US05,Arkansas,null,3222,3222,null,Converted paper product manufacturing,31,322,4,2018,2326411,0.4,251625,64414,4571,3802,10% to less than 20%,10% to less than 20%
+0400000US05,Arkansas,null,3222,3222,null,Converted paper product manufacturing,31,322,4,2019,2375947,3.2,265856,68588,4979,3964,Less than 10%,10% to less than 20%
+0400000US05,Arkansas,null,323,null,null,Printing and related support activities,31,323,3,2018,853533,1.2,192221,43973,4438,2841,40% to less than 50%,50% to less than 60%
+0400000US05,Arkansas,null,323,null,null,Printing and related support activities,31,323,3,2019,838081,2.9,186191,42024,3886,2447,40% to less than 50%,60% to less than 70%
+0400000US05,Arkansas,null,3231,3231,null,Printing and related support activities,31,323,4,2018,853533,1.2,192221,43973,4438,2841,40% to less than 50%,50% to less than 60%
+0400000US05,Arkansas,null,3231,3231,null,Printing and related support activities,31,323,4,2019,838081,2.9,186191,42024,3886,2447,40% to less than 50%,60% to less than 70%
+0400000US05,Arkansas,null,324,null,null,Petroleum and coal products manufacturing,31,324,3,2018,1157643,0.8,87045,19837,1319,950,50% to less than 60%,10% to less than 20%
+0400000US05,Arkansas,null,324,null,null,Petroleum and coal products manufacturing,31,324,3,2019,1230361,2.5,92665,20790,1327,992,40% to less than 50%,20% to less than 30%
+0400000US05,Arkansas,null,3241,3241,null,Petroleum and coal products manufacturing,31,324,4,2018,1157643,0.8,87045,19837,1319,950,50% to less than 60%,10% to less than 20%
+0400000US05,Arkansas,null,3241,3241,null,Petroleum and coal products manufacturing,31,324,4,2019,1230361,2.5,92665,20790,1327,992,40% to less than 50%,20% to less than 30%
+0400000US05,Arkansas,null,325,null,null,Chemical manufacturing,31,325,3,2018,3480676,2.4,360021,94053,5637,4131,40% to less than 50%,40% to less than 50%
+0400000US05,Arkansas,null,325,null,null,Chemical manufacturing,31,325,3,2019,3868964,1.5,360086,89723,5617,4188,40% to less than 50%,40% to less than 50%
+0400000US05,Arkansas,null,3251,3251,null,Basic chemical manufacturing,31,325,4,2018,1627836,5.1,156519,36155,2066,1458,30% to less than 40%,20% to less than 30%
+0400000US05,Arkansas,null,3251,3251,null,Basic chemical manufacturing,31,325,4,2019,1262827,3.4,136038,33195,1871,1321,30% to less than 40%,30% to less than 40%
+0400000US05,Arkansas,null,3252,3252,null,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",31,325,4,2018,429837,0,20188,5700,269,226,40% to less than 50%,60% to less than 70%
+0400000US05,Arkansas,null,3252,3252,null,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",31,325,4,2019,341146,0,19123,4697,276,243,70% to less than 80%,80% to less than 90%
+0400000US05,Arkansas,null,3253,3253,null,"Pesticide, fertilizer, and other agricultural chemical manufacturing",31,325,4,2018,215300,0,18762,4362,387,266,50% to less than 60%,30% to less than 40%
+0400000US05,Arkansas,null,3253,3253,null,"Pesticide, fertilizer, and other agricultural chemical manufacturing",31,325,4,2019,267689,0,29389,7029,477,387,Less than 10%,20% to less than 30%
+0400000US05,Arkansas,null,3254,3254,null,Pharmaceutical and medicine manufacturing,31,325,4,2018,95961,0,17777,4357,284,202,30% to less than 40%,90% to 100%
+0400000US05,Arkansas,null,3254,3254,null,Pharmaceutical and medicine manufacturing,31,325,4,2019,111517,0,14406,3510,235,157,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,3255,3255,null,"Paint, coating, and adhesive manufacturing",31,325,4,2018,97851,0,9247,2441,140,94,Less than 10%,20% to less than 30%
+0400000US05,Arkansas,null,3255,3255,null,"Paint, coating, and adhesive manufacturing",31,325,4,2019,97750,0,8538,2255,137,92,Less than 10%,20% to less than 30%
+0400000US05,Arkansas,null,3256,3256,null,"Soap, cleaning compound, and toilet preparation manufacturing",31,325,4,2018,682426,0,98741,30371,1701,1287,70% to less than 80%,70% to less than 80%
+0400000US05,Arkansas,null,3256,3256,null,"Soap, cleaning compound, and toilet preparation manufacturing",31,325,4,2019,1428993,0,118550,30546,1894,1451,70% to less than 80%,40% to less than 50%
+0400000US05,Arkansas,null,3259,3259,null,Other chemical product and preparation manufacturing,31,325,4,2018,331465,0,38787,10667,790,598,10% to less than 20%,30% to less than 40%
+0400000US05,Arkansas,null,3259,3259,null,Other chemical product and preparation manufacturing,31,325,4,2019,359043,10.6,34041,8491,728,537,10% to less than 20%,20% to less than 30%
+0400000US05,Arkansas,null,326,null,null,Plastics and rubber products manufacturing,31,326,3,2018,3718340,0.7,522289,125684,10232,8602,30% to less than 40%,40% to less than 50%
+0400000US05,Arkansas,null,326,null,null,Plastics and rubber products manufacturing,31,326,3,2019,3630691,0.9,517195,132336,10151,8462,20% to less than 30%,30% to less than 40%
+0400000US05,Arkansas,null,3261,3261,null,Plastics product manufacturing,31,326,4,2018,2204287,1.2,293435,68648,6290,5260,40% to less than 50%,50% to less than 60%
+0400000US05,Arkansas,null,3261,3261,null,Plastics product manufacturing,31,326,4,2019,2127913,1.6,293084,74541,6224,5114,30% to less than 40%,30% to less than 40%
+0400000US05,Arkansas,null,3262,3262,null,Rubber product manufacturing,31,326,4,2018,1514053,0.1,228854,57037,3942,3342,20% to less than 30%,20% to less than 30%
+0400000US05,Arkansas,null,3262,3262,null,Rubber product manufacturing,31,326,4,2019,1502778,0.1,224111,57795,3927,3347,10% to less than 20%,10% to less than 20%
+0400000US05,Arkansas,null,327,null,null,Nonmetallic mineral product manufacturing,31,327,3,2018,812142,1.8,136034,33473,2626,2035,20% to less than 30%,40% to less than 50%
+0400000US05,Arkansas,null,327,null,null,Nonmetallic mineral product manufacturing,31,327,3,2019,791441,4.9,131885,34246,2349,1817,20% to less than 30%,40% to less than 50%
+0400000US05,Arkansas,null,3271,3271,null,Clay product and refractory manufacturing,31,327,4,2018,0,0,0,0,375,0,Less than 10%,Less than 10%
+0400000US05,Arkansas,null,3271,3271,null,Clay product and refractory manufacturing,31,327,4,2019,0,0,0,0,150,0,Less than 10%,Less than 10%
+0400000US05,Arkansas,null,3272,3272,null,Glass and glass product manufacturing,31,327,4,2018,97123,0,18465,4420,331,239,20% to less than 30%,Less than 10%
+0400000US05,Arkansas,null,3272,3272,null,Glass and glass product manufacturing,31,327,4,2019,86459,0,0,4991,150,79,Less than 10%,30% to less than 40%
+0400000US05,Arkansas,null,3273,3273,null,Cement and concrete product manufacturing,31,327,4,2018,451579,3.3,72048,17131,1395,1084,20% to less than 30%,60% to less than 70%
+0400000US05,Arkansas,null,3273,3273,null,Cement and concrete product manufacturing,31,327,4,2019,443290,8.7,79468,18418,1344,1035,30% to less than 40%,50% to less than 60%
+0400000US05,Arkansas,null,3274,3274,null,Lime and gypsum product manufacturing,31,327,4,2018,0,0,0,0,375,0,Less than 10%,Less than 10%
+0400000US05,Arkansas,null,3274,3274,null,Lime and gypsum product manufacturing,31,327,4,2019,0,0,16337,4170,206,0,Less than 10%,40% to less than 50%
+0400000US05,Arkansas,null,3279,3279,null,Other nonmetallic mineral product manufacturing,31,327,4,2018,101457,0,17284,4682,367,267,50% to less than 60%,80% to less than 90%
+0400000US05,Arkansas,null,3279,3279,null,Other nonmetallic mineral product manufacturing,31,327,4,2019,103396,5.3,14575,0,431,336,20% to less than 30%,20% to less than 30%
+0400000US05,Arkansas,null,331,null,null,Primary metal manufacturing,31,331,3,2018,6640190,0,482072,119817,6437,5220,20% to less than 30%,30% to less than 40%
+0400000US05,Arkansas,null,331,null,null,Primary metal manufacturing,31,331,3,2019,6174115,0,514984,128678,6575,5363,10% to less than 20%,20% to less than 30%
+0400000US05,Arkansas,null,3311,3311,null,Iron and steel mills and ferroalloy manufacturing,31,331,4,2018,4953820,0,315950,77239,3272,2677,10% to less than 20%,10% to less than 20%
+0400000US05,Arkansas,null,3311,3311,null,Iron and steel mills and ferroalloy manufacturing,31,331,4,2019,4543759,0,348188,87189,3565,2906,Less than 10%,Less than 10%
+0400000US05,Arkansas,null,3312,3312,null,Steel product manufacturing from purchased steel,31,331,4,2018,551147,0,63817,16817,1185,932,40% to less than 50%,40% to less than 50%
+0400000US05,Arkansas,null,3312,3312,null,Steel product manufacturing from purchased steel,31,331,4,2019,507700,0,59866,14817,1008,799,40% to less than 50%,50% to less than 60%
+0400000US05,Arkansas,null,3313,3313,null,Alumina and aluminum production and processing,31,331,4,2018,739820,0,0,0,750,0,40% to less than 50%,50% to less than 60%
+0400000US05,Arkansas,null,3313,3313,null,Alumina and aluminum production and processing,31,331,4,2019,738184,0,0,0,750,0,60% to less than 70%,40% to less than 50%
+0400000US05,Arkansas,null,3314,3314,null,Nonferrous metal (except aluminum) production and processing,31,331,4,2018,0,0,0,0,150,0,10% to less than 20%,80% to less than 90%
+0400000US05,Arkansas,null,3314,3314,null,Nonferrous metal (except aluminum) production and processing,31,331,4,2019,0,0,0,0,150,0,60% to less than 70%,90% to 100%
+0400000US05,Arkansas,null,3315,3315,null,Foundries,31,331,4,2018,0,0,46320,11968,939,813,20% to less than 30%,40% to less than 50%
+0400000US05,Arkansas,null,3315,3315,null,Foundries,31,331,4,2019,0,0,49719,12687,1006,876,20% to less than 30%,30% to less than 40%
+0400000US05,Arkansas,null,332,null,null,Fabricated metal product manufacturing,31,332,3,2018,4430222,0.5,633728,157390,12378,9658,30% to less than 40%,50% to less than 60%
+0400000US05,Arkansas,null,332,null,null,Fabricated metal product manufacturing,31,332,3,2019,4557945,0.7,662069,167160,12430,9612,20% to less than 30%,40% to less than 50%
+0400000US05,Arkansas,null,3321,3321,null,Forging and stamping,31,332,4,2018,197351,0,42710,9453,732,588,60% to less than 70%,70% to less than 80%
+0400000US05,Arkansas,null,3321,3321,null,Forging and stamping,31,332,4,2019,196148,0,42190,9437,730,583,60% to less than 70%,60% to less than 70%
+0400000US05,Arkansas,null,3322,3322,null,Cutlery and handtool manufacturing,31,332,4,2018,93588,0,15622,3343,369,302,80% to less than 90%,80% to less than 90%
+0400000US05,Arkansas,null,3322,3322,null,Cutlery and handtool manufacturing,31,332,4,2019,100443,0,16673,3607,384,316,80% to less than 90%,90% to 100%
+0400000US05,Arkansas,null,3323,3323,null,Architectural and structural metals manufacturing,31,332,4,2018,1555413,0.8,213919,57839,3825,2575,30% to less than 40%,50% to less than 60%
+0400000US05,Arkansas,null,3323,3323,null,Architectural and structural metals manufacturing,31,332,4,2019,1668090,1.7,228021,60629,3731,2285,20% to less than 30%,50% to less than 60%
+0400000US05,Arkansas,null,3324,3324,null,"Boiler, tank, and shipping container manufacturing",31,332,4,2018,176755,0,30870,8208,517,438,70% to less than 80%,90% to 100%
+0400000US05,Arkansas,null,3324,3324,null,"Boiler, tank, and shipping container manufacturing",31,332,4,2019,184398,0,33354,8672,559,479,80% to less than 90%,90% to 100%
+0400000US05,Arkansas,null,3325,3325,null,Hardware manufacturing,31,332,4,2018,81898,0,11013,2416,338,260,40% to less than 50%,60% to less than 70%
+0400000US05,Arkansas,null,3325,3325,null,Hardware manufacturing,31,332,4,2019,77756,0,10288,2437,265,242,40% to less than 50%,70% to less than 80%
+0400000US05,Arkansas,null,3326,3326,null,Spring and wire product manufacturing,31,332,4,2018,117288,0,15287,4074,326,265,10% to less than 20%,10% to less than 20%
+0400000US05,Arkansas,null,3326,3326,null,Spring and wire product manufacturing,31,332,4,2019,108294,0,14242,3745,292,232,30% to less than 40%,40% to less than 50%
+0400000US05,Arkansas,null,3327,3327,null,"Machine shops; turned product; and screw, nut, and bolt manufacturing",31,332,4,2018,356785,2.5,92053,23325,1868,1538,10% to less than 20%,40% to less than 50%
+0400000US05,Arkansas,null,3327,3327,null,"Machine shops; turned product; and screw, nut, and bolt manufacturing",31,332,4,2019,336477,1.7,88811,22392,1983,1576,10% to less than 20%,40% to less than 50%
+0400000US05,Arkansas,null,3328,3328,null,"Coating, engraving, heat treating, and allied activities",31,332,4,2018,127265,3.3,25000,6613,536,437,20% to less than 30%,50% to less than 60%
+0400000US05,Arkansas,null,3328,3328,null,"Coating, engraving, heat treating, and allied activities",31,332,4,2019,121736,9.5,28306,6764,541,448,30% to less than 40%,30% to less than 40%
+0400000US05,Arkansas,null,3329,3329,null,Other fabricated metal product manufacturing,31,332,4,2018,1723879,0.9,187254,42120,3866,3255,20% to less than 30%,50% to less than 60%
+0400000US05,Arkansas,null,3329,3329,null,Other fabricated metal product manufacturing,31,332,4,2019,1764603,0.3,200184,49478,3945,3451,10% to less than 20%,30% to less than 40%
+0400000US05,Arkansas,null,333,null,null,Machinery manufacturing,31,333,3,2018,4648339,1.7,672858,160953,13801,10238,30% to less than 40%,40% to less than 50%
+0400000US05,Arkansas,null,333,null,null,Machinery manufacturing,31,333,3,2019,5150837,0.8,726305,179920,14552,10930,20% to less than 30%,40% to less than 50%
+0400000US05,Arkansas,null,3331,3331,null,"Agriculture, construction, and mining machinery manufacturing",31,333,4,2018,1701468,1.7,135688,32706,2919,2387,30% to less than 40%,40% to less than 50%
+0400000US05,Arkansas,null,3331,3331,null,"Agriculture, construction, and mining machinery manufacturing",31,333,4,2019,1924945,0.3,149767,39608,3298,2735,30% to less than 40%,50% to less than 60%
+0400000US05,Arkansas,null,3332,3332,null,Industrial machinery manufacturing,31,333,4,2018,279971,25.8,63133,13938,1170,784,50% to less than 60%,70% to less than 80%
+0400000US05,Arkansas,null,3332,3332,null,Industrial machinery manufacturing,31,333,4,2019,305416,7.9,55073,17729,853,495,Less than 10%,10% to less than 20%
+0400000US05,Arkansas,null,3333,3333,null,Commercial and service industry machinery manufacturing,31,333,4,2018,227145,2.6,44316,10851,741,282,Less than 10%,30% to less than 40%
+0400000US05,Arkansas,null,3333,3333,null,Commercial and service industry machinery manufacturing,31,333,4,2019,220775,0,45161,11132,714,260,Less than 10%,30% to less than 40%
+0400000US05,Arkansas,null,3334,3334,null,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",31,333,4,2018,1394665,0.1,179976,45436,4264,3452,50% to less than 60%,50% to less than 60%
+0400000US05,Arkansas,null,3334,3334,null,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",31,333,4,2019,1478205,0.2,204270,51194,4714,3845,50% to less than 60%,60% to less than 70%
+0400000US05,Arkansas,null,3335,3335,null,Metalworking machinery manufacturing,31,333,4,2018,216218,3.4,41738,11174,926,800,Less than 10%,30% to less than 40%
+0400000US05,Arkansas,null,3335,3335,null,Metalworking machinery manufacturing,31,333,4,2019,202361,0.5,39363,8829,791,650,20% to less than 30%,60% to less than 70%
+0400000US05,Arkansas,null,3336,3336,null,"Engine, turbine, and power transmission equipment manufacturing",31,333,4,2018,119064,0,33252,8452,800,481,90% to 100%,90% to 100%
+0400000US05,Arkansas,null,3336,3336,null,"Engine, turbine, and power transmission equipment manufacturing",31,333,4,2019,126969,0,33686,8228,862,631,30% to less than 40%,30% to less than 40%
+0400000US05,Arkansas,null,3339,3339,null,Other general purpose machinery manufacturing,31,333,4,2018,709808,0.6,174755,38396,2981,2053,10% to less than 20%,20% to less than 30%
+0400000US05,Arkansas,null,3339,3339,null,Other general purpose machinery manufacturing,31,333,4,2019,892167,3.4,198985,43200,3320,2315,Less than 10%,10% to less than 20%
+0400000US05,Arkansas,null,334,null,null,Computer and electronic product manufacturing,31,334,3,2018,634148,0,106695,25307,2295,1954,60% to less than 70%,60% to less than 70%
+0400000US05,Arkansas,null,334,null,null,Computer and electronic product manufacturing,31,334,3,2019,696639,0,117398,28645,2554,2142,60% to less than 70%,30% to less than 40%
+0400000US05,Arkansas,null,3341,3341,null,Computer and peripheral equipment manufacturing,31,334,4,2018,0,0,0,0,0,0,Less than 10%,Less than 10%
+0400000US05,Arkansas,null,3341,3341,null,Computer and peripheral equipment manufacturing,31,334,4,2019,0,0,0,0,10,0,Less than 10%,Less than 10%
+0400000US05,Arkansas,null,3343,3343,null,Audio and video equipment manufacturing,31,334,4,2018,0,0,0,0,0,0,Less than 10%,Less than 10%
+0400000US05,Arkansas,null,3343,3343,null,Audio and video equipment manufacturing,31,334,4,2019,0,0,0,0,50,0,Less than 10%,Less than 10%
+0400000US05,Arkansas,null,3344,3344,null,Semiconductor and other electronic component manufacturing,31,334,4,2018,0,0,0,0,750,0,Less than 10%,10% to less than 20%
+0400000US05,Arkansas,null,3344,3344,null,Semiconductor and other electronic component manufacturing,31,334,4,2019,0,0,0,0,1500,715,20% to less than 30%,30% to less than 40%
+0400000US05,Arkansas,null,3345,3345,null,"Navigational, measuring, electromedical, and control instruments manufacturing",31,334,4,2018,480016,0,74613,17498,1433,1330,90% to 100%,90% to 100%
+0400000US05,Arkansas,null,3345,3345,null,"Navigational, measuring, electromedical, and control instruments manufacturing",31,334,4,2019,509317,0,78186,19503,1476,1381,70% to less than 80%,30% to less than 40%
+0400000US05,Arkansas,null,3346,3346,null,Manufacturing and reproducing magnetic and optical media,31,334,4,2018,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,3346,3346,null,Manufacturing and reproducing magnetic and optical media,31,334,4,2019,0,0,0,0,10,0,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,335,null,null,"Electrical equipment, appliance, and component manufacturing",31,335,3,2018,1905665,0.1,295823,75180,5867,4453,60% to less than 70%,70% to less than 80%
+0400000US05,Arkansas,null,335,null,null,"Electrical equipment, appliance, and component manufacturing",31,335,3,2019,1982636,0.3,271116,73812,5125,4038,60% to less than 70%,70% to less than 80%
+0400000US05,Arkansas,null,3351,3351,null,Electric lighting equipment manufacturing,31,335,4,2018,0,0,0,0,150,0,20% to less than 30%,30% to less than 40%
+0400000US05,Arkansas,null,3351,3351,null,Electric lighting equipment manufacturing,31,335,4,2019,0,0,0,0,150,0,30% to less than 40%,30% to less than 40%
+0400000US05,Arkansas,null,3352,3352,null,Household appliance manufacturing,31,335,4,2018,0,0,0,0,50,0,30% to less than 40%,90% to 100%
+0400000US05,Arkansas,null,3352,3352,null,Household appliance manufacturing,31,335,4,2019,0,0,0,0,50,0,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,3353,3353,null,Electrical equipment manufacturing,31,335,4,2018,994090,0.2,150713,39027,3347,2524,90% to 100%,90% to 100%
+0400000US05,Arkansas,null,3353,3353,null,Electrical equipment manufacturing,31,335,4,2019,1063028,0.5,136337,37617,2846,2295,90% to 100%,90% to 100%
+0400000US05,Arkansas,null,3359,3359,null,Other electrical equipment and component manufacturing,31,335,4,2018,808634,0,132562,32921,2247,1741,30% to less than 40%,40% to less than 50%
+0400000US05,Arkansas,null,3359,3359,null,Other electrical equipment and component manufacturing,31,335,4,2019,815442,0,122057,33042,2007,1546,30% to less than 40%,30% to less than 40%
+0400000US05,Arkansas,null,336,null,null,Transportation equipment manufacturing,31,336,3,2018,6455676,0.4,706768,184638,14134,11458,40% to less than 50%,50% to less than 60%
+0400000US05,Arkansas,null,336,null,null,Transportation equipment manufacturing,31,336,3,2019,6022684,0.9,684777,177326,12705,10155,40% to less than 50%,60% to less than 70%
+0400000US05,Arkansas,null,3361,3361,null,Motor vehicle manufacturing,31,336,4,2018,1912,0,568,136,8,0,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,3361,3361,null,Motor vehicle manufacturing,31,336,4,2019,0,0,797,175,16,11,Less than 10%,10% to less than 20%
+0400000US05,Arkansas,null,3362,3362,null,Motor vehicle body and trailer manufacturing,31,336,4,2018,594859,0.6,53778,15272,1601,1322,10% to less than 20%,50% to less than 60%
+0400000US05,Arkansas,null,3362,3362,null,Motor vehicle body and trailer manufacturing,31,336,4,2019,672140,1.5,53284,15557,1548,1285,10% to less than 20%,90% to 100%
+0400000US05,Arkansas,null,3363,3363,null,Motor vehicle parts manufacturing,31,336,4,2018,2027281,0.3,254302,67583,5670,4981,40% to less than 50%,60% to less than 70%
+0400000US05,Arkansas,null,3363,3363,null,Motor vehicle parts manufacturing,31,336,4,2019,1911116,1.4,250793,64340,5355,4660,50% to less than 60%,70% to less than 80%
+0400000US05,Arkansas,null,3364,3364,null,Aerospace product and parts manufacturing,31,336,4,2018,2746332,0.9,269902,69232,4077,2901,40% to less than 50%,40% to less than 50%
+0400000US05,Arkansas,null,3364,3364,null,Aerospace product and parts manufacturing,31,336,4,2019,2735584,0.6,278428,72514,3966,2804,30% to less than 40%,30% to less than 40%
+0400000US05,Arkansas,null,3365,3365,null,Railroad rolling stock manufacturing,31,336,4,2018,0,0,0,0,750,0,90% to 100%,Less than 10%
+0400000US05,Arkansas,null,3365,3365,null,Railroad rolling stock manufacturing,31,336,4,2019,0,0,0,0,750,0,90% to 100%,Less than 10%
+0400000US05,Arkansas,null,3366,3366,null,Ship and boat building,31,336,4,2018,557796,1.2,76825,18897,1840,1539,20% to less than 30%,80% to less than 90%
+0400000US05,Arkansas,null,3366,3366,null,Ship and boat building,31,336,4,2019,0,0,37877,8061,641,521,70% to less than 80%,90% to 100%
+0400000US05,Arkansas,null,3369,3369,null,Other transportation equipment manufacturing,31,336,4,2018,0,0,0,0,150,0,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,3369,3369,null,Other transportation equipment manufacturing,31,336,4,2019,117239,0,0,0,375,0,Less than 10%,20% to less than 30%
+0400000US05,Arkansas,null,337,null,null,Furniture and related product manufacturing,31,337,3,2018,500983,0.7,95590,22259,2397,1914,10% to less than 20%,20% to less than 30%
+0400000US05,Arkansas,null,337,null,null,Furniture and related product manufacturing,31,337,3,2019,409680,1.2,75819,18357,2012,1702,10% to less than 20%,40% to less than 50%
+0400000US05,Arkansas,null,3371,3371,null,Household and institutional furniture and kitchen cabinet manufacturing,31,337,4,2018,311635,1.1,60567,14190,1663,1374,20% to less than 30%,20% to less than 30%
+0400000US05,Arkansas,null,3371,3371,null,Household and institutional furniture and kitchen cabinet manufacturing,31,337,4,2019,297020,1.6,55087,12876,1507,1283,20% to less than 30%,40% to less than 50%
+0400000US05,Arkansas,null,3372,3372,null,Office furniture (including fixtures) manufacturing,31,337,4,2018,182319,0.8,33334,7633,676,495,Less than 10%,20% to less than 30%
+0400000US05,Arkansas,null,3372,3372,null,Office furniture (including fixtures) manufacturing,31,337,4,2019,106506,0,19001,5069,448,373,Less than 10%,10% to less than 20%
+0400000US05,Arkansas,null,3379,3379,null,Other furniture related product manufacturing,31,337,4,2018,7029,0,1689,436,58,45,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,3379,3379,null,Other furniture related product manufacturing,31,337,4,2019,6154,0,1731,412,57,46,Less than 10%,90% to 100%
+0400000US05,Arkansas,null,339,null,null,Miscellaneous manufacturing,31,339,3,2018,583058,9.8,124932,31378,3227,2345,30% to less than 40%,50% to less than 60%
+0400000US05,Arkansas,null,339,null,null,Miscellaneous manufacturing,31,339,3,2019,560946,2.2,132019,33840,3203,2254,10% to less than 20%,50% to less than 60%
+0400000US05,Arkansas,null,3391,3391,null,Medical equipment and supplies manufacturing,31,339,4,2018,252304,22.7,52286,13218,1318,1002,10% to less than 20%,30% to less than 40%
+0400000US05,Arkansas,null,3391,3391,null,Medical equipment and supplies manufacturing,31,339,4,2019,195934,3.8,52561,12900,1219,921,10% to less than 20%,50% to less than 60%
+0400000US05,Arkansas,null,3399,3399,null,Other miscellaneous manufacturing,31,339,4,2018,330753,0.1,72647,18159,1909,1343,40% to less than 50%,60% to less than 70%
+0400000US05,Arkansas,null,3399,3399,null,Other miscellaneous manufacturing,31,339,4,2019,365012,2.6,79458,20939,1983,1333,10% to less than 20%,50% to less than 60%
