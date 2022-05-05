@@ -12,7 +12,8 @@
 | 8 | [Introduction to DAX in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Introduction%20to%20DAX%20in%20Power%20BI) | Done |
 | 9 | [Data Modeling in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Data%20Modeling%20in%20Power%20BI) | Done |
 | 10 | Reshaping Data with pandas | In progress |
-| 11 | DAX Functions in Power BI | In progress |
+| 11 | [DAX Functions in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/DAX%20Functions%20in%20Power%20BI) | Done |
+| 12 | Trend Analysis in Power BI | In progress |
 
 ## Datacamp Projects ##
 
