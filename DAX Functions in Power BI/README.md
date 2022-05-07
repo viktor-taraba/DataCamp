@@ -6,6 +6,16 @@ Link: https://app.datacamp.com/learn/courses/dax-functions-in-power-bi
 
 DAX, or Data Analysis eXpressions, is a formula language used in Microsoft Power BI to create calculated columns, measures, and custom tables. Once mastered, DAX gives you powerful control over visuals and reports, allowing for better performance and more flexibility. This course covers the core concepts such as row query and filter context, with exercises focusing on filtering, counting, ranking, and iterating functions.
 
+## **Report Modules 1 and 2**
+
+![Report Modules 1 and 2 Part 1](https://github.com/Viktor-T-2001/DataCamp/blob/master/DAX%20Functions%20in%20Power%20BI/Report%20Modules%201%20and%202%20Part%201.png)
+![Report Modules 1 and 2 Part 1](https://github.com/Viktor-T-2001/DataCamp/blob/master/DAX%20Functions%20in%20Power%20BI/Report%20Modules%201%20and%202%20Part%202.png)
+
+## **Report Modules 3 and 4**
+
+![Report Modules 3 and 4 Part 1](https://github.com/Viktor-T-2001/DataCamp/blob/master/DAX%20Functions%20in%20Power%20BI/Report%20Modules%203%20and%204%20Part%201.png)
+![Report Modules 3 and 4 Part 1](https://github.com/Viktor-T-2001/DataCamp/blob/master/DAX%20Functions%20in%20Power%20BI/Report%20Modules%203%20and%204%20Part%202.png)
+
 ## **Course Structure**
 
 | № | Module | Description |
