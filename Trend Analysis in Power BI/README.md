@@ -6,6 +6,22 @@ Link: https://app.datacamp.com/learn/courses/trend-analysis-in-power-bi
 
 In this course, you’ll learn how to analyze time series, visualize your data, and spot trends. You’ll build new date variables, discover run charts, and get into calculating rolling averages. Finally, you’ll find out how to identify which variables exhibit the most influence on the target variable using Power BI's decomposition trees and key influencers.
 
+## **Report Modules 1 and 2**
+
+![Modules 1 and 2 part 1](https://github.com/Viktor-T-2001/DataCamp/blob/master/Trend%20Analysis%20in%20Power%20BI/Modules%201%20and%202%20part%201.png)
+![Modules 1 and 2 part 2](https://github.com/Viktor-T-2001/DataCamp/blob/master/Trend%20Analysis%20in%20Power%20BI/Modules%201%20and%202%20part%202.png)
+![Modules 1 and 2 part 3](https://github.com/Viktor-T-2001/DataCamp/blob/master/Trend%20Analysis%20in%20Power%20BI/Modules%201%20and%202%20part%203.png)
+
+## **Report Module 3**
+
+![Report Module 3](https://github.com/Viktor-T-2001/DataCamp/blob/master/Trend%20Analysis%20in%20Power%20BI/Module%203.png)
+
+## **Report Module 4**
+
+![Report Module 4 part 1](https://github.com/Viktor-T-2001/DataCamp/blob/master/Trend%20Analysis%20in%20Power%20BI/Module%204%20part%201.png)
+![Report Module 4 part 2](https://github.com/Viktor-T-2001/DataCamp/blob/master/Trend%20Analysis%20in%20Power%20BI/Module%204%20part%202.png)
+
+
 ## **Course Structure**
 
 | № | Module | Description |
