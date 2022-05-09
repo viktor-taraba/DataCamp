@@ -16,7 +16,7 @@
 | 12 | [Trend Analysis in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Trend%20Analysis%20in%20Power%20BI) | Done |
 | 13 | Object-Oriented Programming in Python | In progress |
 | 14 | Intermediate DAX in Power BI | In progress |
-| 15 | Reports in Power BI | In progress |
+| 15 | [Reports in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Reports%20in%20Power%20BI) | Done |
 
 ## Datacamp Projects ##
 
