@@ -1,0 +1,20 @@
+Exercises
+Dataset locations:
+WATCH FY2017 - https://data.wakegov.com/datasets/watch-fy2017
+WATCH FY2018 - https://data.wakegov.com/datasets/watch-fy2018
+WATCH FY2019 - https://data.wakegov.com/datasets/watch-fy2019-1
+
+This data was used to generate:
+Cost_Centers.csv
+Expenditure_Line_Items.csv
+Expenditures.csv
+Funds.xlsx
+
+Demos
+Dataset locations:
+Restaurants in Wake County - https://data.wakegov.com/datasets/Wake::restaurants-in-wake-county/
+Food Inspection Violations - https://data.wakegov.com/datasets/Wake::food-inspection-violations/
+Food Inspections - https://data.wakegov.com/datasets/food-inspections/explore
+
+This data was used to generate:
+Violation_Codes.xlsx
