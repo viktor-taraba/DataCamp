@@ -1,0 +1,1387 @@
+﻿Dept_Code,Department,Div_Code,Division,Cost_Center,CostCenterKey
+10,Board Of Commissioners,1000,Board Of Commissioners,Betty Lou Ward,10_1000_Betty Lou Ward
+10,Board Of Commissioners,1000,Board Of Commissioners,Board Of Commissioners,10_1000_Board Of Commissioners
+10,Board Of Commissioners,1000,Board Of Commissioners,BOC - Admin,10_1000_BOC - Admin
+10,Board Of Commissioners,1000,Board Of Commissioners,BOC - Commissioners,10_1000_BOC - Commissioners
+10,Board Of Commissioners,1000,Board Of Commissioners,Caroline Sullivan,10_1000_Caroline Sullivan
+10,Board Of Commissioners,1000,Board Of Commissioners,Ervin Portman,10_1000_Ervin Portman
+10,Board Of Commissioners,1000,Board Of Commissioners,Greg Ford,10_1000_Greg Ford
+10,Board Of Commissioners,1000,Board Of Commissioners,James West,10_1000_James West
+10,Board Of Commissioners,1000,Board Of Commissioners,Jessica Holmes,10_1000_Jessica Holmes
+10,Board Of Commissioners,1000,Board Of Commissioners,John Burns,10_1000_John Burns
+10,Board Of Commissioners,1000,Board Of Commissioners,Matt Calabria,10_1000_Matt Calabria
+10,Board Of Commissioners,1000,Board Of Commissioners,Sig Hutchinson,10_1000_Sig Hutchinson
+10,Board Of Commissioners,1000,Board Of Commissioners,Susan Evans,10_1000_Susan Evans
+10,Board Of Commissioners,1000,Board Of Commissioners,Vickie Adamson,10_1000_Vickie Adamson
+11,Communications Office,1100,Communications Office,Communications Office,11_1100_Communications Office
+12,County Manager,1200,County Manager,County Manager-Adm,12_1200_County Manager-Adm
+12,County Manager,1203,Communications Office,CO/Volunteer Celebration,12_1203_CO/Volunteer Celebration
+12,County Manager,1203,Communications Office,Communications Office,12_1203_Communications Office
+12,County Manager,1203,Communications Office,PEG Channel Funding (CRC),12_1203_PEG Channel Funding (CRC)
+12,County Manager,1203,Communications Office,PEG Channel Funding (GSA),12_1203_PEG Channel Funding (GSA)
+12,County Manager,1203,Communications Office,PEG Channel Funding (PAO),12_1203_PEG Channel Funding (PAO)
+12,County Manager,1203,Communications Office,Volunteer Celebration,12_1203_Volunteer Celebration
+13,Behavioral Health - Managed Care Organization,1300,Behavioral Health - Managed Care Organization,Administration,13_1300_Administration
+13,Behavioral Health - Managed Care Organization,1300,Behavioral Health - Managed Care Organization,Behavioral Health - Admin (MCO),13_1300_Behavioral Health - Admin (MCO)
+13,Behavioral Health - Managed Care Organization,1300,Behavioral Health - Managed Care Organization,Crisis Services,13_1300_Crisis Services
+13,Behavioral Health - Managed Care Organization,1300,Behavioral Health - Managed Care Organization,Judiciary,13_1300_Judiciary
+13,Behavioral Health - Managed Care Organization,1300,Behavioral Health - Managed Care Organization,Recovery,13_1300_Recovery
+13,Behavioral Health - Managed Care Organization,1300,Behavioral Health - Managed Care Organization,Residential,13_1300_Residential
+13,Behavioral Health - Managed Care Organization,1300,Behavioral Health - Managed Care Organization,Support,13_1300_Support
+13,Behavioral Health - Managed Care Organization,1300,Behavioral Health - Managed Care Organization,Treatment,13_1300_Treatment
+14,County Attorney,1400,County Attorney,County Attorney,14_1400_County Attorney
+16,Board Of Elections,1600,Board Of Elections,Board of Elections,16_1600_Board Of Elections
+16,Board Of Elections,1600,Board Of Elections,One-Stop Voting Sites,16_1600_One-Stop Voting Sites
+18,Budget and Management Services,1800,Budget,Budget And Management Services,18_1800_Budget And Management Services
+20,Facilities Design & Construction,2000,Facilities Design & Construction,Facilities Design & Construction,20_2000_Facilities Design & Construction
+22,Finance Department,2210,Accounting And Reporting,General Ledger,22_2210_General Ledger
+22,Finance Department,2210,Accounting And Reporting,Procurement/Payment,22_2210_Procurement/Payment
+22,Finance Department,2220,Risk Management,R/M Insurance - Admin/Open 7/1/07,22_2220_R/M Insurance - Admin/Open 7/1/07
+22,Finance Department,2220,Risk Management,Risk Management/ Insurance,22_2220_Risk Management/ Insurance
+22,Finance Department,2230,Internal Audit,Internal Audit,22_2230_Internal Audit
+24,Human Resources Department,2460,Administration,Administration-HR,24_2460_Administration-HR
+26,Information Services,2610,IS Administration,Information Services-Admin,26_2610_Information Services-Admin
+26,Information Services,2620,Solutions Development,Application Development - IS,26_2620_Application Development - IS
+26,Information Services,2620,Solutions Development,Digital Media and Design Services,26_2620_Digital Media and Design Services
+26,Information Services,2620,Solutions Development,Solutions Development and Innovation,26_2620_Solutions Development and Innovation
+26,Information Services,2630,Business Applications,Enterprise Support-IS,26_2630_Enterprise Support-IS
+26,Information Services,2630,Business Applications,ERP-Finance/HR/Budget-IS,26_2630_ERP-Finance/HR/Budget-IS
+26,Information Services,2630,Business Applications,Land Systems-IS,26_2630_Land Systems-IS
+26,Information Services,2640,Technical Infrastructure,Computer Operations-IS,26_2640_Computer Operations-IS
+26,Information Services,2640,Technical Infrastructure,Database Operations,26_2640_Database Operations
+26,Information Services,2640,Technical Infrastructure,Network-IS,26_2640_Network-IS
+26,Information Services,2640,Technical Infrastructure,Public Safety Systems-IS,26_2640_Public Safety Systems-IS
+26,Information Services,2640,Technical Infrastructure,Security-IS,26_2640_Security-IS
+26,Information Services,2640,Technical Infrastructure,Servers-IS,26_2640_Servers-IS
+26,Information Services,2650,Customer Services,Computer Systems Administration-IS,26_2650_Computer Systems Administration-IS
+26,Information Services,2650,Customer Services,Desktop Support-IS,26_2650_Desktop Support-IS
+26,Information Services,2650,Customer Services,"Help Desk, Move, Asset Management-IS","26_2650_Help Desk, Move, Asset Management-IS"
+26,Information Services,2650,Customer Services,Telecom-IS,26_2650_Telecom-IS
+26,Information Services,2660,Human Services Systems,IS - Public Health,26_2660_IS - Public Health
+26,Information Services,2660,Human Services Systems,IS - Social Services,26_2660_IS - Social Services
+30,Register Of Deeds,3010,ROD Operating,ROD Operating - Statutory,30_3010_ROD Operating - Statutory
+30,Register Of Deeds,3030,Rod Automation Fund,ROD Automation Fund,30_3030_ROD Automation Fund
+32,Revenue Department,3200,Revenue,Revenue Tax,32_3200_Revenue Tax
+32,Revenue Department,3255,Revaluation Reserve,Revaluation Reserve,32_3255_Revaluation Reserve
+32,Revenue Department,3270,Vehicle Tag and Tax Fees,Vehicle Tax & Tag Fees,32_3270_Vehicle Tax & Tag Fees
+33,Quasi-Governmental,3310,Soil & Water Conservation District,Soil & Water Conservation District,33_3310_Soil & Water Conservation District
+33,Quasi-Governmental,3320,Cooperative Extension,Cooperative Extension,33_3320_Cooperative Extension
+34,Non Departmental,3410,Public Agencies,Public Agencies,34_3410_Public Agencies
+34,Non Departmental,3420,Memberships,Memberships,34_3420_Memberships
+34,Non Departmental,3430,Non-Departmental,1099 Corrections,34_3430_1099 Corrections
+34,Non Departmental,3430,Non-Departmental,Blue Ribbon Committee,34_3430_Blue Ribbon Committee
+34,Non Departmental,3430,Non-Departmental,Central Contracted Services,34_3430_Central Contracted Services
+34,Non Departmental,3430,Non-Departmental,Chamber of Commerce,34_3430_Chamber of Commerce
+34,Non Departmental,3430,Non-Departmental,Co. Mgr. Contingency,34_3430_Co. Mgr. Contingency
+34,Non Departmental,3430,Non-Departmental,Cooperative Extension,34_3430_Cooperative Extension
+34,Non Departmental,3430,Non-Departmental,County-Wide/Major Contracts,34_3430_County-Wide/Major Contracts
+34,Non Departmental,3430,Non-Departmental,Farmland/Local Food Enhancement Grant,34_3430_Farmland/Local Food Enhancement Grant
+34,Non Departmental,3430,Non-Departmental,Historic Preservation,34_3430_Historic Preservation
+34,Non Departmental,3430,Non-Departmental,Indirect Reimbursements,34_3430_Indirect Reimbursements
+34,Non Departmental,3430,Non-Departmental,Jail Alternatives,34_3430_Jail Alternatives
+34,Non Departmental,3430,Non-Departmental,Medical Examiner,34_3430_Medical Examiner
+34,Non Departmental,3430,Non-Departmental,Non-Departmental,34_3430_Non-Departmental
+34,Non Departmental,3430,Non-Departmental,October 2016 Hurricane Matthew,34_3430_October 2016 Hurricane Matthew
+34,Non Departmental,3430,Non-Departmental,Salary & Benefit Reserve,34_3430_Salary & Benefit Reserve
+34,Non Departmental,3430,Non-Departmental,September 2018 Hurricane Florence,34_3430_September 2018 Hurricane Florence
+34,Non Departmental,3430,Non-Departmental,Soil & Water Conserv District,34_3430_Soil & Water Conserv District
+34,Non Departmental,3430,Non-Departmental,SWCD - Urban Agricultural Grant,34_3430_SWCD - Urban Agricultural Grant
+34,Non Departmental,3430,Non-Departmental,Transit 2014,34_3430_Transit 2014
+34,Non Departmental,3430,Non-Departmental,Women's Commission,34_3430_Women's Commission
+34,Non Departmental,3440,Health and Dental Plans,Dental Plan,34_3440_Dental Plan
+34,Non Departmental,3440,Health and Dental Plans,Health Plan,34_3440_Health Plan
+34,Non Departmental,3460,Risk Management - Cost of Claims,Risk Management - Cost of Claims,34_3460_Risk Management - Cost of Claims
+35,Capital Lease,3510,Capital Lease,Capital Lease,35_3510_Capital Lease
+38,Transfers,3840,Pre FY08,Transfers,38_3840_Transfers
+40,Community Services,4010,Community Services  Management And Budget Office,Community Services  Management And Budget Office,40_4010_Community Services  Management And Budget Office
+40,Community Services,4020,"Parks, Recreation,& Open Space","Adm Parks, Recreation & Open Space","40_4020_Adm Parks, Recreation & Open Space"
+40,Community Services,4020,"Parks, Recreation,& Open Space",Blue Jay Park General Donations,40_4020_Blue Jay Park General Donations
+40,Community Services,4020,"Parks, Recreation,& Open Space",BlueJay Point,40_4020_BlueJay Point
+40,Community Services,4020,"Parks, Recreation,& Open Space",CAMPO Grant Triangle Bikeway Study,40_4020_CAMPO Grant Triangle Bikeway Study
+40,Community Services,4020,"Parks, Recreation,& Open Space",Crowder,40_4020_Crowder
+40,Community Services,4020,"Parks, Recreation,& Open Space",Harris Lake,40_4020_Harris Lake
+40,Community Services,4020,"Parks, Recreation,& Open Space",Harris Lake General Donations,40_4020_Harris Lake General Donations
+40,Community Services,4020,"Parks, Recreation,& Open Space",Harris Lake RTP Grant,40_4020_Harris Lake RTP Grant
+40,Community Services,4020,"Parks, Recreation,& Open Space",Historic Oakview,40_4020_Historic Oakview
+40,Community Services,4020,"Parks, Recreation,& Open Space",Historic Oakview Donations,40_4020_Historic Oakview Donations
+40,Community Services,4020,"Parks, Recreation,& Open Space",Lake Crabtree,40_4020_Lake Crabtree
+40,Community Services,4020,"Parks, Recreation,& Open Space",Lake Crabtree General Donations,40_4020_Lake Crabtree General Donations
+40,Community Services,4020,"Parks, Recreation,& Open Space",NCDENR,40_4020_NCDENR
+40,Community Services,4020,"Parks, Recreation,& Open Space",NW Landfill Park,40_4020_NW Landfill Park
+40,Community Services,4020,"Parks, Recreation,& Open Space",Open Space-Parks,40_4020_Open Space-Parks
+40,Community Services,4020,"Parks, Recreation,& Open Space",Parks - Unallocated Grants,40_4020_Parks - Unallocated Grants
+40,Community Services,4020,"Parks, Recreation,& Open Space",PROS - Covington Grant,40_4020_PROS - Covington Grant
+40,Community Services,4020,"Parks, Recreation,& Open Space",PROS Admin Community Grants,40_4020_PROS Admin Community Grants
+40,Community Services,4020,"Parks, Recreation,& Open Space",PROS Admin Donations,40_4020_PROS Admin Donations
+40,Community Services,4020,"Parks, Recreation,& Open Space",US Fish & Wildlife Grant,40_4020_US Fish & Wildlife Grant
+40,Community Services,4020,"Parks, Recreation,& Open Space",Yates Mill,40_4020_Yates Mill
+40,Community Services,4020,"Parks, Recreation,& Open Space",Yates/Crowder General Donations,40_4020_Yates/Crowder General Donations
+40,Community Services,4030,Inspections/Development Plans/Permits,Inspections/Development Plans/Permits,40_4030_Inspections/Development Plans/Permits
+40,Community Services,4030,Inspections/Development Plans/Permits,Planning,40_4030_Planning
+40,Community Services,4040,Veterans Services,Veterans Services Office,40_4040_Veterans Services Office
+40,Community Services,4050,Geographic Information,Geographic Information Services,40_4050_Geographic Information Services
+40,Community Services,4060,Libraries,Athens Drive Library,40_4060_Athens Drive Library
+40,Community Services,4060,Libraries,Bookmobile,40_4060_Bookmobile
+40,Community Services,4060,Libraries,Cameron Village Regional,40_4060_Cameron Village Regional
+40,Community Services,4060,Libraries,Cary Library,40_4060_Cary Library
+40,Community Services,4060,Libraries,Collection Development,40_4060_Collection Development
+40,Community Services,4060,Libraries,Duraleigh Road Library,40_4060_Duraleigh Road Library
+40,Community Services,4060,Libraries,East Regional Library,40_4060_East Regional Library
+40,Community Services,4060,Libraries,Electronic Information Center,40_4060_Electronic Information Center
+40,Community Services,4060,Libraries,Emily Dickinson Memorial-Olivia Raney,40_4060_Emily Dickinson Memorial-Olivia Raney
+40,Community Services,4060,Libraries,Eva Perry Library,40_4060_Eva Perry Library
+40,Community Services,4060,Libraries,Fuquay Varina Library,40_4060_Fuquay Varina Library
+40,Community Services,4060,Libraries,Green Road Library,40_4060_Green Road Library
+40,Community Services,4060,Libraries,Henry Miller/Wake Forest Lib Donations,40_4060_Henry Miller/Wake Forest Lib Donations
+40,Community Services,4060,Libraries,Holly Springs Library,40_4060_Holly Springs Library
+40,Community Services,4060,Libraries,Inter Library Loan,40_4060_Inter Library Loan
+40,Community Services,4060,Libraries,Leesville Branch Library,40_4060_Leesville Branch Library
+40,Community Services,4060,Libraries,Libraries Administration,40_4060_Libraries Administration
+40,Community Services,4060,Libraries,Libraries Processing,40_4060_Libraries Processing
+40,Community Services,4060,Libraries,Libraries Systemwide,40_4060_Libraries Systemwide
+40,Community Services,4060,Libraries,Library - Unallocated Grants,40_4060_Library - Unallocated Grants
+40,Community Services,4060,Libraries,Library Book Sale,40_4060_Library Book Sale
+40,Community Services,4060,Libraries,Library Community Grants,40_4060_Library Community Grants
+40,Community Services,4060,Libraries,Library Donations,40_4060_Library Donations
+40,Community Services,4060,Libraries,Library Jr. Women's Club Donations,40_4060_Library Jr. Women's Club Donations
+40,Community Services,4060,Libraries,Library System Services,40_4060_Library System Services
+40,Community Services,4060,Libraries,Middle Creek Library,40_4060_Middle Creek Library
+40,Community Services,4060,Libraries,Morrisville Library,40_4060_Morrisville Library
+40,Community Services,4060,Libraries,NC Arts Council Grant,40_4060_NC Arts Council Grant
+40,Community Services,4060,Libraries,North Regional Library,40_4060_North Regional Library
+40,Community Services,4060,Libraries,NorthEast Regional Library,40_4060_NorthEast Regional Library
+40,Community Services,4060,Libraries,Olivia Raney Library,40_4060_Olivia Raney Library
+40,Community Services,4060,Libraries,PNC Grant (Libraries),40_4060_PNC Grant (Libraries)
+40,Community Services,4060,Libraries,Richard B Harrison Library,40_4060_Richard B Harrison Library
+40,Community Services,4060,Libraries,Southeast Regional Library,40_4060_Southeast Regional Library
+40,Community Services,4060,Libraries,Southgate Library,40_4060_Southgate Library
+40,Community Services,4060,Libraries,Storytelling Festival,40_4060_Storytelling Festival
+40,Community Services,4060,Libraries,Target,40_4060_Target
+40,Community Services,4060,Libraries,Wake Forest Library,40_4060_Wake Forest Library
+40,Community Services,4060,Libraries,Wendell Library,40_4060_Wendell Library
+40,Community Services,4060,Libraries,West Regional Library,40_4060_West Regional Library
+40,Community Services,4060,Libraries,Zebulon Library,40_4060_Zebulon Library
+42,Environmental Services,4210,ES Administration,ES Administration,42_4210_ES Administration
+42,Environmental Services,4210,ES Administration,Watershed Mgt Prog Assistance Agreement,42_4210_Watershed Mgt Prog Assistance Agreement
+42,Environmental Services,4220,Environmental Health & Safety,2015 AFDO Grant,42_4220_2015 AFDO Grant
+42,Environmental Services,4220,Environmental Health & Safety,2016 AFDO Grant G-SP-1510-02951,42_4220_2016 AFDO Grant G-SP-1510-02951
+42,Environmental Services,4220,Environmental Health & Safety,2016 AFDO Grant G-SP-1510-03278,42_4220_2016 AFDO Grant G-SP-1510-03278
+42,Environmental Services,4220,Environmental Health & Safety,2017 AFDO Grant G-MP-1611-04215 (CAT 2),42_4220_2017 AFDO Grant G-MP-1611-04215 (CAT 2)
+42,Environmental Services,4220,Environmental Health & Safety,2017 AFDO Grant G-SP-1611-03998 (CAT 1),42_4220_2017 AFDO Grant G-SP-1611-03998 (CAT 1)
+42,Environmental Services,4220,Environmental Health & Safety,2017 AFDO Grant G-T-1611-03990 (CAT 3),42_4220_2017 AFDO Grant G-T-1611-03990 (CAT 3)
+42,Environmental Services,4220,Environmental Health & Safety,2018 AFDO Grant G-T-1709-05641 (CAT 3),42_4220_2018 AFDO Grant G-T-1709-05641 (CAT 3)
+42,Environmental Services,4220,Environmental Health & Safety,2019 AFDO Grant G-T-1810-06760 (CAT 3),42_4220_2019 AFDO Grant G-T-1810-06760 (CAT 3)
+42,Environmental Services,4220,Environmental Health & Safety,2019 AFDO Risk Factor Study -G-SP-1810-06764,42_4220_2019 AFDO Risk Factor Study -G-SP-1810-06764
+42,Environmental Services,4220,Environmental Health & Safety,AFDO Grant,42_4220_AFDO Grant
+42,Environmental Services,4220,Environmental Health & Safety,"Animal Care, Control and Adoption - General","42_4220_Animal Care, Control and Adoption - General"
+42,Environmental Services,4220,Environmental Health & Safety,Environmental Health & Safety Admin,42_4220_Environmental Health & Safety Admin
+42,Environmental Services,4220,Environmental Health & Safety,Environmental Quality-Lead,42_4220_Environmental Quality-Lead
+42,Environmental Services,4220,Environmental Health & Safety,Food Sanitation,42_4220_Food Sanitation
+42,Environmental Services,4220,Environmental Health & Safety,"Food, Lodging & Institutions","42_4220_Food, Lodging & Institutions"
+42,Environmental Services,4220,Environmental Health & Safety,Plan Review & Recreational Sanitation,42_4220_Plan Review & Recreational Sanitation
+42,Environmental Services,4230,Water Quality Division,Erosion & Sediment Control,42_4230_Erosion & Sediment Control
+42,Environmental Services,4230,Water Quality Division,Falls Lake 319 Project - Fund 2100,42_4230_Falls Lake 319 Project - Fund 2100
+42,Environmental Services,4230,Water Quality Division,Floodplain & Stormwater,42_4230_Floodplain & Stormwater
+42,Environmental Services,4230,Water Quality Division,Ground Water Systems,42_4230_Ground Water Systems
+42,Environmental Services,4230,Water Quality Division,Laboratory Services,42_4230_Laboratory Services
+42,Environmental Services,4230,Water Quality Division,NC CWMTF - Onsite Wastewater,42_4230_NC CWMTF - Onsite Wastewater
+42,Environmental Services,4230,Water Quality Division,Onsite and Technical Assistance,42_4230_Onsite and Technical Assistance
+42,Environmental Services,4230,Water Quality Division,Onsite Wastewater,42_4230_Onsite Wastewater
+42,Environmental Services,4230,Water Quality Division,WasteWater Management,42_4230_WasteWater Management
+42,Environmental Services,4230,Water Quality Division,Water Quality Admin,42_4230_Water Quality Admin
+42,Environmental Services,4230,Water Quality Division,Watershed Management,42_4230_Watershed Management
+42,Environmental Services,4240,Solid Waste,Admin - Finance,42_4240_Admin - Finance
+42,Environmental Services,4240,Solid Waste,Admin SW/MD,42_4240_Admin SW/MD
+42,Environmental Services,4240,Solid Waste,Closure/Post Closure,42_4240_Closure/Post Closure
+42,Environmental Services,4240,Solid Waste,Closure/Post Closure - East Wake Landfill,42_4240_Closure/Post Closure - East Wake Landfill
+42,Environmental Services,4240,Solid Waste,Closure/Post Closure - Feltonsville,42_4240_Closure/Post Closure - Feltonsville
+42,Environmental Services,4240,Solid Waste,Closure/Post Closure - N.Wake Landfill,42_4240_Closure/Post Closure - N.Wake Landfill
+42,Environmental Services,4240,Solid Waste,Community Waste Reduction & Recycling Grant,42_4240_Community Waste Reduction & Recycling Grant
+42,Environmental Services,4240,Solid Waste,East Wake Transfer Station Administration,42_4240_East Wake Transfer Station Administration
+42,Environmental Services,4240,Solid Waste,East Wake Transfer Station Operations,42_4240_East Wake Transfer Station Operations
+42,Environmental Services,4240,Solid Waste,East Wake Transfer Station Scalehouse,42_4240_East Wake Transfer Station Scalehouse
+42,Environmental Services,4240,Solid Waste,Household Hazardous Waste,42_4240_Household Hazardous Waste
+42,Environmental Services,4240,Solid Waste,Landfill Gas to Energy,42_4240_Landfill Gas to Energy
+42,Environmental Services,4240,Solid Waste,Multi Material Facility,42_4240_Multi Material Facility
+42,Environmental Services,4240,Solid Waste,NC Electronic Recycling,42_4240_NC Electronic Recycling
+42,Environmental Services,4240,Solid Waste,North Wake Landfill Gas to Energy,42_4240_North Wake Landfill Gas to Energy
+42,Environmental Services,4240,Solid Waste,School Recycling,42_4240_School Recycling
+42,Environmental Services,4240,Solid Waste,Solid Waste Construction Management,42_4240_Solid Waste Construction Management
+42,Environmental Services,4240,Solid Waste,Solid Waste Convenience,42_4240_Solid Waste Convenience
+42,Environmental Services,4240,Solid Waste,Solid Waste Landfill,42_4240_Solid Waste Landfill
+42,Environmental Services,4240,Solid Waste,South Wake Landfill Admin,42_4240_South Wake Landfill Admin
+42,Environmental Services,4240,Solid Waste,South Wake Landfill Operating,42_4240_South Wake Landfill Operating
+42,Environmental Services,4240,Solid Waste,South Wake Landfill Scalehouse,42_4240_South Wake Landfill Scalehouse
+42,Environmental Services,4240,Solid Waste,Storm Debris Management,42_4240_Storm Debris Management
+42,Environmental Services,4240,Solid Waste,SW Garner Partnership,42_4240_SW Garner Partnership
+42,Environmental Services,4240,Solid Waste,SW/Apex Partnership,42_4240_SW/Apex Partnership
+42,Environmental Services,4240,Solid Waste,SW/Cary Partnership,42_4240_SW/Cary Partnership
+42,Environmental Services,4240,Solid Waste,SW/Fuquay Varina Partnership,42_4240_SW/Fuquay Varina Partnership
+42,Environmental Services,4240,Solid Waste,SW/Knightdale Partnership,42_4240_SW/Knightdale Partnership
+42,Environmental Services,4240,Solid Waste,SW/Morrisville Partnership,42_4240_SW/Morrisville Partnership
+42,Environmental Services,4240,Solid Waste,SW/Pooled Partnership Rebates,42_4240_SW/Pooled Partnership Rebates
+42,Environmental Services,4240,Solid Waste,SW/Raleigh Partnership,42_4240_SW/Raleigh Partnership
+42,Environmental Services,4240,Solid Waste,SW/Rolesville Partnership,42_4240_SW/Rolesville Partnership
+42,Environmental Services,4240,Solid Waste,SW/Wake Forst Partnership,42_4240_SW/Wake Forst Partnership
+42,Environmental Services,4240,Solid Waste,SW/Wendell Partnership,42_4240_SW/Wendell Partnership
+42,Environmental Services,4240,Solid Waste,SW/Zebulon Partnerhsip,42_4240_SW/Zebulon Partnerhsip
+42,Environmental Services,4240,Solid Waste,Transfer Station,42_4240_Transfer Station
+42,Environmental Services,4240,Solid Waste,Waste Reduction,42_4240_Waste Reduction
+42,Environmental Services,4240,Solid Waste,White Goods,42_4240_White Goods
+42,Environmental Services,4260,"Animal Care, Control and Adoption Center","Animal Care, Control and Adoption - Field (Div 4260)","42_4260_Animal Care, Control and Adoption - Field (Div 4260)"
+42,Environmental Services,4260,"Animal Care, Control and Adoption Center","Animal Care, Control and Adoption - Shelter (Div 4260)","42_4260_Animal Care, Control and Adoption - Shelter (Div 4260)"
+42,Environmental Services,4260,"Animal Care, Control and Adoption Center",Animal Shelter Donations (Div 4260),42_4260_Animal Shelter Donations (Div 4260)
+42,Environmental Services,4260,"Animal Care, Control and Adoption Center",Animal Shelter Sponsorships (Div 4260),42_4260_Animal Shelter Sponsorships (Div 4260)
+42,Environmental Services,4260,"Animal Care, Control and Adoption Center",Veterinary Services Program,42_4260_Veterinary Services Program
+42,Environmental Services,4260,"Animal Care, Control and Adoption Center",Wake County Spay/Neuter Program,42_4260_Wake County Spay/Neuter Program
+44,General Services Administration,4401,Administration / Support,Central Services-Admn,44_4401_Central Services-Admn
+44,General Services Administration,4401,Administration / Support,GSA Administration,44_4401_GSA Administration
+44,General Services Administration,4401,Administration / Support,GSA Energy Camp Donations,44_4401_GSA Energy Camp Donations
+44,General Services Administration,4401,Administration / Support,GSA Energy Camp Grant,44_4401_GSA Energy Camp Grant
+44,General Services Administration,4401,Administration / Support,Mail Center,44_4401_Mail Center
+44,General Services Administration,4401,Administration / Support,Move Management,44_4401_Move Management
+44,General Services Administration,4402,Physical Plant,2nd Shift,44_4402_2nd Shift
+44,General Services Administration,4402,Physical Plant,Electrical Maintenance,44_4402_Electrical Maintenance
+44,General Services Administration,4402,Physical Plant,Environmental,44_4402_Environmental
+44,General Services Administration,4402,Physical Plant,General Trades,44_4402_General Trades
+44,General Services Administration,4402,Physical Plant,HVAC Maintenance,44_4402_HVAC Maintenance
+44,General Services Administration,4402,Physical Plant,Life Safety Systems,44_4402_Life Safety Systems
+44,General Services Administration,4402,Physical Plant,Physical Plant-Admn,44_4402_Physical Plant-Admn
+44,General Services Administration,4402,Physical Plant,Physical Plant-Charge Outs,44_4402_Physical Plant-Charge Outs
+44,General Services Administration,4402,Physical Plant,Piping/Plumbing Maintenance,44_4402_Piping/Plumbing Maintenance
+44,General Services Administration,4402,Physical Plant,Ponderosa,44_4402_Ponderosa
+44,General Services Administration,4403,Central Services,Central Services-Admn,44_4403_Central Services-Admn
+44,General Services Administration,4403,Central Services,Mail Center,44_4403_Mail Center
+44,General Services Administration,4403,Central Services,Move Management,44_4403_Move Management
+44,General Services Administration,4403,Central Services,Reprographics,44_4403_Reprographics
+44,General Services Administration,4404,Fleet Operations,Fleet Asset Management,44_4404_Fleet Asset Management
+44,General Services Administration,4404,Fleet Operations,Fleet Fuel Management,44_4404_Fleet Fuel Management
+44,General Services Administration,4404,Fleet Operations,Fleet Service Management,44_4404_Fleet Service Management
+44,General Services Administration,4405,Safety & Security,Corporate Security,44_4405_Corporate Security
+44,General Services Administration,4405,Safety & Security,Security-LEO,44_4405_Security-LEO
+44,General Services Administration,4406,Criminal Justice/General Government,Court Facility Operations,44_4406_Court Facility Operations
+44,General Services Administration,4406,Criminal Justice/General Government,Detention Electronic Security,44_4406_Detention Electronic Security
+44,General Services Administration,4406,Criminal Justice/General Government,Parking Management,44_4406_Parking Management
+44,General Services Administration,4407,Facility & Field Services,Construction Services,44_4407_Construction Services
+44,General Services Administration,4407,Facility & Field Services,Corporate Sign Graphics,44_4407_Corporate Sign Graphics
+44,General Services Administration,4407,Facility & Field Services,FS Administration,44_4407_FS Administration
+44,General Services Administration,4407,Facility & Field Services,Horticulture,44_4407_Horticulture
+44,General Services Administration,4407,Facility & Field Services,Housekeeping,44_4407_Housekeeping
+44,General Services Administration,4407,Facility & Field Services,Landscape Maintenance,44_4407_Landscape Maintenance
+44,General Services Administration,4408,Utilities/Life Safety/Environmental,Utilities,44_4408_Utilities
+44,General Services Administration,4409,County Building Agreements,Lake Crabtree County Park - Bridge to Sports Donations,44_4409_Lake Crabtree County Park - Bridge to Sports Donations
+44,General Services Administration,4409,County Building Agreements,Leased County Buildings,44_4409_Leased County Buildings
+46,Human Services Department,4601,HS Administration,Administration,46_4601_Administration
+46,Human Services Department,4601,HS Administration,Office of Community Affairs,46_4601_Office of Community Affairs
+46,Human Services Department,4601,HS Administration,Organizational Development,46_4601_Organizational Development
+46,Human Services Department,4602,Adult Services,Drop In Center,46_4602_Drop In Center
+46,Human Services Department,4602,Adult Services,ERC Adult Med/Food Stamps/DSS,46_4602_ERC Adult Med/Food Stamps/DSS
+46,Human Services Department,4603,Child Welfare/Mental Health,CW Core Services,46_4603_CW Core Services
+46,Human Services Department,4603,Child Welfare/Mental Health,Wake House,46_4603_Wake House
+46,Human Services Department,4604,Clinic Services,Child Health Clinic,46_4604_Child Health Clinic
+46,Human Services Department,4604,Clinic Services,Clinical Services-Dental,46_4604_Clinical Services-Dental
+46,Human Services Department,4606,Economic Self Sufficiency,Family Medicaid & Food Stamps,46_4606_Family Medicaid & Food Stamps
+46,Human Services Department,4606,Economic Self Sufficiency,Program Integrity,46_4606_Program Integrity
+46,Human Services Department,4606,Economic Self Sufficiency,Service Intake,46_4606_Service Intake
+46,Human Services Department,4606,Economic Self Sufficiency,Workfirst,46_4606_Workfirst
+46,Human Services Department,4607,Family Support,4 H Youth Development,46_4607_4 H Youth Development
+46,Human Services Department,4607,Family Support,Child Health Promotion,46_4607_Child Health Promotion
+46,Human Services Department,4607,Family Support,Child Serv Coor/General,46_4607_Child Serv Coor/General
+46,Human Services Department,4607,Family Support,Maternal Care Coord-Gen,46_4607_Maternal Care Coord-Gen
+46,Human Services Department,4607,Family Support,Maternal Women's Prevention Health,46_4607_Maternal Women's Prevention Health
+46,Human Services Department,4607,Family Support,WIC Client Services-State,46_4607_WIC Client Services-State
+46,Human Services Department,4608,Local Managing Entity,LME/Business Management & Claims Management,46_4608_LME/Business Management & Claims Management
+46,Human Services Department,4608,Local Managing Entity,LME/Care Coordination,46_4608_LME/Care Coordination
+46,Human Services Department,4609,Operations,Client Accounting,46_4609_Client Accounting
+46,Human Services Department,4609,Operations,Consumer Records,46_4609_Consumer Records
+46,Human Services Department,4609,Operations,Staff Recruitment/Retention,46_4609_Staff Recruitment/Retention
+46,Human Services Department,4611,Behavioral Health - Old,Bridging,46_4611_Bridging
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Adult Day Care,46_4615_Adult Day Care
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Adult Guardianship,46_4615_Adult Guardianship
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Adult Protective Services,46_4615_Adult Protective Services
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Business Advisory Council,46_4615_Business Advisory Council
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Child Day Care Admin,46_4615_Child Day Care Admin
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Child Support Enforcement,46_4615_Child Support Enforcement
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Child Support Enforcement Incentive Fund,46_4615_Child Support Enforcement Incentive Fund
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Crisis Intervention Program,46_4615_Crisis Intervention Program
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Daily Grind I/Swinburne,46_4615_Daily Grind I/Swinburne
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Daily Grind II/Sunnybrook,46_4615_Daily Grind II/Sunnybrook
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Duke Energy Progress,46_4615_Duke Energy Progress
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Economic Self Sufficiency - Admin,46_4615_Economic Self Sufficiency - Admin
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Economic Services - Generic,46_4615_Economic Services - Generic
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Energy Program,46_4615_Energy Program
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,ESS Central Charges,46_4615_ESS Central Charges
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Food Stamps,46_4615_Food Stamps
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,FS Employment & Training,46_4615_FS Employment & Training
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,In Home Aide-County,46_4615_In Home Aide-County
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Job Link Primary,46_4615_Job Link Primary
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Low-Income Home Energy Assistance,46_4615_Low-Income Home Energy Assistance
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Medicare LIS and MSP Enrollment Exp,46_4615_Medicare LIS and MSP Enrollment Exp
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,PACE,46_4615_PACE
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Personnel/Admin Costs-Adult SS,46_4615_Personnel/Admin Costs-Adult SS
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Program & Staff Development,46_4615_Program & Staff Development
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Progress Energy Donation,46_4615_Progress Energy Donation
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Resources for Seniors Outpost,46_4615_Resources for Seniors Outpost
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Rex Outpost,46_4615_Rex Outpost
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Services For The Blind,46_4615_Services For The Blind
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Special Asst/Aged Disabled,46_4615_Special Asst/Aged Disabled
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Subsidy Child Care Fund,46_4615_Subsidy Child Care Fund
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Supported Employment,46_4615_Supported Employment
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,TANF Co Reimbursement,46_4615_TANF Co Reimbursement
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Tanf EA Program,46_4615_Tanf EA Program
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Universal Economic Services,46_4615_Universal Economic Services
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Wake Electric Round Up Program,46_4615_Wake Electric Round Up Program
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,WHS Outpost,46_4615_WHS Outpost
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,WMC Outpost,46_4615_WMC Outpost
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Workfirst,46_4615_Workfirst
+46,Human Services Department,4615,Social Services Economic Self Sufficiency,Workforce Development,46_4615_Workforce Development
+46,Human Services Department,4625,Child Welfare,Adoption Assistance,46_4625_Adoption Assistance
+46,Human Services Department,4625,Child Welfare,Casey Family Programs,46_4625_Casey Family Programs
+46,Human Services Department,4625,Child Welfare,Child Welfare - Admin,46_4625_Child Welfare - Admin
+46,Human Services Department,4625,Child Welfare,Child Welfare Comm Partn,46_4625_Child Welfare Comm Partn
+46,Human Services Department,4625,Child Welfare,Child Welfare Donations,46_4625_Child Welfare Donations
+46,Human Services Department,4625,Child Welfare,Child Welfare Family Support Services,46_4625_Child Welfare Family Support Services
+46,Human Services Department,4625,Child Welfare,Community Response Program,46_4625_Community Response Program
+46,Human Services Department,4625,Child Welfare,Continuous Quality Improvement,46_4625_Continuous Quality Improvement
+46,Human Services Department,4625,Child Welfare,CW -  Generic,46_4625_CW -  Generic
+46,Human Services Department,4625,Child Welfare,CW Core Services,46_4625_CW Core Services
+46,Human Services Department,4625,Child Welfare,Family Finding Pilot,46_4625_Family Finding Pilot
+46,Human Services Department,4625,Child Welfare,FC Book Bag Drive,46_4625_FC Book Bag Drive
+46,Human Services Department,4625,Child Welfare,FC Book Bag Drive Donations,46_4625_FC Book Bag Drive Donations
+46,Human Services Department,4625,Child Welfare,FC Evening of Elegance Donations,46_4625_FC Evening of Elegance Donations
+46,Human Services Department,4625,Child Welfare,FC Evening of Elegance Fund,46_4625_FC Evening of Elegance Fund
+46,Human Services Department,4625,Child Welfare,Foster Care Supplement,46_4625_Foster Care Supplement
+46,Human Services Department,4625,Child Welfare,IV E Foster Care Program,46_4625_IV E Foster Care Program
+46,Human Services Department,4625,Child Welfare,Links Trust Fund,46_4625_Links Trust Fund
+46,Human Services Department,4625,Child Welfare,Special Adoption Fund,46_4625_Special Adoption Fund
+46,Human Services Department,4625,Child Welfare,Title IV-B Family Reunification,46_4625_Title IV-B Family Reunification
+46,Human Services Department,4625,Child Welfare,Wake House,46_4625_Wake House
+46,Human Services Department,4625,Child Welfare,Wake House Donations,46_4625_Wake House Donations
+46,Human Services Department,4625,Child Welfare,Wake House Fund,46_4625_Wake House Fund
+46,Human Services Department,4635,Children Youth and Family,4 H Youth Development,46_4635_4 H Youth Development
+46,Human Services Department,4635,Children Youth and Family,4-H Overnight Camp,46_4635_4-H Overnight Camp
+46,Human Services Department,4635,Children Youth and Family,Care Coordination for Children,46_4635_Care Coordination For Children
+46,Human Services Department,4635,Children Youth and Family,Child Health Promotion,46_4635_Child Health Promotion
+46,Human Services Department,4635,Children Youth and Family,Childcare Health Consultant Program,46_4635_Childcare Health Consultant Program
+46,Human Services Department,4635,Children Youth and Family,Children Youth & Family - Admin,46_4635_Children Youth & Family - Admin
+46,Human Services Department,4635,Children Youth and Family,Children Youth & Family - Generic,46_4635_Children Youth & Family - Generic
+46,Human Services Department,4635,Children Youth and Family,DSS Respite Services,46_4635_DSS Respite Services
+46,Human Services Department,4635,Children Youth and Family,Every Teen Counts,46_4635_Every Teen Counts
+46,Human Services Department,4635,Children Youth and Family,Family Support,46_4635_Family Support
+46,Human Services Department,4635,Children Youth and Family,Kid's First,46_4635_Kid's First
+46,Human Services Department,4635,Children Youth and Family,Maternal Women's Prevention Health,46_4635_Maternal Women's Prevention Health
+46,Human Services Department,4635,Children Youth and Family,Nurse Family Partnership,46_4635_Nurse Family Partnership
+46,Human Services Department,4635,Children Youth and Family,Nurse Mentoring,46_4635_Nurse Mentoring
+46,Human Services Department,4635,Children Youth and Family,OJJ-4 H,46_4635_OJJ-4 H
+46,Human Services Department,4635,Children Youth and Family,Pregnancy Care Management,46_4635_Pregnancy Care Management
+46,Human Services Department,4635,Children Youth and Family,Regional Breastfeeding Mini-Grant,46_4635_Regional Breastfeeding Mini-Grant
+46,Human Services Department,4635,Children Youth and Family,Regional WIC Lactation Training Center,46_4635_Regional WIC Lactation Training Center
+46,Human Services Department,4635,Children Youth and Family,School Based Public Health,46_4635_School Based Public Health
+46,Human Services Department,4635,Children Youth and Family,Together for a Better Education,46_4635_Together for a Better Education
+46,Human Services Department,4635,Children Youth and Family,WIC Administration,46_4635_WIC Administration
+46,Human Services Department,4635,Children Youth and Family,WIC Breastfeeding,46_4635_WIC Breastfeeding
+46,Human Services Department,4635,Children Youth and Family,WIC Breastfeeding Peer Counseling,46_4635_WIC Breastfeeding Peer Counseling
+46,Human Services Department,4635,Children Youth and Family,WIC Client Services,46_4635_WIC Client Services
+46,Human Services Department,4635,Children Youth and Family,WIC Nutrition Education,46_4635_WIC Nutrition Education
+46,Human Services Department,4635,Children Youth and Family,WIC Regional Breastfeeding Training,46_4635_WIC Regional Breastfeeding Training
+46,Human Services Department,4635,Children Youth and Family,Williams/Agent Account,46_4635_Williams/Agent Account
+46,Human Services Department,4645,Public Health,4H Youth Development,46_4645_4H Youth Development
+46,Human Services Department,4645,Public Health,Aids Case Management,46_4645_Aids Case Management
+46,Human Services Department,4645,Public Health,ARTS - Active Routes to School,46_4645_ARTS - Active Routes to School
+46,Human Services Department,4645,Public Health,ASU Parents Matter,46_4645_ASU Parents Matter
+46,Human Services Department,4645,Public Health,Care Coordination for Children,46_4645_Care Coordination for Children
+46,Human Services Department,4645,Public Health,CD Surveillance Team,46_4645_CD Surveillance Team
+46,Human Services Department,4645,Public Health,CDC - TB Control,46_4645_CDC - TB Control
+46,Human Services Department,4645,Public Health,Child Fatality Prevention,46_4645_Child Fatality Prevention
+46,Human Services Department,4645,Public Health,Child Health Promotion,46_4645_Child Health Promotion
+46,Human Services Department,4645,Public Health,Comp Breast Crvcl Cncr Control Program,46_4645_Comp Breast Crvcl Cncr Control Program
+46,Human Services Department,4645,Public Health,Disaster Preparedness,46_4645_Disaster Preparedness
+46,Human Services Department,4645,Public Health,Ebola Preparedness,46_4645_Ebola Preparedness
+46,Human Services Department,4645,Public Health,Emergency Overdose:Local Mitigation to the Opioid Crisis,46_4645_Emergency Overdose:Local Mitigation to the Opioid Crisis
+46,Human Services Department,4645,Public Health,Epidemiology Surveillance,46_4645_Epidemiology Surveillance
+46,Human Services Department,4645,Public Health,FOCUS HCV Program,46_4645_FOCUS HCV Program
+46,Human Services Department,4645,Public Health,General Aid to Counties,46_4645_General Aid to Counties
+46,Human Services Department,4645,Public Health,Gonorrhea Partner Services (GPS),46_4645_Gonorrhea Partner Services (GPS)
+46,Human Services Department,4645,Public Health,GSK Making Proud Choices,46_4645_GSK Making Proud Choices
+46,Human Services Department,4645,Public Health,Health Promotion Chronic Disease Prevention,46_4645_Health Promotion Chronic Disease Prevention
+46,Human Services Department,4645,Public Health,Healthy Communities,46_4645_Healthy Communities
+46,Human Services Department,4645,Public Health,HIV PrEP,46_4645_HIV PrEP
+46,Human Services Department,4645,Public Health,HIV Testing & Counseling,46_4645_HIV Testing & Counseling
+46,Human Services Department,4645,Public Health,HIV/STD Hammond Rd Testing Site,46_4645_HIV/STD Hammond Rd Testing Site
+46,Human Services Department,4645,Public Health,Immunization Outreach,46_4645_Immunization Outreach
+46,Human Services Department,4645,Public Health,Integrated Program for Prevention of Drug Overdose & Tobacco,46_4645_Integrated Program for Prevention of Drug Overdose & Tobacco
+46,Human Services Department,4645,Public Health,Integrated Targeted Testing Services,46_4645_Integrated Targeted Testing Services
+46,Human Services Department,4645,Public Health,Maternal Women's Prevention Health,46_4645_Maternal Women's Prevention Health
+46,Human Services Department,4645,Public Health,Men's Health Clinic (CAPUS) - GF,46_4645_Men's Health Clinic (CAPUS) - GF
+46,Human Services Department,4645,Public Health,Migrant Health,46_4645_Migrant Health
+46,Human Services Department,4645,Public Health,Mosquito & Tick Suppression,46_4645_Mosquito & Tick Suppression
+46,Human Services Department,4645,Public Health,NC Public Health Emergency Preparedness,46_4645_NC Public Health Emergency Preparedness
+46,Human Services Department,4645,Public Health,Nurse Family Partnership,46_4645_Nurse Family Partnership
+46,Human Services Department,4645,Public Health,"Occupationl Health, Safety & Infection Control","46_4645_Occupationl Health, Safety & Infection Control"
+46,Human Services Department,4645,Public Health,OJJ - 4H,46_4645_OJJ - 4H
+46,Human Services Department,4645,Public Health,PH Reg'l Surveillance Team,46_4645_PH Reg'l Surveillance Team
+46,Human Services Department,4645,Public Health,Pregnancy Care Management,46_4645_Pregnancy Care Management
+46,Human Services Department,4645,Public Health,Presciption Drug Overdose,46_4645_Presciption Drug Overdose
+46,Human Services Department,4645,Public Health,Project Assist-State,46_4645_Project Assist-State
+46,Human Services Department,4645,Public Health,Project Lazarus,46_4645_Project Lazarus
+46,Human Services Department,4645,Public Health,Public Health -  Generic,46_4645_Public Health -  Generic
+46,Human Services Department,4645,Public Health,Public Health - Admin,46_4645_Public Health - Admin
+46,Human Services Department,4645,Public Health,Public Health Donations,46_4645_Public Health Donations
+46,Human Services Department,4645,Public Health,Safe Spaces (CAPUS),46_4645_Safe Spaces (CAPUS)
+46,Human Services Department,4645,Public Health,School Based Public Health,46_4645_School Based Public Health
+46,Human Services Department,4645,Public Health,STD Aids Prevention,46_4645_STD Aids Prevention
+46,Human Services Department,4645,Public Health,Substance Abuse Centers,46_4645_Substance Abuse Centers
+46,Human Services Department,4645,Public Health,TB - Medical Services,46_4645_TB - Medical Services
+46,Human Services Department,4645,Public Health,TB Control,46_4645_TB Control
+46,Human Services Department,4645,Public Health,Tobacco Prevention,46_4645_Tobacco Prevention
+46,Human Services Department,4645,Public Health,Transitional Care Coordination Grant,46_4645_Transitional Care Coordination Grant
+46,Human Services Department,4645,Public Health,Vital Records,46_4645_Vital Records
+46,Human Services Department,4645,Public Health,WIC Administration,46_4645_WIC Administration
+46,Human Services Department,4645,Public Health,WIC Breastfeeding,46_4645_WIC Breastfeeding
+46,Human Services Department,4645,Public Health,WIC Breastfeeding Peer Counseling,46_4645_WIC Breastfeeding Peer Counseling
+46,Human Services Department,4645,Public Health,WIC Client Services,46_4645_WIC Client Services
+46,Human Services Department,4645,Public Health,WIC Nutrition Education,46_4645_WIC Nutrition Education
+46,Human Services Department,4645,Public Health,WIC Regional Breastfeeding Training,46_4645_WIC Regional Breastfeeding Training
+46,Human Services Department,4645,Public Health,Wise Woman,46_4645_Wise Woman
+46,Human Services Department,4645,Public Health,Zika Virus Mosquito Control,46_4645_Zika Virus Mosquito Control
+46,Human Services Department,4655,Health Clinics,Child Health Clinic,46_4655_Child Health Clinic
+46,Human Services Department,4655,Health Clinics,Child Health Clinic - Grants Fund,46_4655_Child Health Clinic - Grants Fund
+46,Human Services Department,4655,Health Clinics,Child Health Clinic Donations,46_4655_Child Health Clinic Donations
+46,Human Services Department,4655,Health Clinics,Clinical Services-Dental,46_4655_Clinical Services-Dental
+46,Human Services Department,4655,Health Clinics,Community Health Grant - Dental Clinic,46_4655_Community Health Grant - Dental Clinic
+46,Human Services Department,4655,Health Clinics,Delta Dental/Healthy Smiles,46_4655_Delta Dental/Healthy Smiles
+46,Human Services Department,4655,Health Clinics,Health Clinics -  Generic,46_4655_Health Clinics -  Generic
+46,Human Services Department,4655,Health Clinics,Health Clinics - Admin,46_4655_Health Clinics - Admin
+46,Human Services Department,4655,Health Clinics,Health Equity Men's Clinic,46_4655_Health Equity Men's Clinic
+46,Human Services Department,4655,Health Clinics,HIV Clinic Donations,46_4655_HIV Clinic Donations
+46,Human Services Department,4655,Health Clinics,HIV/AIDS Clinic,46_4655_HIV/AIDS Clinic
+46,Human Services Department,4655,Health Clinics,Immunization Action Plan,46_4655_Immunization Action Plan
+46,Human Services Department,4655,Health Clinics,Immunization/Foreign Travel/Refugee Clinic,46_4655_Immunization/Foreign Travel/Refugee Clinic
+46,Human Services Department,4655,Health Clinics,Laboratory,46_4655_Laboratory
+46,Human Services Department,4655,Health Clinics,Maternal Health Clinic G,46_4655_Maternal Health Clinic G
+46,Human Services Department,4655,Health Clinics,Minority AIDS Initiative,46_4655_Minority AIDS Initiative
+46,Human Services Department,4655,Health Clinics,Parents Matter - Clinic F,46_4655_Parents Matter - Clinic F
+46,Human Services Department,4655,Health Clinics,Pharmacy - MH,46_4655_Pharmacy - MH
+46,Human Services Department,4655,Health Clinics,Pharmacy - PH,46_4655_Pharmacy - PH
+46,Human Services Department,4655,Health Clinics,Pharmacy Inventory Purchases,46_4655_Pharmacy Inventory Purchases
+46,Human Services Department,4655,Health Clinics,Refugee Health Assessments,46_4655_Refugee Health Assessments
+46,Human Services Department,4655,Health Clinics,Reimb By UNC/Clinic A Expenditures,46_4655_Reimb By UNC/Clinic A Expenditures
+46,Human Services Department,4655,Health Clinics,Ryan White Care B Primary Medical,46_4655_Ryan White Care B Primary Medical
+46,Human Services Department,4655,Health Clinics,Ryan White Emerging Communities,46_4655_Ryan White Emerging Communities
+46,Human Services Department,4655,Health Clinics,Ryan White Title III,46_4655_Ryan White Title III
+46,Human Services Department,4655,Health Clinics,STD Clinic,46_4655_STD Clinic
+46,Human Services Department,4655,Health Clinics,STD Drugs,46_4655_STD Drugs
+46,Human Services Department,4655,Health Clinics,Women's Health Clinic F,46_4655_Women's Health Clinic F
+46,Human Services Department,4665,Behavioral Health,Crisis & Assessment Fund,46_4665_Crisis & Assessment Fund
+46,Human Services Department,4665,Behavioral Health,Drop In Center,46_4665_Drop In Center
+46,Human Services Department,4675,Administration and Operations,ACP - Alternatives to Commitment,46_4675_ACP - Alternatives to Commitment
+46,Human Services Department,4675,Administration and Operations,Admin-Housing,46_4675_Admin-Housing
+46,Human Services Department,4675,Administration and Operations,Business Analytics and Project Management,46_4675_Business Analytics and Project Management
+46,Human Services Department,4675,Administration and Operations,Central Charges-1571,46_4675_Central Charges-1571
+46,Human Services Department,4675,Administration and Operations,Client Accounting,46_4675_Client Accounting
+46,Human Services Department,4675,Administration and Operations,Client Transportation-Medicaid,46_4675_Client Transportation-Medicaid
+46,Human Services Department,4675,Administration and Operations,Community Detention Program,46_4675_Community Detention Program
+46,Human Services Department,4675,Administration and Operations,Community Outreach Team,46_4675_Community Outreach Team
+46,Human Services Department,4675,Administration and Operations,Consumer Experience Management,46_4675_Consumer Experience Management
+46,Human Services Department,4675,Administration and Operations,Consumer Records,46_4675_Consumer Records
+46,Human Services Department,4675,Administration and Operations,Contracts/Grants Management,46_4675_Contracts/Grants Management
+46,Human Services Department,4675,Administration and Operations,Cool For Wake Donations,46_4675_Cool For Wake Donations
+46,Human Services Department,4675,Administration and Operations,Cornerstone,46_4675_Cornerstone
+46,Human Services Department,4675,Administration and Operations,Customer Service/Call Center,46_4675_Customer Service/Call Center
+46,Human Services Department,4675,Administration and Operations,Drug Treatment Court FY14 -16,46_4675_Drug Treatment Court FY14 -16
+46,Human Services Department,4675,Administration and Operations,East Wake Gang Prev Partnership,46_4675_East Wake Gang Prev Partnership
+46,Human Services Department,4675,Administration and Operations,East Wake Gang Prevention Donations,46_4675_East Wake Gang Prevention Donations
+46,Human Services Department,4675,Administration and Operations,ERC Administration,46_4675_ERC Administration
+46,Human Services Department,4675,Administration and Operations,Finance Office,46_4675_Finance Office
+46,Human Services Department,4675,Administration and Operations,FY09 McKinney Grant,46_4675_FY09 McKinney Grant
+46,Human Services Department,4675,Administration and Operations,H/S - Contingency For Future Grants/Awards,46_4675_H/S - Contingency For Future Grants/Awards
+46,Human Services Department,4675,Administration and Operations,Holiday Cheer Donations,46_4675_Holiday Cheer Donations
+46,Human Services Department,4675,Administration and Operations,Housing & Supp Services,46_4675_Housing & Supp Services
+46,Human Services Department,4675,Administration and Operations,Housing Donations,46_4675_Housing Donations
+46,Human Services Department,4675,Administration and Operations,HS Administration - Generic,46_4675_HS Administration - Generic
+46,Human Services Department,4675,Administration and Operations,HS Data Support Group,46_4675_HS Data Support Group
+46,Human Services Department,4675,Administration and Operations,HS Technology Contracts,46_4675_HS Technology Contracts
+46,Human Services Department,4675,Administration and Operations,Human Capital Development,46_4675_Human Capital Development
+46,Human Services Department,4675,Administration and Operations,Human Services - Admin,46_4675_Human Services - Admin
+46,Human Services Department,4675,Administration and Operations,Incentive Housing Dormitory,46_4675_Incentive Housing Dormitory
+46,Human Services Department,4675,Administration and Operations,Juvenile Detention Center,46_4675_Juvenile Detention Center
+46,Human Services Department,4675,Administration and Operations,Millbrook HS Center,46_4675_Millbrook HS Center
+46,Human Services Department,4675,Administration and Operations,NRC Administration,46_4675_NRC Administration
+46,Human Services Department,4675,Administration and Operations,Oak City Multi-Services Center,46_4675_Oak City Multi-Services Center
+46,Human Services Department,4675,Administration and Operations,OJJ Support,46_4675_OJJ Support
+46,Human Services Department,4675,Administration and Operations,Organizational Development,46_4675_Organizational Development
+46,Human Services Department,4675,Administration and Operations,Program Integrity,46_4675_Program Integrity
+46,Human Services Department,4675,Administration and Operations,Quality Improvement 101,46_4675_Quality Improvement 101
+46,Human Services Department,4675,Administration and Operations,Quality Management,46_4675_Quality Management
+46,Human Services Department,4675,Administration and Operations,Recovery Court FY17-19,46_4675_Recovery Court FY17-19
+46,Human Services Department,4675,Administration and Operations,S. Wilmington St Center/Grants Fund,46_4675_S. Wilmington St Center/Grants Fund
+46,Human Services Department,4675,Administration and Operations,School Buddies,46_4675_School Buddies
+46,Human Services Department,4675,Administration and Operations,School Buddies Donations,46_4675_School Buddies Donations
+46,Human Services Department,4675,Administration and Operations,Social & Economic Vitality,46_4675_Social & Economic Vitality
+46,Human Services Department,4675,Administration and Operations,South Wilmington Street Center,46_4675_South Wilmington Street Center
+46,Human Services Department,4675,Administration and Operations,SPCR 2011 - 2/11-1/12,46_4675_SPCR 2011 - 2/11-1/12
+46,Human Services Department,4675,Administration and Operations,Specialty Court Programs,46_4675_Specialty Court Programs
+46,Human Services Department,4675,Administration and Operations,SRC Administration,46_4675_SRC Administration
+46,Human Services Department,4675,Administration and Operations,Staff Recruitment/Retention,46_4675_Staff Recruitment/Retention
+46,Human Services Department,4675,Administration and Operations,Summer Camps Donations,46_4675_Summer Camps Donations
+46,Human Services Department,4675,Administration and Operations,Supported Housing Team,46_4675_Supported Housing Team
+46,Human Services Department,4675,Administration and Operations,Veteran's Homeless Services- General Fund,46_4675_Veteran's Homeless Services- General Fund
+46,Human Services Department,4675,Administration and Operations,Warmth For Wake Donations,46_4675_Warmth For Wake Donations
+46,Human Services Department,4675,Administration and Operations,Western Wake Human Services,46_4675_Western Wake Human Services
+46,Human Services Department,4685,Behavioral Health - Managed Care Division,Administration,46_4685_Administration
+46,Human Services Department,4685,Behavioral Health - Managed Care Division,Adult Services,46_4685_Adult Services
+46,Human Services Department,4685,Behavioral Health - Managed Care Division,Behaviorial Health - Admin (MCO),46_4685_Behaviorial Health - Admin (MCO)
+46,Human Services Department,4685,Behavioral Health - Managed Care Division,Crisis Services,46_4685_Crisis Services
+46,Human Services Department,4685,Behavioral Health - Managed Care Division,Judiciary,46_4685_Judiciary
+46,Human Services Department,4685,Behavioral Health - Managed Care Division,Recovery,46_4685_Recovery
+46,Human Services Department,4685,Behavioral Health - Managed Care Division,Residential,46_4685_Residential
+46,Human Services Department,4685,Behavioral Health - Managed Care Division,Support,46_4685_Support
+46,Human Services Department,4685,Behavioral Health - Managed Care Division,Treatment,46_4685_Treatment
+46,Human Services Department,4699,Human Services Reserves,Human Services Reserves,46_4699_Human Services Reserves
+46,Human Services Department,46HS,HS Housing,Area Admn HUD Housing Project,46_46HS_Area Admn HUD Housing Project
+46,Human Services Department,46HS,HS Housing,SPCR 2009 - 2/09-1/10,46_46HS_SPCR 2009 - 2/09-1/10
+47,Housing and Community Revitalization,4701,Housing (General Fund),ADMIN - Housing,47_4701_ADMIN - Housing
+47,Housing and Community Revitalization,4701,Housing (General Fund),Community Outreach Team,47_4701_Community Outreach Team
+47,Housing and Community Revitalization,4701,Housing (General Fund),Cornerstone,47_4701_Cornerstone
+47,Housing and Community Revitalization,4701,Housing (General Fund),Housing & Supp Services,47_4701_Housing & Supp Services
+47,Housing and Community Revitalization,4701,Housing (General Fund),Housing Resource Team,47_4701_Housing Resource Team
+47,Housing and Community Revitalization,4701,Housing (General Fund),Housing Transfers,47_4701_Housing Transfers
+47,Housing and Community Revitalization,4701,Housing (General Fund),Incentive Housing Dormitory,47_4701_Incentive Housing Dormitory
+47,Housing and Community Revitalization,4701,Housing (General Fund),McKinney Grant,47_4701_McKinney Grant
+47,Housing and Community Revitalization,4701,Housing (General Fund),South Wilmington Street Center,47_4701_South Wilmington Street Center
+47,Housing and Community Revitalization,4701,Housing (General Fund),Supported Housing Team,47_4701_Supported Housing Team
+47,Housing and Community Revitalization,4701,Housing (General Fund),Veteran's Homeless Services,47_4701_Veteran's Homeless Services
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 09 Administration,47_47BG_CDBG 09 Administration
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 12 Public Facilities,47_47BG_CDBG 12 Public Facilities
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 13 Public Facilities,47_47BG_CDBG 13 Public Facilities
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 14 Public Facilities,47_47BG_CDBG 14 Public Facilities
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 14 Rehab,47_47BG_CDBG 14 Rehab
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 15 Administration,47_47BG_CDBG 15 Administration
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 15 Housing Development,47_47BG_CDBG 15 Housing Development
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 15 Public Facilities,47_47BG_CDBG 15 Public Facilities
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 15 Rehab,47_47BG_CDBG 15 Rehab
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 16 Administration,47_47BG_CDBG 16 Administration
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 16 Housing Development,47_47BG_CDBG 16 Housing Development
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 16 Public Facilities,47_47BG_CDBG 16 Public Facilities
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 16 Rehab,47_47BG_CDBG 16 Rehab
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 17 Administration,47_47BG_CDBG 17 Administration
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 17 Public Facilities,47_47BG_CDBG 17 Public Facilities
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 17 Rehab,47_47BG_CDBG 17 Rehab
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 18 Administration,47_47BG_CDBG 18 Administration
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 18 Public Facilities,47_47BG_CDBG 18 Public Facilities
+47,Housing and Community Revitalization,47BG,CDBG,CDBG 18 Rehab,47_47BG_CDBG 18 Rehab
+47,Housing and Community Revitalization,47BG,CDBG,CDBG Program Income,47_47BG_CDBG Program Income
+47,Housing and Community Revitalization,47BG,CDBG,CFY18 CDBG 17 Housing Development,47_47BG_CFY18 CDBG 17 Housing Development
+47,Housing and Community Revitalization,47CO,County Match,CIP Program Income,47_47CO_CIP Program Income
+47,Housing and Community Revitalization,47CO,County Match,County Funds 12,47_47CO_County Funds 12
+47,Housing and Community Revitalization,47CO,County Match,County Funds 13,47_47CO_County Funds 13
+47,Housing and Community Revitalization,47CO,County Match,County Funds 14,47_47CO_County Funds 14
+47,Housing and Community Revitalization,47CO,County Match,County Funds 15,47_47CO_County Funds 15
+47,Housing and Community Revitalization,47CO,County Match,County Funds 16,47_47CO_County Funds 16
+47,Housing and Community Revitalization,47CO,County Match,County Funds 17,47_47CO_County Funds 17
+47,Housing and Community Revitalization,47CO,County Match,County Funds 18,47_47CO_County Funds 18
+47,Housing and Community Revitalization,47EG,Emergency Solutions Grant,Emergency Solutions Grant 16,47_47EG_Emergency Solutions Grant 16
+47,Housing and Community Revitalization,47EG,Emergency Solutions Grant,Emergency Solutions Grant 17,47_47EG_Emergency Solutions Grant 17
+47,Housing and Community Revitalization,47EG,Emergency Solutions Grant,Emergency Solutions Grant 18,47_47EG_Emergency Solutions Grant 18
+47,Housing and Community Revitalization,47HM,Home,HOME 09 Administration,47_47HM_HOME 09 Administration
+47,Housing and Community Revitalization,47HM,Home,HOME 11 Administration,47_47HM_HOME 11 Administration
+47,Housing and Community Revitalization,47HM,Home,HOME 13 Affordable Housing,47_47HM_HOME 13 Affordable Housing
+47,Housing and Community Revitalization,47HM,Home,HOME 14 Affordable Housing,47_47HM_HOME 14 Affordable Housing
+47,Housing and Community Revitalization,47HM,Home,HOME 14 CHDO,47_47HM_HOME 14 CHDO
+47,Housing and Community Revitalization,47HM,Home,HOME 15 Administration,47_47HM_HOME 15 Administration
+47,Housing and Community Revitalization,47HM,Home,HOME 15 Affordable Housing,47_47HM_HOME 15 Affordable Housing
+47,Housing and Community Revitalization,47HM,Home,HOME 15 CHDO,47_47HM_HOME 15 CHDO
+47,Housing and Community Revitalization,47HM,Home,HOME 16 Administration,47_47HM_HOME 16 Administration
+47,Housing and Community Revitalization,47HM,Home,HOME 16 Affordable Housing,47_47HM_HOME 16 Affordable Housing
+47,Housing and Community Revitalization,47HM,Home,HOME 16 CHDO,47_47HM_HOME 16 CHDO
+47,Housing and Community Revitalization,47HM,Home,HOME 17 Administration,47_47HM_HOME 17 Administration
+47,Housing and Community Revitalization,47HM,Home,HOME 17 Affordable Housing,47_47HM_HOME 17 Affordable Housing
+47,Housing and Community Revitalization,47HM,Home,HOME 17 CHDO,47_47HM_HOME 17 CHDO
+47,Housing and Community Revitalization,47HM,Home,HOME 18 Administration,47_47HM_HOME 18 Administration
+47,Housing and Community Revitalization,47HM,Home,HOME 18 Affordable Housing,47_47HM_HOME 18 Affordable Housing
+47,Housing and Community Revitalization,47HM,Home,HOME 18 CHDO,47_47HM_HOME 18 CHDO
+47,Housing and Community Revitalization,47HM,Home,HOME Program Income,47_47HM_HOME Program Income
+47,Housing and Community Revitalization,47HW,HOPWA Grants,FY14 HOPWA Grant,47_47HW_FY14 HOPWA Grant
+47,Housing and Community Revitalization,47HW,HOPWA Grants,FY15 HOPWA Grant,47_47HW_FY15 HOPWA Grant
+47,Housing and Community Revitalization,47HW,HOPWA Grants,FY16 HOPWA Grant,47_47HW_FY16 HOPWA Grant
+47,Housing and Community Revitalization,47HW,HOPWA Grants,FY17 HOPWA Grant,47_47HW_FY17 HOPWA Grant
+47,Housing and Community Revitalization,47HW,HOPWA Grants,FY18 HOPWA Grant,47_47HW_FY18 HOPWA Grant
+47,Housing and Community Revitalization,47SC,Small Cities,Small Cities-Program Income,47_47SC_Small Cities-Program Income
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,Housing First - 07,47_47SP_Housing First - 07
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,Housing First - 13,47_47SP_Housing First - 13
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,Housing First - 14,47_47SP_Housing First - 14
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,Housing First - 15,47_47SP_Housing First - 15
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,New S+C 2010,47_47SP_New S+C 2010
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,New S+C 2010 Bonus,47_47SP_New S+C 2010 Bonus
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,Passage Home TBRA,47_47SP_Passage Home TBRA
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,S+C 2011 - 03/05/18-03/04/19,47_47SP_S+C 2011 - 03/05/18-03/04/19
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,S+C Renewal (09/1/17-08/31/18),47_47SP_S+C Renewal (09/1/17-08/31/18)
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,S+C Renewal (09/1/18-08/31/19),47_47SP_S+C Renewal (09/1/18-08/31/19)
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,S+C Renewal (09/20/2016-09/19/2017),47_47SP_S+C Renewal (09/20/2016-09/19/2017)
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,Shelter Plus Care - 2/12-1/13,47_47SP_Shelter Plus Care - 2/12-1/13
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,Shelter Plus Care - 2/13-1/14,47_47SP_Shelter Plus Care - 2/13-1/14
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,Shelter Plus Care - 2/14-1/15,47_47SP_Shelter Plus Care - 2/14-1/15
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,Shelter Plus Care - 2/15-1/16,47_47SP_Shelter Plus Care - 2/15-1/16
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,Shelter Plus Care - 2/16-1/17,47_47SP_Shelter Plus Care - 2/16-1/17
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,Shelter Plus Care - 2/17-1/18,47_47SP_Shelter Plus Care - 2/17-1/18
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,Shelter Plus Care - 2/18-1/19,47_47SP_Shelter Plus Care - 2/18-1/19
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,Shelter Plus Care - 2/19-1/20,47_47SP_Shelter Plus Care - 2/19-1/20
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,Shelter Plus Care 2011 - 2013-2018,47_47SP_Shelter Plus Care 2011 - 2013-2018
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,SWSC Rental Assistance 2016,47_47SP_SWSC Rental Assistance 2016
+47,Housing and Community Revitalization,47SP,Shelter Plus Care,SWSC Rental Assistance 2017,47_47SP_SWSC Rental Assistance 2017
+47,Housing and Community Revitalization,47YE,Housing - Y/E Reporting,Year-end adjustments,47_47YE_Year-end adjustments
+47,Housing and Community Revitalization,AH01,Rental Production & Preservation,"DHIC, Inc. Loan for Trees & Leaves Apartments","47_AH01_DHIC, Inc. Loan for Trees & Leaves Apartments"
+47,Housing and Community Revitalization,AH20,Homeless Services,Urban Ministries Grant for Shelter for Homeless Women,47_AH20_Urban Ministries Grant for Shelter for Homeless Women
+47,Housing and Community Revitalization,AH99,Reserve for Future Projects,Reserve for Future Projects,47_AH99_Reserve for Future Projects
+49,City-County Bureau of Identification,4910,CCBI-Support Services,CCBI-Field Services,49_4910_CCBI-Field Services
+49,City-County Bureau of Identification,4910,CCBI-Support Services,CCBI-Identification Services,49_4910_CCBI-Identification Services
+49,City-County Bureau of Identification,4920,CCBI-Investigations,CCBI-Investigations,49_4920_CCBI-Investigations
+49,City-County Bureau of Identification,4930,CCBI - Crime Laboratory,CCBI-Crime Lab,49_4930_CCBI-Crime Lab
+49,City-County Bureau of Identification,4940,CCBI-Administration,Accreditations,49_4940_Accreditations
+49,City-County Bureau of Identification,4940,CCBI-Administration,CCBI-Administration,49_4940_CCBI-Administration
+49,City-County Bureau of Identification,4940,CCBI-Administration,Coverdell Grant - CCBI,49_4940_Coverdell Grant - CCBI
+49,City-County Bureau of Identification,4940,CCBI-Administration,Coverdell Grant - SBI,49_4940_Coverdell Grant - SBI
+49,City-County Bureau of Identification,4940,CCBI-Administration,Governors Highway Safety Program,49_4940_Governors Highway Safety Program
+49,City-County Bureau of Identification,4940,CCBI-Administration,Rapid ID Grant,49_4940_Rapid ID Grant
+49,City-County Bureau of Identification,4950,CCBI-Forfeitures,CT Ordered Fees/State Forfeiture,49_4950_CT Ordered Fees/State Forfeiture
+49,City-County Bureau of Identification,4950,CCBI-Forfeitures,Dept of Justice/Fed Forfeiture,49_4950_Dept of Justice/Fed Forfeiture
+49,City-County Bureau of Identification,4950,CCBI-Forfeitures,NC Unauth Cont Sub Tax/ State Forfeiture,49_4950_NC Unauth Cont Sub Tax/ State Forfeiture
+49,City-County Bureau of Identification,4950,CCBI-Forfeitures,US Treasury/Fed Forfeiture,49_4950_US Treasury/Fed Forfeiture
+50,Sheriff,5001,Sheriff,Firing Range Operating,50_5001_Firing Range Operating
+50,Sheriff,5001,Sheriff,Sheriff,50_5001_Sheriff
+50,Sheriff,5010,Law Enforcement,2013 Byrne Jag Grant,50_5010_2013 Byrne Jag Grant
+50,Sheriff,5010,Law Enforcement,2014 Byrne Jag Grant,50_5010_2014 Byrne Jag Grant
+50,Sheriff,5010,Law Enforcement,2015 Byrne Jag Grant,50_5010_2015 Byrne Jag Grant
+50,Sheriff,5010,Law Enforcement,2016 Byrne Jag Grant,50_5010_2016 Byrne Jag Grant
+50,Sheriff,5010,Law Enforcement,2017 Byrne Jag Grant,50_5010_2017 Byrne Jag Grant
+50,Sheriff,5010,Law Enforcement,2018 Byrne Jag Grant,50_5010_2018 Byrne Jag Grant
+50,Sheriff,5010,Law Enforcement,ABC Board Grant,50_5010_ABC Board Grant
+50,Sheriff,5010,Law Enforcement,Canine Donations,50_5010_Canine Donations
+50,Sheriff,5010,Law Enforcement,Citizens' Well-Check Program Donation,50_5010_Citizens' Well-Check Program Donation
+50,Sheriff,5010,Law Enforcement,Cops In Schools Grant,50_5010_Cops In Schools Grant
+50,Sheriff,5010,Law Enforcement,Donations - Sheriff,50_5010_Donations - Sheriff
+50,Sheriff,5010,Law Enforcement,Equipment/Training Donations,50_5010_Equipment/Training Donations
+50,Sheriff,5010,Law Enforcement,Federal Forfeitures,50_5010_Federal Forfeitures
+50,Sheriff,5010,Law Enforcement,NC Governors Highway Safety Program,50_5010_NC Governors Highway Safety Program
+50,Sheriff,5010,Law Enforcement,Project Lifesaver Program Donations,50_5010_Project Lifesaver Program Donations
+50,Sheriff,5010,Law Enforcement,Target Donation,50_5010_Target Donation
+50,Sheriff,5010,Law Enforcement,Telecommunications,50_5010_Telecommunications
+50,Sheriff,5050,Detention,Annex Admin,50_5050_Annex Admin
+50,Sheriff,5050,Detention,Commissary,50_5050_Commissary
+50,Sheriff,5050,Detention,Hammond 1B,50_5050_Hammond 1B
+50,Sheriff,5050,Detention,Inmate Education and Workforce Development,50_5050_Inmate Education and Workforce Development
+50,Sheriff,5050,Detention,Main Detention Admin,50_5050_Main Detention Admin
+50,Sheriff,5050,Detention,Main Detention Food Services,50_5050_Main Detention Food Services
+50,Sheriff,5050,Detention,Main Detention Health Care,50_5050_Main Detention Health Care
+51,Fire Services,5120,Fire Services,Apex FD,51_5120_Apex FD
+51,Fire Services,5120,Fire Services,Bayleaf FD,51_5120_Bayleaf FD
+51,Fire Services,5120,Fire Services,Cary FD,51_5120_Cary FD
+51,Fire Services,5120,Fire Services,County Firefighter Program - Rolesville,51_5120_County Firefighter Program - Rolesville
+51,Fire Services,5120,Fire Services,Durham Highway FD,51_5120_Durham Highway FD
+51,Fire Services,5120,Fire Services,Eastern Wake FD,51_5120_Eastern Wake FD
+51,Fire Services,5120,Fire Services,Fairview FD,51_5120_Fairview FD
+51,Fire Services,5120,Fire Services,Fire Operations,51_5120_Fire Operations
+51,Fire Services,5120,Fire Services,Fire Prevention/Response,51_5120_Fire Prevention/Response
+51,Fire Services,5120,Fire Services,Fire Services,51_5120_Fire Services
+51,Fire Services,5120,Fire Services,Fire Services Training,51_5120_Fire Services Training
+51,Fire Services,5120,Fire Services,Fire Tax District System,51_5120_Fire Tax District System
+51,Fire Services,5120,Fire Services,Fuquay Varina FD,51_5120_Fuquay Varina FD
+51,Fire Services,5120,Fire Services,Garner FD,51_5120_Garner FD
+51,Fire Services,5120,Fire Services,Holly Springs FD,51_5120_Holly Springs FD
+51,Fire Services,5120,Fire Services,Hopkins FD,51_5120_Hopkins FD
+51,Fire Services,5120,Fire Services,Morrisville FD,51_5120_Morrisville FD
+51,Fire Services,5120,Fire Services,Northern Wake FD,51_5120_Northern Wake FD
+51,Fire Services,5120,Fire Services,Rolesville FD,51_5120_Rolesville FD
+51,Fire Services,5120,Fire Services,Stony Hill FD,51_5120_Stony Hill FD
+51,Fire Services,5120,Fire Services,Swift Creek FD,51_5120_Swift Creek FD
+51,Fire Services,5120,Fire Services,Wake Forest FD,51_5120_Wake Forest FD
+51,Fire Services,5120,Fire Services,Wake-New Hope FD,51_5120_Wake-New Hope FD
+51,Fire Services,5120,Fire Services,Wendell FD,51_5120_Wendell FD
+51,Fire Services,5120,Fire Services,Western Wake FD,51_5120_Western Wake FD
+51,Fire Services,5120,Fire Services,Zebulon FD,51_5120_Zebulon FD
+51,Fire Services,5130,Emergency Management,09 EMPG Supplemental,51_5130_09 EMPG Supplemental
+51,Fire Services,5130,Emergency Management,10 DHS - SAR Training,51_5130_10 DHS - SAR Training
+51,Fire Services,5130,Emergency Management,10 EMPG Supplemental,51_5130_10 EMPG Supplemental
+51,Fire Services,5130,Emergency Management,11 EMPG Supplemental,51_5130_11 EMPG Supplemental
+51,Fire Services,5130,Emergency Management,12 EMPG Supplemental,51_5130_12 EMPG Supplemental
+51,Fire Services,5130,Emergency Management,16 EMPG - Supplemental,51_5130_16 EMPG - Supplemental
+51,Fire Services,5130,Emergency Management,17 EMPG - Supplemental,51_5130_17 EMPG - Supplemental
+51,Fire Services,5130,Emergency Management,17 HMEP - Hazardous Facility Study,51_5130_17 HMEP - Hazardous Facility Study
+51,Fire Services,5130,Emergency Management,18 EMPG - Supplemental,51_5130_18 EMPG - Supplemental
+51,Fire Services,5130,Emergency Management,18 Harris Grant,51_5130_18 Harris Grant
+51,Fire Services,5130,Emergency Management,19 Harris Grant,51_5130_19 Harris Grant
+51,Fire Services,5130,Emergency Management,20 Harris Grant,51_5130_20 Harris Grant
+51,Fire Services,5130,Emergency Management,DPS - Tier II - 2015,51_5130_DPS - Tier II - 2015
+51,Fire Services,5130,Emergency Management,DPS - Tier II - 2017,51_5130_DPS - Tier II - 2017
+51,Fire Services,5130,Emergency Management,DPS - Tier II - 2018,51_5130_DPS - Tier II - 2018
+51,Fire Services,5130,Emergency Management,DPS - Tier II - 2019,51_5130_DPS - Tier II - 2019
+51,Fire Services,5130,Emergency Management,Emer Mgmt/MMRS Project,51_5130_Emer Mgmt/MMRS Project
+51,Fire Services,5130,Emergency Management,Emergency Management,51_5130_Emergency Management
+51,Fire Services,5130,Emergency Management,HSGP - Generator Project,51_5130_HSGP - Generator Project
+51,Fire Services,5130,Emergency Management,LEPC Best Conference Donations,51_5130_LEPC Best Conference Donations
+51,Fire Services,5130,Emergency Management,LEPC Support,51_5130_LEPC Support
+51,Fire Services,5130,Emergency Management,Prog Energy/Harris Planning & Training,51_5130_Prog Energy/Harris Planning & Training
+51,Fire Services,5130,Emergency Management,WakeMed - Web EOC Project,51_5130_WakeMed - Web EOC Project
+52,Wake County Public School System,5210,Current Expense,WCPS Current Expense,52_5210_WCPS Current Expense
+52,Wake County Public School System,5220,Capital Outlay (Non CIP),Operational Support Services (Fund 08),52_5220_Operational Support Services (Fund 08)
+52,Wake County Public School System,5220,Capital Outlay (Non CIP),Operational Support Services (Fund 4),52_5220_Operational Support Services (Fund 4)
+52,Wake County Public School System,5260,Non-programmed Charges,Payments to Other Gov'tal Units,52_5260_Payments to Other Gov'tal Units
+52,Wake County Public School System,5260,Non-programmed Charges,Unbudgeted Funds,52_5260_Unbudgeted Funds
+52,Wake County Public School System,5280,Instructional Services,Alternative Programs and Services,52_5280_Alternative Programs and Services
+52,Wake County Public School System,5280,Instructional Services,Co-Curricular Services,52_5280_Co-Curricular Services
+52,Wake County Public School System,5280,Instructional Services,Regular Instructional Services,52_5280_Regular Instructional Services
+52,Wake County Public School System,5280,Instructional Services,School Leadership Services,52_5280_School Leadership Services
+52,Wake County Public School System,5280,Instructional Services,School-Based Support Services,52_5280_School-Based Support Services
+52,Wake County Public School System,5280,Instructional Services,Special Populations Services,52_5280_Special Populations Services
+52,Wake County Public School System,5290,Systemwide Support Services,Accountability Services,52_5290_Accountability Services
+52,Wake County Public School System,5290,Systemwide Support Services,Alt Prog & Ser Supp & Devel Serv,52_5290_Alt Prog & Ser Supp & Devel Serv
+52,Wake County Public School System,5290,Systemwide Support Services,Financial and Human Resouce Services,52_5290_Financial and Human Resouce Services
+52,Wake County Public School System,5290,Systemwide Support Services,Operational Support Services,52_5290_Operational Support Services
+52,Wake County Public School System,5290,Systemwide Support Services,"Policy,Leadership & Public Relations","52_5290_Policy,Leadership & Public Relations"
+52,Wake County Public School System,5290,Systemwide Support Services,Special Population Support & Development Services,52_5290_Special Population Support & Development Services
+52,Wake County Public School System,5290,Systemwide Support Services,Support & Developmental Services,52_5290_Support & Developmental Services
+52,Wake County Public School System,5290,Systemwide Support Services,Systemwide Pupil Support Services,52_5290_Systemwide Pupil Support Services
+52,Wake County Public School System,5290,Systemwide Support Services,Technical Support Services,52_5290_Technical Support Services
+53,Emergency Medical Services,5300,Emergency Medical Services,ACEP - EMS Surge Project,53_5300_ACEP - EMS Surge Project
+53,Emergency Medical Services,5300,Emergency Medical Services,Advanced Practice Paramedic (APP),53_5300_Advanced Practice Paramedic (APP)
+53,Emergency Medical Services,5300,Emergency Medical Services,Apex EMS,53_5300_Apex EMS
+53,Emergency Medical Services,5300,Emergency Medical Services,CapRac Grant,53_5300_CapRac Grant
+53,Emergency Medical Services,5300,Emergency Medical Services,Cary EMS,53_5300_Cary EMS
+53,Emergency Medical Services,5300,Emergency Medical Services,Community Paramedicine,53_5300_Community Paramedicine
+53,Emergency Medical Services,5300,Emergency Medical Services,Eastern Wake EMS,53_5300_Eastern Wake EMS
+53,Emergency Medical Services,5300,Emergency Medical Services,EMS Communications,53_5300_EMS Communications
+53,Emergency Medical Services,5300,Emergency Medical Services,EMS Data Transmission,53_5300_EMS Data Transmission
+53,Emergency Medical Services,5300,Emergency Medical Services,EMS Division,53_5300_EMS Division
+53,Emergency Medical Services,5300,Emergency Medical Services,EMS Subscription Program,53_5300_EMS Subscription Program
+53,Emergency Medical Services,5300,Emergency Medical Services,EMS System Support/Management,53_5300_EMS System Support/Management
+53,Emergency Medical Services,5300,Emergency Medical Services,EMS Week Donations,53_5300_EMS Week Donations
+53,Emergency Medical Services,5300,Emergency Medical Services,Kate B Reynolds Foundation Grant,53_5300_Kate B Reynolds Foundation Grant
+53,Emergency Medical Services,5300,Emergency Medical Services,NCDHHEMS Grant - UNC DEM,53_5300_NCDHHEMS Grant - UNC DEM
+53,Emergency Medical Services,5300,Emergency Medical Services,NCDHHS Community Para Grant - Alliance,53_5300_NCDHHS Community Para Grant - Alliance
+53,Emergency Medical Services,5300,Emergency Medical Services,NCDHHS Community Paramedicine Grant,53_5300_NCDHHS Community Paramedicine Grant
+53,Emergency Medical Services,5300,Emergency Medical Services,Norfolk Southern Grant,53_5300_Norfolk Southern Grant
+53,Emergency Medical Services,5300,Emergency Medical Services,Special Operations Revenue,53_5300_Special Operations Revenue
+54,Wake Technical Community College,5410,Current Expense,WTCC Current Expense,54_5410_WTCC Current Expense
+55,Public Safety Communications,5500,Public Safety Communications,800 MHZ Subfund,55_5500_800 MHZ Subfund
+55,Public Safety Communications,5500,Public Safety Communications,CAD Subfund,55_5500_CAD Subfund
+56,Debt Service,5610,Wake County Public Schools,WCPS Debt Service,56_5610_WCPS Debt Service
+56,Debt Service,5620,Wake Tech Community College,WTCC Debt Service,56_5620_WTCC Debt Service
+56,Debt Service,5630,Criminal Justice,Criminal Justice Debt Service,56_5630_Criminal Justice Debt Service
+56,Debt Service,5640,Open Space,Open Space Debt Service,56_5640_Open Space Debt Service
+56,Debt Service,5640,Open Space,"Parks, Recreation, Greenways, and Open Space Debt Service","56_5640_Parks, Recreation, Greenways, and Open Space Debt Service"
+56,Debt Service,5650,Libraries,Libraries Debt Service,56_5650_Libraries Debt Service
+56,Debt Service,5670,Other,Other Debt Service,56_5670_Other Debt Service
+56,Debt Service,5680,Debt Refundings,Debt Refundings,56_5680_Debt Refundings
+57,Emergency Management,5700,Emergency Management,13 EMPG - Supplemental,57_5700_13 EMPG - Supplemental
+57,Emergency Management,5700,Emergency Management,14 EMPG - Supplemental,57_5700_14 EMPG - Supplemental
+57,Emergency Management,5700,Emergency Management,15 EMPG - Supplemental,57_5700_15 EMPG - Supplemental
+57,Emergency Management,5700,Emergency Management,17 Harris Program,57_5700_17 Harris Program
+57,Emergency Management,5700,Emergency Management,Duke/Harris Training & Planning,57_5700_Duke/Harris Training & Planning
+57,Emergency Management,5700,Emergency Management,Emergency Management,57_5700_Emergency Management
+57,Emergency Management,5700,Emergency Management,LEPC Best Conference Donations,57_5700_LEPC Best Conference Donations
+58,Capital Area Workforce Development,5801,Title I Adult,Title I Adult 2005,58_5801_Title I Adult 2005
+58,Capital Area Workforce Development,5801,Title I Adult,Title I Adult 2006 H/S,58_5801_Title I Adult 2006 H/S
+58,Capital Area Workforce Development,5801,Title I Adult,Title I Adult 2007 H/S,58_5801_Title I Adult 2007 H/S
+58,Capital Area Workforce Development,5801,Title I Adult,Title I Adult 2008,58_5801_Title I Adult 2008
+58,Capital Area Workforce Development,5801,Title I Adult,Title I Adult 2008 H/S,58_5801_Title I Adult 2008 H/S
+58,Capital Area Workforce Development,5801,Title I Adult,Title I Adult 2011,58_5801_Title I Adult 2011
+58,Capital Area Workforce Development,5801,Title I Adult,Title I Adult 2013,58_5801_Title I Adult 2013
+58,Capital Area Workforce Development,5801,Title I Adult,Title I Adult 2013 H/S,58_5801_Title I Adult 2013 H/S
+58,Capital Area Workforce Development,5801,Title I Adult,Title I Adult 2014,58_5801_Title I Adult 2014
+58,Capital Area Workforce Development,5801,Title I Adult,Title I Adult 2015,58_5801_Title I Adult 2015
+58,Capital Area Workforce Development,5801,Title I Adult,Title I Adult 2016,58_5801_Title I Adult 2016
+58,Capital Area Workforce Development,5801,Title I Adult,Title I Adult 2017,58_5801_Title I Adult 2017
+58,Capital Area Workforce Development,5801,Title I Adult,Title I Adult 2018,58_5801_Title I Adult 2018
+58,Capital Area Workforce Development,5802,Title I Dislocated Worker,Title I Dislocated Wkrs 2005 H/S,58_5802_Title I Dislocated Wkrs 2005 H/S
+58,Capital Area Workforce Development,5802,Title I Dislocated Worker,Title I Dislocated Workers 2014,58_5802_Title I Dislocated Workers 2014
+58,Capital Area Workforce Development,5802,Title I Dislocated Worker,Title I Dislocated Workers 2015,58_5802_Title I Dislocated Workers 2015
+58,Capital Area Workforce Development,5802,Title I Dislocated Worker,Title I Dislocated Workers 2016,58_5802_Title I Dislocated Workers 2016
+58,Capital Area Workforce Development,5802,Title I Dislocated Worker,Title I Dislocated Workers 2017,58_5802_Title I Dislocated Workers 2017
+58,Capital Area Workforce Development,5802,Title I Dislocated Worker,Title I Dislocated Workers 2018,58_5802_Title I Dislocated Workers 2018
+58,Capital Area Workforce Development,5803,Title I Youth,ARRA - Title I Youth,58_5803_ARRA - Title I Youth
+58,Capital Area Workforce Development,5803,Title I Youth,Title I Youth 2009,58_5803_Title I Youth 2009
+58,Capital Area Workforce Development,5803,Title I Youth,Title I Youth 2014,58_5803_Title I Youth 2014
+58,Capital Area Workforce Development,5803,Title I Youth,Title I Youth 2015,58_5803_Title I Youth 2015
+58,Capital Area Workforce Development,5803,Title I Youth,Title I Youth 2016,58_5803_Title I Youth 2016
+58,Capital Area Workforce Development,5803,Title I Youth,Title I Youth 2017,58_5803_Title I Youth 2017
+58,Capital Area Workforce Development,5803,Title I Youth,Title I Youth 2018,58_5803_Title I Youth 2018
+58,Capital Area Workforce Development,5804,Statewide Activities,2008-09 Joblink Chartering,58_5804_2008-09 Joblink Chartering
+58,Capital Area Workforce Development,5804,Statewide Activities,2008-09 Performance Incentive,58_5804_2008-09 Performance Incentive
+58,Capital Area Workforce Development,5804,Statewide Activities,2009 Business Svc Liaison Grant,58_5804_2009 Business Svc Liaison Grant
+58,Capital Area Workforce Development,5804,Statewide Activities,2010 (2050) Triangle WorkSource Project,58_5804_2010 (2050) Triangle WorkSource Project
+58,Capital Area Workforce Development,5804,Statewide Activities,2010-11 Business Svc Liaison Grant,58_5804_2010-11 Business Svc Liaison Grant
+58,Capital Area Workforce Development,5804,Statewide Activities,2010-11 Performance Incentive,58_5804_2010-11 Performance Incentive
+58,Capital Area Workforce Development,5804,Statewide Activities,2014 Incumbent Worker Training,58_5804_2014 Incumbent Worker Training
+58,Capital Area Workforce Development,5804,Statewide Activities,2015 Incumbent Worker Training,58_5804_2015 Incumbent Worker Training
+58,Capital Area Workforce Development,5804,Statewide Activities,2016 Apprenticeship Toolkit Project,58_5804_2016 Apprenticeship Toolkit Project
+58,Capital Area Workforce Development,5804,Statewide Activities,2016 Incumbent Worker Training,58_5804_2016 Incumbent Worker Training
+58,Capital Area Workforce Development,5804,Statewide Activities,2016 NCTAP,58_5804_2016 NCTAP
+58,Capital Area Workforce Development,5804,Statewide Activities,2017 Cost Sharing DWS Brochures,58_5804_2017 Cost Sharing DWS Brochures
+58,Capital Area Workforce Development,5804,Statewide Activities,2017 Incumbent Worker Training,58_5804_2017 Incumbent Worker Training
+58,Capital Area Workforce Development,5804,Statewide Activities,2017 NC Works Partnership Initiative,58_5804_2017 NC Works Partnership Initiative
+58,Capital Area Workforce Development,5804,Statewide Activities,2017 NC4ME Hiring Event,58_5804_2017 NC4ME Hiring Event
+58,Capital Area Workforce Development,5804,Statewide Activities,2018 Business Services Grant,58_5804_2018 Business Services Grant
+58,Capital Area Workforce Development,5804,Statewide Activities,2018 Finish Line Grant,58_5804_2018 Finish Line Grant
+58,Capital Area Workforce Development,5804,Statewide Activities,2018 Infrastructure Cost Grant,58_5804_2018 Infrastructure Cost Grant
+58,Capital Area Workforce Development,5804,Statewide Activities,2018 Joint Strategic Planning Grant,58_5804_2018 Joint Strategic Planning Grant
+58,Capital Area Workforce Development,5804,Statewide Activities,2018 State Leadership Training Grant,58_5804_2018 State Leadership Training Grant
+58,Capital Area Workforce Development,5804,Statewide Activities,2018 WIOA DW Contingency Fund,58_5804_2018 WIOA DW Contingency Fund
+58,Capital Area Workforce Development,5804,Statewide Activities,Business Services - Work-Based Learning Initiatives,58_5804_Business Services - Work-Based Learning Initiatives
+58,Capital Area Workforce Development,5804,Statewide Activities,Call Center Initiative - Access NCWorks 2017,58_5804_Call Center Initiative - Access NCWorks 2017
+58,Capital Area Workforce Development,5804,Statewide Activities,Call Center Initiative - Access NCWorks 2018,58_5804_Call Center Initiative - Access NCWorks 2018
+58,Capital Area Workforce Development,5804,Statewide Activities,Cyber Security Demo Initiative,58_5804_Cyber Security Demo Initiative
+58,Capital Area Workforce Development,5804,Statewide Activities,Infrastructure Cost Grant,58_5804_Infrastructure Cost Grant
+58,Capital Area Workforce Development,5804,Statewide Activities,NextGen Enhancement Planning Grant,58_5804_NextGen Enhancement Planning Grant
+58,Capital Area Workforce Development,5804,Statewide Activities,Triangle Regional CP Collaborative,58_5804_Triangle Regional CP Collaborative
+58,Capital Area Workforce Development,5805,Emergency Dislocated Workers,2008-09 Disclocated Worker Contingency Fund,58_5805_2008-09 Disclocated Worker Contingency Fund
+58,Capital Area Workforce Development,5805,Emergency Dislocated Workers,2014-15 Emergency Dislocated Workers,58_5805_2014-15 Emergency Dislocated Workers
+58,Capital Area Workforce Development,5805,Emergency Dislocated Workers,2016 WIOA DW Contingency Funds,58_5805_2016 WIOA DW Contingency Funds
+58,Capital Area Workforce Development,5806,WIOA Administration,2014 WIA Admin Grant,58_5806_2014 WIA Admin Grant
+58,Capital Area Workforce Development,5806,WIOA Administration,2015 WIOA Admin Grant,58_5806_2015 WIOA Admin Grant
+58,Capital Area Workforce Development,5806,WIOA Administration,2016 WIOA Admin Grant,58_5806_2016 WIOA Admin Grant
+58,Capital Area Workforce Development,5806,WIOA Administration,2017 WIOA Admin Grant,58_5806_2017 WIOA Admin Grant
+58,Capital Area Workforce Development,5806,WIOA Administration,2018 WIOA Admin Grant,58_5806_2018 WIOA Admin Grant
+58,Capital Area Workforce Development,5806,WIOA Administration,Healthcare Works 2011,58_5806_Healthcare Works 2011
+58,Capital Area Workforce Development,5806,WIOA Administration,Special Activities Fund - 2013,58_5806_Special Activities Fund - 2013
+58,Capital Area Workforce Development,5806,WIOA Administration,Special Activities Fund - 2014,58_5806_Special Activities Fund - 2014
+58,Capital Area Workforce Development,5806,WIOA Administration,Workforce Investment Act Contingency,58_5806_Workforce Investment Act Contingency
+58,Capital Area Workforce Development,5808,Cost Allocation,Cost Allocation,58_5808_Cost Allocation
+58,Capital Area Workforce Development,5809,AmeriCorps,2009 AmeriCorp_Commission,58_5809_2009 AmeriCorp_Commission
+58,Capital Area Workforce Development,5809,AmeriCorps,2015 Americorps - Commisson,58_5809_2015 Americorps - Commisson
+58,Capital Area Workforce Development,5809,AmeriCorps,2016 Americorps - Commisson,58_5809_2016 Americorps - Commisson
+58,Capital Area Workforce Development,5809,AmeriCorps,AmeriCorps Grant,58_5809_AmeriCorps Grant
+58,Capital Area Workforce Development,5810,National Emergency Grants,2015 IT Career Pathway NEG,58_5810_2015 IT Career Pathway NEG
+58,Capital Area Workforce Development,5810,National Emergency Grants,Hurricane Matthew DREP,58_5810_Hurricane Matthew DREP
+58,Capital Area Workforce Development,5810,National Emergency Grants,Jobs Driven NEG Initiative,58_5810_Jobs Driven NEG Initiative
+58,Capital Area Workforce Development,5811,Special Grants - Workforce,2015 Backpacks 2 Briefcases 2.0,58_5811_2015 Backpacks 2 Briefcases 2.0
+58,Capital Area Workforce Development,5812,Wake Tech (DOL Grants),2016 TechHire Initiative,58_5812_2016 TechHire Initiative
+58,Capital Area Workforce Development,5813,YouthBuild USA,YouthBuild USA - 2017,58_5813_YouthBuild USA - 2017
+58,Capital Area Workforce Development,XX58,Pre FY08 CAW,General Ledger Accounts,58_XX58_General Ledger Accounts
+60,Major Facilities,6010,Major Facilities Administration,Transfer to GF-Food Admin,60_6010_Transfer to GF-Food Admin
+60,Major Facilities,6010,Major Facilities Administration,Transfer to GF-Occ Admin,60_6010_Transfer to GF-Occ Admin
+60,Major Facilities,6020,Raleigh Hold Harmless - Occupancy,Raleigh Hold Harmless - Occupancy,60_6020_Raleigh Hold Harmless - Occupancy
+60,Major Facilities,6030,Cary Hold Harmless - Occupancy,Cary Hold Harmless - Occupancy,60_6030_Cary Hold Harmless - Occupancy
+60,Major Facilities,6040,Greater Raleigh Convention And Visitors Bureau,Greater Raleigh Convention And Visitors Bureau,60_6040_Greater Raleigh Convention And Visitors Bureau
+60,Major Facilities,6050,Centennial Authority Operation 7%,Centennial Authority Operation 7%,60_6050_Centennial Authority Operation 7%
+60,Major Facilities,6060,Centennial - Debt Service,Centennial - Debt Service,60_6060_Centennial - Debt Service
+60,Major Facilities,6070,Raleigh Annual Distribution - $1M,Raleigh Annual Distribution - $1M,60_6070_Raleigh Annual Distribution - $1M
+60,Major Facilities,6080,Convention Center,Convention Center,60_6080_Convention Center
+60,Major Facilities,6081,NC Museum of Art,NC Museum of Art,60_6081_NC Museum of Art
+60,Major Facilities,6083,Centennial Authority Facility Improvements,Centennial Authority Facility Improvements,60_6083_Centennial Authority Facility Improvements
+60,Major Facilities,6084,Green Square,Green Square,60_6084_Green Square
+60,Major Facilities,6085,St. Augustine's,St. Augustine's,60_6085_St. Augustine's
+60,Major Facilities,6086,Cary Sports Venues,Cary Sports Venues,60_6086_Cary Sports Venues
+60,Major Facilities,6090,Unallocated,Unallocated,60_6090_Unallocated
+60,Major Facilities,6093,Transfer To Capital Improvement Fund,Wake Annual Transfer To CIP,60_6093_Wake Annual Transfer To CIP
+60,Major Facilities,6094,Transfer to MF CIP - Competitive Projects,Wake Competitive Projects Transfer to CIP,60_6094_Wake Competitive Projects Transfer to CIP
+62,Automation CIP,6210,Major Automation Projects,AT&T Dark Fiber Replacement,62_6210_AT&T Dark Fiber Replacement
+62,Automation CIP,6210,Major Automation Projects,Automated Call Distribution Platform Replacement,62_6210_Automated Call Distribution Platform Replacement
+62,Automation CIP,6210,Major Automation Projects,Automation Holding Account,62_6210_Automation Holding Account
+62,Automation CIP,6210,Major Automation Projects,BoC Agenda & Video Project,62_6210_BoC Agenda & Video Project
+62,Automation CIP,6210,Major Automation Projects,BOE Voting Equipment Replacement,62_6210_BOE Voting Equipment Replacement
+62,Automation CIP,6210,Major Automation Projects,CCBI Lab Information Management System,62_6210_CCBI Lab Information Management System
+62,Automation CIP,6210,Major Automation Projects,Child Support Case Management,62_6210_Child Support Case Management
+62,Automation CIP,6210,Major Automation Projects,Child Support Document Management,62_6210_Child Support Document Management
+62,Automation CIP,6210,Major Automation Projects,Document Management - Adult Services,62_6210_Document Management - Adult Services
+62,Automation CIP,6210,Major Automation Projects,Document Management - Program Integrity,62_6210_Document Management - Program Integrity
+62,Automation CIP,6210,Major Automation Projects,DSS Document Management,62_6210_DSS Document Management
+62,Automation CIP,6210,Major Automation Projects,DSS Document Management - Child Welfare,62_6210_DSS Document Management - Child Welfare
+62,Automation CIP,6210,Major Automation Projects,DSS Queuing System,62_6210_DSS Queuing System
+62,Automation CIP,6210,Major Automation Projects,E-mail Upgrade,62_6210_E-mail Upgrade
+62,Automation CIP,6210,Major Automation Projects,EMS Operation/Deployment Modeling Software,62_6210_EMS Operation/Deployment Modeling Software
+62,Automation CIP,6210,Major Automation Projects,Enterprise Infrastructue - WCSO Infrastructure,62_6210_Enterprise Infrastructue - WCSO Infrastructure
+62,Automation CIP,6210,Major Automation Projects,Enterprise Wide Document Management,62_6210_Enterprise Wide Document Management
+62,Automation CIP,6210,Major Automation Projects,eWake 4.0,62_6210_eWake 4.0
+62,Automation CIP,6210,Major Automation Projects,eWake Pilot Document Management,62_6210_eWake Pilot Document Management
+62,Automation CIP,6210,Major Automation Projects,eWake Upgrade,62_6210_eWake Upgrade
+62,Automation CIP,6210,Major Automation Projects,GIS MAR Implementation,62_6210_GIS MAR Implementation
+62,Automation CIP,6210,Major Automation Projects,Human Services Automation Projects,62_6210_Human Services Automation Projects
+62,Automation CIP,6210,Major Automation Projects,Innovation,62_6210_Innovation
+62,Automation CIP,6210,Major Automation Projects,Jail & Records Management System Upgrade,62_6210_Jail & Records Management System Upgrade
+62,Automation CIP,6210,Major Automation Projects,Major Systems - Property Tax,62_6210_Major Systems - Property Tax
+62,Automation CIP,6210,Major Automation Projects,NC Fast Document Management Implementation,62_6210_NC Fast Document Management Implementation
+62,Automation CIP,6210,Major Automation Projects,NC FAST Federation,62_6210_NC FAST Federation
+62,Automation CIP,6210,Major Automation Projects,Planning & Permitting System,62_6210_Planning & Permitting System
+62,Automation CIP,6210,Major Automation Projects,Public Health System Replacement,62_6210_Public Health System Replacement
+62,Automation CIP,6210,Major Automation Projects,Recruitment System Replacement,62_6210_Recruitment System Replacement
+62,Automation CIP,6210,Major Automation Projects,Reval Projects,62_6210_Reval Projects
+62,Automation CIP,6210,Major Automation Projects,ROD Books,62_6210_ROD Books
+62,Automation CIP,6210,Major Automation Projects,Telecommunications Infrastructure,62_6210_Telecommunications Infrastructure
+62,Automation CIP,6210,Major Automation Projects,VoIP System Acquisition and Implementation,62_6210_VoIP System Acquisition and Implementation
+62,Automation CIP,6210,Major Automation Projects,WakeGov Redesign,62_6210_WakeGov Redesign
+62,Automation CIP,6210,Major Automation Projects,WCSO Electronic Medical Records System,62_6210_WCSO Electronic Medical Records System
+62,Automation CIP,6220,Business Applications,Risk Management System,62_6220_Risk Management System
+62,Automation CIP,6220,Business Applications,WCSO Automation Upgrades,62_6220_WCSO Automation Upgrades
+62,Automation CIP,6230,Computer Equipment,General Computer Equipments Replacement,62_6230_General Computer Equipments Replacement
+62,Automation CIP,6230,Computer Equipment,Maintenance Libraries 2017,62_6230_Maintenance Libraries 2017
+62,Automation CIP,6230,Computer Equipment,Maintenance Libraries 2018,62_6230_Maintenance Libraries 2018
+62,Automation CIP,6230,Computer Equipment,Maintenance Libraries 2019,62_6230_Maintenance Libraries 2019
+62,Automation CIP,6230,Computer Equipment,Maintence Repairs 2017,62_6230_Maintence Repairs 2017
+62,Automation CIP,6230,Computer Equipment,Maintence Upgrades 2016,62_6230_Maintence Upgrades 2016
+62,Automation CIP,6230,Computer Equipment,Maintence Upgrades 2017,62_6230_Maintence Upgrades 2017
+62,Automation CIP,6230,Computer Equipment,New Equipment 2015,62_6230_New Equipment 2015
+62,Automation CIP,6230,Computer Equipment,New Equipment 2016,62_6230_New Equipment 2016
+62,Automation CIP,6230,Computer Equipment,New Equipment 2017,62_6230_New Equipment 2017
+62,Automation CIP,6230,Computer Equipment,New Equipment 2018,62_6230_New Equipment 2018
+62,Automation CIP,6230,Computer Equipment,New Equipment 2019,62_6230_New Equipment 2019
+62,Automation CIP,6230,Computer Equipment,Telephone Equipment 2016,62_6230_Telephone Equipment 2016
+62,Automation CIP,6230,Computer Equipment,Telephone Equipment 2017,62_6230_Telephone Equipment 2017
+62,Automation CIP,6230,Computer Equipment,Telephone Equipment 2018,62_6230_Telephone Equipment 2018
+62,Automation CIP,6230,Computer Equipment,Telephone Equipment 2019,62_6230_Telephone Equipment 2019
+62,Automation CIP,6240,Enterprise Network,Application Hardware/Software 2014,62_6240_Application Hardware/Software 2014
+62,Automation CIP,6240,Enterprise Network,Application Hardware/Software 2015,62_6240_Application Hardware/Software 2015
+62,Automation CIP,6240,Enterprise Network,Application Hardware/Software 2016,62_6240_Application Hardware/Software 2016
+62,Automation CIP,6240,Enterprise Network,Application Hardware/Software 2017,62_6240_Application Hardware/Software 2017
+62,Automation CIP,6240,Enterprise Network,Application Hardware/Software 2018,62_6240_Application Hardware/Software 2018
+62,Automation CIP,6240,Enterprise Network,Application Hardware/Software 2019,62_6240_Application Hardware/Software 2019
+62,Automation CIP,6240,Enterprise Network,CCBI and Sheriff Infrastructure 2015,62_6240_CCBI and Sheriff Infrastructure 2015
+62,Automation CIP,6240,Enterprise Network,CCBI and Sheriff Infrastructure 2016,62_6240_CCBI and Sheriff Infrastructure 2016
+62,Automation CIP,6240,Enterprise Network,CCBI and Sheriff Infrastructure 2017,62_6240_CCBI and Sheriff Infrastructure 2017
+62,Automation CIP,6240,Enterprise Network,CCBI and Sheriff Infrastructure 2018,62_6240_CCBI and Sheriff Infrastructure 2018
+62,Automation CIP,6240,Enterprise Network,CCBI Infrasructure 2018,62_6240_CCBI Infrasructure 2018
+62,Automation CIP,6240,Enterprise Network,Database Operations 2016,62_6240_Database Operations 2016
+62,Automation CIP,6240,Enterprise Network,Database Operations 2017,62_6240_Database Operations 2017
+62,Automation CIP,6240,Enterprise Network,Database Operations 2018,62_6240_Database Operations 2018
+62,Automation CIP,6240,Enterprise Network,Database Operations 2019,62_6240_Database Operations 2019
+62,Automation CIP,6240,Enterprise Network,Enterprise Network General,62_6240_Enterprise Network General
+62,Automation CIP,6240,Enterprise Network,GIS Infrastructure 2015,62_6240_GIS Infrastructure 2015
+62,Automation CIP,6240,Enterprise Network,GIS Infrastructure 2016,62_6240_GIS Infrastructure 2016
+62,Automation CIP,6240,Enterprise Network,GIS Infrastructure 2019,62_6240_GIS Infrastructure 2019
+62,Automation CIP,6240,Enterprise Network,Libraries Infrastructure 2015,62_6240_Libraries Infrastructure 2015
+62,Automation CIP,6240,Enterprise Network,Libraries Infrastructure 2016,62_6240_Libraries Infrastructure 2016
+62,Automation CIP,6240,Enterprise Network,Libraries Infrastructure 2017,62_6240_Libraries Infrastructure 2017
+62,Automation CIP,6240,Enterprise Network,Network Services 2014,62_6240_Network Services 2014
+62,Automation CIP,6240,Enterprise Network,Network Services 2015,62_6240_Network Services 2015
+62,Automation CIP,6240,Enterprise Network,Network Services 2016,62_6240_Network Services 2016
+62,Automation CIP,6240,Enterprise Network,Network Services 2017,62_6240_Network Services 2017
+62,Automation CIP,6240,Enterprise Network,Network Services 2018,62_6240_Network Services 2018
+62,Automation CIP,6240,Enterprise Network,Network Services 2019,62_6240_Network Services 2019
+62,Automation CIP,6240,Enterprise Network,Security Services 2016,62_6240_Security Services 2016
+62,Automation CIP,6240,Enterprise Network,Security Services 2017,62_6240_Security Services 2017
+62,Automation CIP,6240,Enterprise Network,Security Services 2018,62_6240_Security Services 2018
+62,Automation CIP,6240,Enterprise Network,Security Services 2019,62_6240_Security Services 2019
+62,Automation CIP,6240,Enterprise Network,Security Strategy Implementation,62_6240_Security Strategy Implementation
+62,Automation CIP,6240,Enterprise Network,Server Services 2015,62_6240_Server Services 2015
+62,Automation CIP,6240,Enterprise Network,Server Services 2016,62_6240_Server Services 2016
+62,Automation CIP,6240,Enterprise Network,Server Services 2017,62_6240_Server Services 2017
+62,Automation CIP,6240,Enterprise Network,Server Services 2018,62_6240_Server Services 2018
+62,Automation CIP,6240,Enterprise Network,Server Services 2019,62_6240_Server Services 2019
+62,Automation CIP,6240,Enterprise Network,Telecom/Desktop/Helpdesk Tools 2018,62_6240_Telecom/Desktop/Helpdesk Tools 2018
+62,Automation CIP,6240,Enterprise Network,Telecom/Desktop/Helpdesk Tools 2019,62_6240_Telecom/Desktop/Helpdesk Tools 2019
+64,Community Capital Projects,6400,Community Capital Projects,Boys and Girls Club - Teen Center,64_6400_Boys and Girls Club - Teen Center
+64,Community Capital Projects,6400,Community Capital Projects,Dorcas Ministries - HS Facility Project,64_6400_Dorcas Ministries - HS Facility Project
+64,Community Capital Projects,6400,Community Capital Projects,Dorcas Ministries Medical Clinic,64_6400_Dorcas Ministries Medical Clinic
+64,Community Capital Projects,6400,Community Capital Projects,Food Bank Distribution Center,64_6400_Food Bank Distribution Center
+64,Community Capital Projects,6400,Community Capital Projects,General Community Planned Projects,64_6400_General Community Planned Projects
+64,Community Capital Projects,6400,Community Capital Projects,Green Chair Project,64_6400_Green Chair Project
+64,Community Capital Projects,6400,Community Capital Projects,Hospice of Wake County - 10 bed expansion,64_6400_Hospice of Wake County - 10 bed expansion
+64,Community Capital Projects,6400,Community Capital Projects,NC Freedom Park,64_6400_NC Freedom Park
+64,Community Capital Projects,6400,Community Capital Projects,Poe Center,64_6400_Poe Center
+64,Community Capital Projects,6400,Community Capital Projects,Southlight Healthcare - Integrated Care/Med Respite,64_6400_Southlight Healthcare - Integrated Care/Med Respite
+64,Community Capital Projects,6400,Community Capital Projects,Wake Health Services - Medical Office Building,64_6400_Wake Health Services - Medical Office Building
+66,County Building Improvements,6610,Major County Building Projects,Agricultural Bldg FCA Upgrades,66_6610_Agricultural Bldg FCA Upgrades
+66,County Building Improvements,6610,Major County Building Projects,Animal Control Center,66_6610_Animal Control Center
+66,County Building Improvements,6610,Major County Building Projects,Animal Control Center Renovations 2014,66_6610_Animal Control Center Renovations 2014
+66,County Building Improvements,6610,Major County Building Projects,Board of Elections,66_6610_Board of Elections
+66,County Building Improvements,6610,Major County Building Projects,Cameron Village Library - Life Cycle Finishes Upgrades,66_6610_Cameron Village Library - Life Cycle Finishes Upgrades
+66,County Building Improvements,6610,Major County Building Projects,Commons Bldg FCA Upgrades,66_6610_Commons Bldg FCA Upgrades
+66,County Building Improvements,6610,Major County Building Projects,Commons Bldg/Agricultural Bldg FCA Upgrades,66_6610_Commons Bldg/Agricultural Bldg FCA Upgrades
+66,County Building Improvements,6610,Major County Building Projects,Community Services Center FCA Upgrades,66_6610_Community Services Center FCA Upgrades
+66,County Building Improvements,6610,Major County Building Projects,Community Services Center Renovation,66_6610_Community Services Center Renovation
+66,County Building Improvements,6610,Major County Building Projects,Energy Conservation Measures,66_6610_Energy Conservation Measures
+66,County Building Improvements,6610,Major County Building Projects,Facilities Condition Assessment,66_6610_Facilities Condition Assessment
+66,County Building Improvements,6610,Major County Building Projects,GSA Site Improvements,66_6610_GSA Site Improvements
+66,County Building Improvements,6610,Major County Building Projects,HS Western Facilities,66_6610_HS Western Facilities
+66,County Building Improvements,6610,Major County Building Projects,Human Service Master Planning,66_6610_Human Service Master Planning
+66,County Building Improvements,6610,Major County Building Projects,Mental Health Continuum,66_6610_Mental Health Continuum
+66,County Building Improvements,6610,Major County Building Projects,Multi-Services Center,66_6610_Multi-Services Center
+66,County Building Improvements,6610,Major County Building Projects,New Public Health Center,66_6610_New Public Health Center
+66,County Building Improvements,6610,Major County Building Projects,Oak City Multi-Services Ctr,66_6610_Oak City Multi-Services Ctr
+66,County Building Improvements,6610,Major County Building Projects,PSC Improvements - Phase 5,66_6610_PSC Improvements - Phase 5
+66,County Building Improvements,6610,Major County Building Projects,Public Health Center,66_6610_Public Health Center
+66,County Building Improvements,6610,Major County Building Projects,Restack Renovations and Upgrades,66_6610_Restack Renovations and Upgrades
+66,County Building Improvements,6610,Major County Building Projects,S. Wilmington St Shelter FCA lifecycle/upgrades,66_6610_S. Wilmington St Shelter FCA lifecycle/upgrades
+66,County Building Improvements,6610,Major County Building Projects,S. Wilminton St Shelter FCA lifecycle/upgrades,66_6610_S. Wilminton St Shelter FCA lifecycle/upgrades
+66,County Building Improvements,6610,Major County Building Projects,Sunnybrook Elevator Modernization,66_6610_Sunnybrook Elevator Modernization
+66,County Building Improvements,6610,Major County Building Projects,Sunnybrook Parking Deck,66_6610_Sunnybrook Parking Deck
+66,County Building Improvements,6610,Major County Building Projects,Swinburne FCA Upgrades,66_6610_Swinburne FCA Upgrades
+66,County Building Improvements,6610,Major County Building Projects,Swinburne Intake Area Renovation,66_6610_Swinburne Intake Area Renovation
+66,County Building Improvements,6610,Major County Building Projects,WCOB Life Safety/Egress Renovations,66_6610_WCOB Life Safety/Egress Renovations
+66,County Building Improvements,6610,Major County Building Projects,WCOB Renovations,66_6610_WCOB Renovations
+66,County Building Improvements,6620,Energy Conserving Projects,GSA,66_6620_GSA
+66,County Building Improvements,6630,County Building Security Projects,Hardware Upgrade,66_6630_Hardware Upgrade
+66,County Building Improvements,6630,County Building Security Projects,Library Door Counters,66_6630_Library Door Counters
+66,County Building Improvements,6630,County Building Security Projects,Security Improvements - Ph 9,66_6630_Security Improvements - Ph 9
+66,County Building Improvements,6630,County Building Security Projects,Security Improvements - Phase 7,66_6630_Security Improvements - Phase 7
+66,County Building Improvements,6630,County Building Security Projects,Security Improvements-Phase 8,66_6630_Security Improvements-Phase 8
+66,County Building Improvements,6640,Minor CIP Projects,AR - 4th Floor Attorney_Guardian Ad Litem Renov,66_6640_AR - 4th Floor Attorney_Guardian Ad Litem Renov
+66,County Building Improvements,6640,Minor CIP Projects,AR - Animal Control Dog Play Area,66_6640_AR - Animal Control Dog Play Area
+66,County Building Improvements,6640,Minor CIP Projects,AR - Animal Control Workflow Modifications (Security),66_6640_AR - Animal Control Workflow Modifications (Security)
+66,County Building Improvements,6640,Minor CIP Projects,AR - CCBI Lab Renovation,66_6640_AR - CCBI Lab Renovation
+66,County Building Improvements,6640,Minor CIP Projects,AR - EMS Training/Storage Facility Study,66_6640_AR - EMS Training/Storage Facility Study
+66,County Building Improvements,6640,Minor CIP Projects,AR - ERC Renovation & Finish Upgrade,66_6640_AR - ERC Renovation & Finish Upgrade
+66,County Building Improvements,6640,Minor CIP Projects,AR - Library Administration Bldg Programming Study,66_6640_AR - Library Administration Bldg Programming Study
+66,County Building Improvements,6640,Minor CIP Projects,AR - PS Warehouse_EMS Training Security Upfit,66_6640_AR - PS Warehouse_EMS Training Security Upfit
+66,County Building Improvements,6640,Minor CIP Projects,AR - WC Animal Control Facility Needs Assessment,66_6640_AR - WC Animal Control Facility Needs Assessment
+66,County Building Improvements,6640,Minor CIP Projects,AR - WCOB BOE_IS Re-stack Modifications,66_6640_AR - WCOB BOE_IS Re-stack Modifications
+66,County Building Improvements,6640,Minor CIP Projects,General Bld Renov - Minor-General,66_6640_General Bld Renov - Minor-General
+66,County Building Improvements,6640,Minor CIP Projects,High Hazard Dam Assessments,66_6640_High Hazard Dam Assessments
+66,County Building Improvements,6640,Minor CIP Projects,PSC Data Center UPS Life Cycle Replacement,66_6640_PSC Data Center UPS Life Cycle Replacement
+66,County Building Improvements,6640,Minor CIP Projects,PSC Radio Tower Structural Upgrades,66_6640_PSC Radio Tower Structural Upgrades
+66,County Building Improvements,6640,Minor CIP Projects,RR - AE Finley Ed & Res Ctr UG HW & CW Lines Repairs,66_6640_RR - AE Finley Ed & Res Ctr UG HW & CW Lines Repairs
+66,County Building Improvements,6640,Minor CIP Projects,RR - Ag Services Finishes Upgrades,66_6640_RR - Ag Services Finishes Upgrades
+66,County Building Improvements,6640,Minor CIP Projects,RR - ATC 2nd Floor Demolition,66_6640_RR - ATC 2nd Floor Demolition
+66,County Building Improvements,6640,Minor CIP Projects,RR - BOE Phase 1.2 Mechanical Upfit,66_6640_RR - BOE Phase 1.2 Mechanical Upfit
+66,County Building Improvements,6640,Minor CIP Projects,RR - CSC Exterior Building Envelope Upgrades,66_6640_RR - CSC Exterior Building Envelope Upgrades
+66,County Building Improvements,6640,Minor CIP Projects,RR - CSC Exterior Building Tuck Pointing,66_6640_RR - CSC Exterior Building Tuck Pointing
+66,County Building Improvements,6640,Minor CIP Projects,RR - Digital Signage & Corporate A/V Replacements,66_6640_RR - Digital Signage & Corporate A/V Replacements
+66,County Building Improvements,6640,Minor CIP Projects,RR - Fellowship Home Partnership Reimbursement Account,66_6640_RR - Fellowship Home Partnership Reimbursement Account
+66,County Building Improvements,6640,Minor CIP Projects,RR - FY16 Mulit Site Paving Repairs,66_6640_RR - FY16 Mulit Site Paving Repairs
+66,County Building Improvements,6640,Minor CIP Projects,RR - FY18 Multi Site Paving Repairs,66_6640_RR - FY18 Multi Site Paving Repairs
+66,County Building Improvements,6640,Minor CIP Projects,RR - FY19 Multi Site Paving Repairs,66_6640_RR - FY19 Multi Site Paving Repairs
+66,County Building Improvements,6640,Minor CIP Projects,RR - General Partnership Accounts,66_6640_RR - General Partnership Accounts
+66,County Building Improvements,6640,Minor CIP Projects,RR - GSA Training upfit for HR Training,66_6640_RR - GSA Training upfit for HR Training
+66,County Building Improvements,6640,Minor CIP Projects,RR - Hammond Annex Behavioral Health,66_6640_RR - Hammond Annex Behavioral Health
+66,County Building Improvements,6640,Minor CIP Projects,RR - High Hazard Dam Assessments,66_6640_RR - High Hazard Dam Assessments
+66,County Building Improvements,6640,Minor CIP Projects,RR - HS Sunnybrook Interior & Exterior Assessments,66_6640_RR - HS Sunnybrook Interior & Exterior Assessments
+66,County Building Improvements,6640,Minor CIP Projects,RR - HS Sunnybrook Walkway,66_6640_RR - HS Sunnybrook Walkway
+66,County Building Improvements,6640,Minor CIP Projects,RR - Lake Crabtree Boat Rental/Bathroom Mod (ADA),66_6640_RR - Lake Crabtree Boat Rental/Bathroom Mod (ADA)
+66,County Building Improvements,6640,Minor CIP Projects,RR - Library Administration Boiler _ ER,66_6640_RR - Library Administration Boiler _ ER
+66,County Building Improvements,6640,Minor CIP Projects,RR - Painting Oak View Main House,66_6640_RR - Painting Oak View Main House
+66,County Building Improvements,6640,Minor CIP Projects,RR - Parking & Revenue Control System LCR,66_6640_RR - Parking & Revenue Control System LCR
+66,County Building Improvements,6640,Minor CIP Projects,RR - PSC AHU 3 and 4C Control Valve Install,66_6640_RR - PSC AHU 3 and 4C Control Valve Install
+66,County Building Improvements,6640,Minor CIP Projects,RR - PSC North Side Glazing Film,66_6640_RR - PSC North Side Glazing Film
+66,County Building Improvements,6640,Minor CIP Projects,RR - PSC VAV Replacement - Floors 1 & 2,66_6640_RR - PSC VAV Replacement - Floors 1 & 2
+66,County Building Improvements,6640,Minor CIP Projects,RR - SE Regional Lighting Replacement,66_6640_RR - SE Regional Lighting Replacement
+66,County Building Improvements,6640,Minor CIP Projects,RR - SE Regional Rooftop HVAC Replacement,66_6640_RR - SE Regional Rooftop HVAC Replacement
+66,County Building Improvements,6640,Minor CIP Projects,RR - Sunnybrook Mechanical Test and Balance,66_6640_RR - Sunnybrook Mechanical Test and Balance
+66,County Building Improvements,6640,Minor CIP Projects,RR - Swinburne 1st Floor Intake Mech Upgrade,66_6640_RR - Swinburne 1st Floor Intake Mech Upgrade
+66,County Building Improvements,6640,Minor CIP Projects,RR - SWSC Emergency Repairs to AHU#1,66_6640_RR - SWSC Emergency Repairs to AHU#1
+66,County Building Improvements,6640,Minor CIP Projects,RR - SWSC-Oak City Center PME Interconnect,66_6640_RR - SWSC-Oak City Center PME Interconnect
+66,County Building Improvements,6640,Minor CIP Projects,RR - UPS Battery Replacements,66_6640_RR - UPS Battery Replacements
+66,County Building Improvements,6640,Minor CIP Projects,RR - Wake Detention Reclaim Boiler Replacement,66_6640_RR - Wake Detention Reclaim Boiler Replacement
+66,County Building Improvements,6640,Minor CIP Projects,RR - WC Parking Deck Generator Replacement,66_6640_RR - WC Parking Deck Generator Replacement
+66,County Building Improvements,6640,Minor CIP Projects,RR - WCCH Parking Deck Structural Repairs,66_6640_RR - WCCH Parking Deck Structural Repairs
+66,County Building Improvements,6640,Minor CIP Projects,RR - WCCH Radio Tower Replacement,66_6640_RR - WCCH Radio Tower Replacement
+66,County Building Improvements,6640,Minor CIP Projects,RR - WCCH Stairwell & Elevator Security Phase 1,66_6640_RR - WCCH Stairwell & Elevator Security Phase 1
+66,County Building Improvements,6640,Minor CIP Projects,RR - WCDC Domestic Water Boiler Replacement,66_6640_RR - WCDC Domestic Water Boiler Replacement
+66,County Building Improvements,6640,Minor CIP Projects,RR - WCDC Magistrate and Intake Renovation,66_6640_RR - WCDC Magistrate and Intake Renovation
+66,County Building Improvements,6640,Minor CIP Projects,RR - WCDC PVI Domestic HW Heater Replacement,66_6640_RR - WCDC PVI Domestic HW Heater Replacement
+66,County Building Improvements,6640,Minor CIP Projects,RR - WCOB Basement Interior Finishes Upgrade,66_6640_RR - WCOB Basement Interior Finishes Upgrade
+66,County Building Improvements,6640,Minor CIP Projects,RR - WCOB Boiler Room Sump Pump Replacement,66_6640_RR - WCOB Boiler Room Sump Pump Replacement
+66,County Building Improvements,6640,Minor CIP Projects,RR - WCOB Boiler Sub-system Replacement Project,66_6640_RR - WCOB Boiler Sub-system Replacement Project
+66,County Building Improvements,6640,Minor CIP Projects,RR - WCOB Data Center UPS_Sheriff Data Center Relocate,66_6640_RR - WCOB Data Center UPS_Sheriff Data Center Relocate
+66,County Building Improvements,6640,Minor CIP Projects,RR - WCOB Life Safety/Fire/ADA/Elevator Improvements,66_6640_RR - WCOB Life Safety/Fire/ADA/Elevator Improvements
+66,County Building Improvements,6640,Minor CIP Projects,RR - WCOP Exterior Waterproofing,66_6640_RR - WCOP Exterior Waterproofing
+66,County Building Improvements,6640,Minor CIP Projects,"Willow Springs FD Well, Pump & Tank","66_6640_Willow Springs FD Well, Pump & Tank"
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",Agriculture Services Center,66_6650_Agriculture Services Center
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",Community Services Center - Elec/Fire Alarm,66_6650_Community Services Center - Elec/Fire Alarm
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",Community Services Center HVAC,66_6650_Community Services Center HVAC
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",CSC Elevator Mordernization,66_6650_CSC Elevator Mordernization
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",General Services Center,66_6650_General Services Center
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",Green Road Boiler Replacement,66_6650_Green Road Boiler Replacement
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",Hammond 1B Cooling Tower,66_6650_Hammond 1B Cooling Tower
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",LETC Boiler Replacement,66_6650_LETC Boiler Replacement
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing","Mechanical, Electrical & Plumbing - Gen","66_6650_Mechanical, Electrical & Plumbing - Gen"
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",MEP - Cameron Village Library Chiller,66_6650_MEP - Cameron Village Library Chiller
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",MEP - Direct Digital System Migration,66_6650_MEP - Direct Digital System Migration
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",MEP - Eastern Regional Center,66_6650_MEP - Eastern Regional Center
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",MEP - Fire Training Center - HVAC/Fire Loop Pump,66_6650_MEP - Fire Training Center - HVAC/Fire Loop Pump
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",MEP - Willow Springs Fire Station Waterline,66_6650_MEP - Willow Springs Fire Station Waterline
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",Olivia Raney Library HVAC,66_6650_Olivia Raney Library HVAC
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",PSC Boiler Replacement,66_6650_PSC Boiler Replacement
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",Rural Center HVAC Replacement,66_6650_Rural Center HVAC Replacement
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",S Regional Ctr VAV Replacement,66_6650_S Regional Ctr VAV Replacement
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",S. Wilmington St HVAC Replacement,66_6650_S. Wilmington St HVAC Replacement
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",Sunnybrook HVAC,66_6650_Sunnybrook HVAC
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",WCOB Boiler/Heating Plant Replacement,66_6650_WCOB Boiler/Heating Plant Replacement
+66,County Building Improvements,6650,"Mechanical, Electrical And Plumbing",WCOB Building Systems Upgrades,66_6650_WCOB Building Systems Upgrades
+66,County Building Improvements,6660,Roofing Projects,Agriculture Services Building,66_6660_Agriculture Services Building
+66,County Building Improvements,6660,Roofing Projects,Animal Control Center Roof Replacement,66_6660_Animal Control Center Roof Replacement
+66,County Building Improvements,6660,Roofing Projects,Eva Perry Library Roof Replacement,66_6660_Eva Perry Library Roof Replacement
+66,County Building Improvements,6660,Roofing Projects,GSA Parking Deck Recoating,66_6660_GSA Parking Deck Recoating
+66,County Building Improvements,6660,Roofing Projects,Hammond Rd Annex Roof Replacement,66_6660_Hammond Rd Annex Roof Replacement
+66,County Building Improvements,6660,Roofing Projects,Oakview Historic Park Roof,66_6660_Oakview Historic Park Roof
+66,County Building Improvements,6660,Roofing Projects,PSC Roof Replacement,66_6660_PSC Roof Replacement
+66,County Building Improvements,6660,Roofing Projects,Roof Replacements - General,66_6660_Roof Replacements - General
+66,County Building Improvements,6660,Roofing Projects,Roofing - Agricultural Servces Building,66_6660_Roofing - Agricultural Servces Building
+66,County Building Improvements,6660,Roofing Projects,Roofing - East Regional,66_6660_Roofing - East Regional
+66,County Building Improvements,6660,Roofing Projects,Roofing - SER Library,66_6660_Roofing - SER Library
+66,County Building Improvements,6660,Roofing Projects,Roofing - WCOB,66_6660_Roofing - WCOB
+66,County Building Improvements,6660,Roofing Projects,South Wilmington Street Center Roofing,66_6660_South Wilmington Street Center Roofing
+66,County Building Improvements,6660,Roofing Projects,Southern Regional Center Roof Replacement,66_6660_Southern Regional Center Roof Replacement
+66,County Building Improvements,6660,Roofing Projects,Sunnybrook Building Envelope Roofing,66_6660_Sunnybrook Building Envelope Roofing
+66,County Building Improvements,6660,Roofing Projects,Swinburne Roof Replacement,66_6660_Swinburne Roof Replacement
+66,County Building Improvements,6670,Regional Governmental Centers,North Regional Center,66_6670_North Regional Center
+66,County Building Improvements,6680,Stormwater Control Device Upgrades,CCWP - General,66_6680_CCWP - General
+66,County Building Improvements,6680,Stormwater Control Device Upgrades,Fire Training Center Dam Repairs,66_6680_Fire Training Center Dam Repairs
+66,County Building Improvements,6680,Stormwater Control Device Upgrades,NRC SCM Restoration,66_6680_NRC SCM Restoration
+66,County Building Improvements,6680,Stormwater Control Device Upgrades,Site 11a - Richland Creek Lake,66_6680_Site 11a - Richland Creek Lake
+66,County Building Improvements,6680,Stormwater Control Device Upgrades,Site 18 - Cole's Branch Reservoir,66_6680_Site 18 - Cole's Branch Reservoir
+66,County Building Improvements,6680,Stormwater Control Device Upgrades,Site 2 - Hatcher's Grove,66_6680_Site 2 - Hatcher's Grove
+66,County Building Improvements,6680,Stormwater Control Device Upgrades,Site 20A - Brier Creek,66_6680_Site 20A - Brier Creek
+66,County Building Improvements,6680,Stormwater Control Device Upgrades,Site 3 - Bond Lake,66_6680_Site 3 - Bond Lake
+66,County Building Improvements,6680,Stormwater Control Device Upgrades,Site 5A - Page Lake,66_6680_Site 5A - Page Lake
+66,County Building Improvements,6680,Stormwater Control Device Upgrades,Stormwater Control - Site 3 Bond Lake,66_6680_Stormwater Control - Site 3 Bond Lake
+66,County Building Improvements,6685,Infrastructure Paving,Blue Jay Point Paving Projects,66_6685_Blue Jay Point Paving Projects
+66,County Building Improvements,6685,Infrastructure Paving,CSC Paving,66_6685_CSC Paving
+66,County Building Improvements,6685,Infrastructure Paving,Fire Arms Education Paving,66_6685_Fire Arms Education Paving
+66,County Building Improvements,6685,Infrastructure Paving,Green Road Library Paving,66_6685_Green Road Library Paving
+66,County Building Improvements,6685,Infrastructure Paving,Infrastructure Paving - General,66_6685_Infrastructure Paving - General
+66,County Building Improvements,6685,Infrastructure Paving,IP - Sunnybrook Surface Parking Areas,66_6685_IP - Sunnybrook Surface Parking Areas
+66,County Building Improvements,6685,Infrastructure Paving,Knightdale ES Park Paving,66_6685_Knightdale ES Park Paving
+66,County Building Improvements,6685,Infrastructure Paving,PSC Reseal Parking Deck,66_6685_PSC Reseal Parking Deck
+66,County Building Improvements,6685,Infrastructure Paving,South Regional Center Paving,66_6685_South Regional Center Paving
+66,County Building Improvements,6685,Infrastructure Paving,Southeast Regional Library,66_6685_Southeast Regional Library
+68,Criminal Justice CIP,6810,Detention Facilities,CCBI Alcohol/Drug Analysis Renovation at Hammond Rd,68_6810_CCBI Alcohol/Drug Analysis Renovation at Hammond Rd
+68,Criminal Justice CIP,6810,Detention Facilities,Detention Phase 2 Hammond Site,68_6810_Detention Phase 2 Hammond Site
+68,Criminal Justice CIP,6810,Detention Facilities,Hammond Population/Inmate Projection Study,68_6810_Hammond Population/Inmate Projection Study
+68,Criminal Justice CIP,6810,Detention Facilities,WCDC Safety Cells,68_6810_WCDC Safety Cells
+68,Criminal Justice CIP,6810,Detention Facilities,WCSO Detention Center Detox Beds,68_6810_WCSO Detention Center Detox Beds
+68,Criminal Justice CIP,6820,Criminal Justice Security,Detention and Security Assessment Improvements,68_6820_Detention and Security Assessment Improvements
+68,Criminal Justice CIP,6820,Criminal Justice Security,Programmable Controller,68_6820_Programmable Controller
+68,Criminal Justice CIP,6830,Judicial Facilities,CTHS - Skywalk Repair,68_6830_CTHS - Skywalk Repair
+68,Criminal Justice CIP,6830,Judicial Facilities,CTHS 3rd Floor Renovation,68_6830_CTHS 3rd Floor Renovation
+68,Criminal Justice CIP,6830,Judicial Facilities,CTHS Elevator Upgrade/Reburbishment,68_6830_CTHS Elevator Upgrade/Reburbishment
+68,Criminal Justice CIP,6830,Judicial Facilities,CTHS HVAC Improvements,68_6830_CTHS HVAC Improvements
+68,Criminal Justice CIP,6830,Judicial Facilities,"CTHS Partial Renov - Fl. 7,8,9&12","68_6830_CTHS Partial Renov - Fl. 7,8,9&12"
+68,Criminal Justice CIP,6830,Judicial Facilities,CTHS Renovations - Floors 1 - 5,68_6830_CTHS Renovations - Floors 1 - 5
+68,Criminal Justice CIP,6830,Judicial Facilities,CTHS Renovations - Floors 1 - 5 & 10,68_6830_CTHS Renovations - Floors 1 - 5 & 10
+68,Criminal Justice CIP,6830,Judicial Facilities,Davie St Parking Deck,68_6830_Davie St Parking Deck
+68,Criminal Justice CIP,6830,Judicial Facilities,EOC and PSC Tunnel Fire Sprinkler,68_6830_EOC and PSC Tunnel Fire Sprinkler
+68,Criminal Justice CIP,6830,Judicial Facilities,General Judicial Facilities Planned Proj,68_6830_General Judicial Facilities Planned Proj
+68,Criminal Justice CIP,6830,Judicial Facilities,Justice Center,68_6830_Justice Center
+68,Criminal Justice CIP,6830,Judicial Facilities,Justice Facilities Displacements,68_6830_Justice Facilities Displacements
+68,Criminal Justice CIP,6830,Judicial Facilities,NC Business Court Partnership Upfit,68_6830_NC Business Court Partnership Upfit
+68,Criminal Justice CIP,6830,Judicial Facilities,NC Business Court Upfit,68_6830_NC Business Court Upfit
+68,Criminal Justice CIP,6830,Judicial Facilities,Salisbury Street Lobby Renovation,68_6830_Salisbury Street Lobby Renovation
+68,Criminal Justice CIP,6830,Judicial Facilities,Stairwell/Elevator Security,68_6830_Stairwell/Elevator Security
+68,Criminal Justice CIP,6830,Judicial Facilities,Upper Parking Deck Abatement,68_6830_Upper Parking Deck Abatement
+68,Criminal Justice CIP,6830,Judicial Facilities,WCCH Elevator Upgrade/Refurbishment,68_6830_WCCH Elevator Upgrade/Refurbishment
+68,Criminal Justice CIP,6830,Judicial Facilities,WCCH Genset B (generator),68_6830_WCCH Genset B (generator)
+68,Criminal Justice CIP,6840,Public Safety Center,Public Safety Center Renovations,68_6840_Public Safety Center Renovations
+68,Criminal Justice CIP,6850,Criminal Justice Equipment,DWI Lab Equipment Upgrade,68_6850_DWI Lab Equipment Upgrade
+68,Criminal Justice CIP,6850,Criminal Justice Equipment,Firearms/Ballistics Lab,68_6850_Firearms/Ballistics Lab
+68,Criminal Justice CIP,6850,Criminal Justice Equipment,Sheriff - Taser Replacement,68_6850_Sheriff - Taser Replacement
+70,Public Libraries CIP,7000,Library Projects,Cary Regional Library - Books,70_7000_Cary Regional Library - Books
+70,Public Libraries CIP,7000,Library Projects,Cary Regional Library - Parking Deck,70_7000_Cary Regional Library - Parking Deck
+70,Public Libraries CIP,7000,Library Projects,Cary Regional Library (Land & Construction),70_7000_Cary Regional Library (Land & Construction)
+70,Public Libraries CIP,7000,Library Projects,East Regional Library Upgrade,70_7000_East Regional Library Upgrade
+70,Public Libraries CIP,7000,Library Projects,Eva Perry Library Renovations,70_7000_Eva Perry Library Renovations
+70,Public Libraries CIP,7000,Library Projects,Fuquay Varina Library - Books,70_7000_Fuquay Varina Library - Books
+70,Public Libraries CIP,7000,Library Projects,Fuquay Varina Library (Construction),70_7000_Fuquay Varina Library (Construction)
+70,Public Libraries CIP,7000,Library Projects,Leesville Branch Library,70_7000_Leesville Branch Library
+70,Public Libraries CIP,7000,Library Projects,Master Libraries,70_7000_Master Libraries
+70,Public Libraries CIP,7000,Library Projects,Middle Creek Library - Books,70_7000_Middle Creek Library - Books
+70,Public Libraries CIP,7000,Library Projects,Middle Creek Library (Construction),70_7000_Middle Creek Library (Construction)
+70,Public Libraries CIP,7000,Library Projects,Morrisville Library,70_7000_Morrisville Library
+70,Public Libraries CIP,7000,Library Projects,Morrisville Library - Books,70_7000_Morrisville Library - Books
+70,Public Libraries CIP,7000,Library Projects,North Hills Library - Land & Construction,70_7000_North Hills Library - Land & Construction
+70,Public Libraries CIP,7000,Library Projects,North Regional Library,70_7000_North Regional Library
+70,Public Libraries CIP,7000,Library Projects,NorthEast Regional Library,70_7000_Northeast Regional Library
+70,Public Libraries CIP,7000,Library Projects,Northeastern Regional Library - Books,70_7000_Northeastern Regional Library - Books
+70,Public Libraries CIP,7000,Library Projects,Olivia Raney Library FCA,70_7000_Olivia Raney Library FCA
+70,Public Libraries CIP,7000,Library Projects,Southeast Regional Library Upgrade,70_7000_Southeast Regional Library Upgrade
+70,Public Libraries CIP,7000,Library Projects,Wake Forest Library,70_7000_Wake Forest Library
+70,Public Libraries CIP,7000,Library Projects,Wake Forest Library - Books,70_7000_Wake Forest Library - Books
+70,Public Libraries CIP,7000,Library Projects,Zebulon Library Upgrade FCA,70_7000_Zebulon Library Upgrade FCA
+70,Public Libraries CIP,7010,Library Materials & Collections,Library Materials & Collection Development,70_7010_Library Materials & Collection Development
+72,Open Space,7200,Open Space,Beaver Creek Greenway,72_7200_Beaver Creek Greenway
+72,Open Space,7200,Open Space,Beaverdam Greenway,72_7200_Beaverdam Greenway
+72,Open Space,7200,Open Space,Buffalo Creek Assemblage,72_7200_Buffalo Creek Assemblage
+72,Open Space,7200,Open Space,Buffalo Creek Partnership - Wendell,72_7200_Buffalo Creek Partnership - Wendell
+72,Open Space,7200,Open Space,Cary White Oak Greenway,72_7200_Cary White Oak Greenway
+72,Open Space,7200,Open Space,County-wide Greenway Master Planning,72_7200_County-wide Greenway Master Planning
+72,Open Space,7200,Open Space,Crabtree Creek Greenway - Cary Portion,72_7200_Crabtree Creek Greenway - Cary Portion
+72,Open Space,7200,Open Space,Depot Trail Greenway (FV),72_7200_Depot Trail Greenway (FV)
+72,Open Space,7200,Open Space,Frances Parham Property,72_7200_Frances Parham Property
+72,Open Space,7200,Open Space,Gehrke Property Acquisition,72_7200_Gehrke Property Acquisition
+72,Open Space,7200,Open Space,Gehrke Property Acquistion,72_7200_Gehrke Property Acquistion
+72,Open Space,7200,Open Space,Granite Falls Greenway,72_7200_Granite Falls Greenway
+72,Open Space,7200,Open Space,HL Medlin Farms Property,72_7200_HL Medlin Farms Property
+72,Open Space,7200,Open Space,Holloman Property Acquistion,72_7200_Holloman Property Acquistion
+72,Open Space,7200,Open Space,Kellam-Wyatt Farm,72_7200_Kellam-Wyatt Farm
+72,Open Space,7200,Open Space,Liles Property,72_7200_Liles Property
+72,Open Space,7200,Open Space,Liles Property - Phase 2,72_7200_Liles Property - Phase 2
+72,Open Space,7200,Open Space,Little River Reimbursement - Raleigh,72_7200_Little River Reimbursement - Raleigh
+72,Open Space,7200,Open Space,Middle Creek Greenway,72_7200_Middle Creek Greenway
+72,Open Space,7200,Open Space,Moore Open Space,72_7200_Moore Open Space
+72,Open Space,7200,Open Space,Morrisville/Crabtree/Hatcher Creek Greenway,72_7200_Morrisville/Crabtree/Hatcher Creek Greenway
+72,Open Space,7200,Open Space,Open Space Administration,72_7200_Open Space Administration
+72,Open Space,7200,Open Space,Procter Farm Preserve,72_7200_Procter Farm Preserve
+72,Open Space,7200,Open Space,Ray Farm - Falls Lake,72_7200_Ray Farm - Falls Lake
+72,Open Space,7200,Open Space,Robertson's Mill Pond Preserve,72_7200_Robertson's Mill Pond Preserve
+72,Open Space,7200,Open Space,Robertson's Mill Pond Preserve Ph 2/Part F,72_7200_Robertson's Mill Pond Preserve Ph 2/Part F
+72,Open Space,7200,Open Space,Shugart Property,72_7200_Shugart Property
+72,Open Space,7200,Open Space,Smith Creek (Granville Co),72_7200_Smith Creek (Granville Co)
+72,Open Space,7200,Open Space,Smith Creek Greenway,72_7200_Smith Creek Greenway
+72,Open Space,7200,Open Space,Sonya Tongue Property,72_7200_Sonya Tongue Property
+72,Open Space,7200,Open Space,Spruill Property Acquistion,72_7200_Spruill Property Acquistion
+72,Open Space,7200,Open Space,Todd Property,72_7200_Todd Property
+72,Open Space,7200,Open Space,TOW - Open Space Loan Agreement,72_7200_TOW - Open Space Loan Agreement
+72,Open Space,7200,Open Space,Turnipseed Preserve,72_7200_Turnipseed Preserve
+72,Open Space,7200,Open Space,Turnipseed Preserve Ph 2/LWCF,72_7200_Turnipseed Preserve Ph 2/LWCF
+72,Open Space,7200,Open Space,Unallocated Open Space,72_7200_Unallocated Open Space
+72,Open Space,7200,Open Space,Watson Marks Creek,72_7200_Watson Marks Creek
+72,Open Space,7200,Open Space,Yeager Property,72_7200_Yeager Property
+74,"Parks, Recreation, Greenways & Open Space CIP",7410,County Parks,Aquatic Species Propagation Facility,74_7410_Aquatic Species Propagation Facility
+74,"Parks, Recreation, Greenways & Open Space CIP",7410,County Parks,Beech Bluff Park,74_7410_Beech Bluff Park
+74,"Parks, Recreation, Greenways & Open Space CIP",7410,County Parks,Crooked Creek Park,74_7410_Crooked Creek Park
+74,"Parks, Recreation, Greenways & Open Space CIP",7410,County Parks,Parks Facility Master Planning,74_7410_Parks Facility Master Planning
+74,"Parks, Recreation, Greenways & Open Space CIP",7410,County Parks,Randleigh Farm,74_7410_Randleigh Farm
+74,"Parks, Recreation, Greenways & Open Space CIP",7410,County Parks,Southeast Regional Wake Co Park,74_7410_Southeast Regional Wake Co Park
+74,"Parks, Recreation, Greenways & Open Space CIP",7420,Community Use Of School/Parks,Bryan Road ES Community Use,74_7420_Bryan Road ES Community Use
+74,"Parks, Recreation, Greenways & Open Space CIP",7420,Community Use Of School/Parks,General Community Use Of Schools,74_7420_General Community Use Of Schools
+74,"Parks, Recreation, Greenways & Open Space CIP",7420,Community Use Of School/Parks,South Lake ES Community Use,74_7420_South Lake ES Community Use
+74,"Parks, Recreation, Greenways & Open Space CIP",7490,Existing Park Facility Improvements,ADA Compliance - Lake Crabtree,74_7490_ADA Compliance - Lake Crabtree
+74,"Parks, Recreation, Greenways & Open Space CIP",7490,Existing Park Facility Improvements,PARK FACILITY IMPROVEMENTS,74_7490_PARK FACILITY IMPROVEMENTS
+76,Public Safety CIP,7620,Computer Aided Dispatch,CAD System Replacement,76_7620_CAD System Replacement
+76,Public Safety CIP,7630,800 MHZ Radio Communications,800 MHz Radio System Infrastructure Replacement,76_7630_800 MHz Radio System Infrastructure Replacement
+76,Public Safety CIP,7630,800 MHZ Radio Communications,800Mhz Infrastructure Study,76_7630_800Mhz Infrastructure Study
+76,Public Safety CIP,7630,800 MHZ Radio Communications,Alpha Numeric Paging Infrastructure Replacement,76_7630_Alpha Numeric Paging Infrastructure Replacement
+76,Public Safety CIP,7630,800 MHZ Radio Communications,Alpha Pager Replacement,76_7630_Alpha Pager Replacement
+76,Public Safety CIP,7630,800 MHZ Radio Communications,Sprint/Nextel - Rebanding Project,76_7630_Sprint/Nextel - Rebanding Project
+76,Public Safety CIP,7630,800 MHZ Radio Communications,Tone & Voice Pager Infrastructure Replacement,76_7630_Tone & Voice Pager Infrastructure Replacement
+76,Public Safety CIP,7630,800 MHZ Radio Communications,Tone & Voice Pager Replacement,76_7630_Tone & Voice Pager Replacement
+76,Public Safety CIP,7640,EMS,800 MHz Subscriber Unit,76_7640_800 MHz Subscriber Unit
+76,Public Safety CIP,7640,EMS,Bay Leaf Station 3,76_7640_Bay Leaf Station 3
+76,Public Safety CIP,7640,EMS,Brier Creek EMS,76_7640_Brier Creek EMS
+76,Public Safety CIP,7640,EMS,Emergency Operations Center,76_7640_Emergency Operations Center
+76,Public Safety CIP,7640,EMS,EMS - Apex Station,76_7640_EMS - Apex Station
+76,Public Safety CIP,7640,EMS,EMS - Lynn Road,76_7640_EMS - Lynn Road
+76,Public Safety CIP,7640,EMS,EMS - McCuller-Garner West Station,76_7640_EMS - McCuller-Garner West Station
+76,Public Safety CIP,7640,EMS,EMS - SW Holly Springs Fire Station,76_7640_EMS - SW Holly Springs Fire Station
+76,Public Safety CIP,7640,EMS,EMS Defibrillators,76_7640_EMS Defibrillators
+76,Public Safety CIP,7640,EMS,EMS District Drive Station,76_7640_EMS District Drive Station
+76,Public Safety CIP,7640,EMS,EMS Holding Account,76_7640_EMS Holding Account
+76,Public Safety CIP,7640,EMS,Fuquay North EMS Station Co-Location,76_7640_Fuquay North EMS Station Co-Location
+76,Public Safety CIP,7640,EMS,Hilltop/Fuquay Fire Station #2 (EMS) Bay Expansion,76_7640_Hilltop/Fuquay Fire Station #2 (EMS) Bay Expansion
+76,Public Safety CIP,7640,EMS,Knightdale South Co-location,76_7640_Knightdale South Co-location
+76,Public Safety CIP,7640,EMS,New Hope (EMS),76_7640_New Hope (EMS)
+76,Public Safety CIP,7640,EMS,Public Safety Warehouse,76_7640_Public Safety Warehouse
+76,Public Safety CIP,7640,EMS,Wendell Falls EMS Co-Location,76_7640_Wendell Falls EMS Co-Location
+76,Public Safety CIP,7640,EMS,Wendell Main EMS Station Replacement,76_7640_Wendell Main EMS Station Replacement
+76,Public Safety CIP,7650,Public Safety,EOC Commons Study,76_7650_EOC Commons Study
+76,Public Safety CIP,7650,Public Safety,Former 911 Emergency Fund,76_7650_Former 911 Emergency Fund
+76,Public Safety CIP,7650,Public Safety,PS Mass Notification,76_7650_PS Mass Notification
+76,Public Safety CIP,7650,Public Safety,WC & TOC CAD-to-CAD Interface,76_7650_WC & TOC CAD-to-CAD Interface
+76,Public Safety CIP,7660,Sheriff,Sheriff's Training Facility,76_7660_Sheriff's Training Facility
+79,Economic Devolopment,7910,On-Site Water and Sewer,Credit Suisse Water and Sewer Infra (On-Site),79_7910_Credit Suisse Water and Sewer Infra (On-Site)
+79,Economic Devolopment,7910,On-Site Water and Sewer,On-Site Water and Sewer Unallocated in RTP,79_7910_On-Site Water and Sewer Unallocated in RTP
+79,Economic Devolopment,7920,Off-Site Water and Sewer,Jordan Lake Water Allocation,79_7920_Jordan Lake Water Allocation
+79,Economic Devolopment,7920,Off-Site Water and Sewer,RTP Off-Site Water and Sewer Unallocated,79_7920_RTP Off-Site Water and Sewer Unallocated
+79,Economic Devolopment,7930,Economic Incentives,A Wireless,79_7930_A Wireless
+79,Economic Devolopment,7930,Economic Incentives,Conduent,79_7930_Conduent
+79,Economic Devolopment,7930,Economic Incentives,Credit Suisse,79_7930_Credit Suisse
+79,Economic Devolopment,7930,Economic Incentives,Credit Suisse 2,79_7930_Credit Suisse 2
+79,Economic Devolopment,7930,Economic Incentives,Economic Incentives Unallocated,79_7930_Economic Incentives Unallocated
+79,Economic Devolopment,7930,Economic Incentives,INC Research,79_7930_INC Research
+79,Economic Devolopment,7930,Economic Incentives,InfoSys,79_7930_InfoSys
+79,Economic Devolopment,7930,Economic Incentives,MetLife,79_7930_MetLife
+79,Economic Devolopment,7930,Economic Incentives,NetApp,79_7930_NetApp
+79,Economic Devolopment,7930,Economic Incentives,NetApp 2,79_7930_NetApp 2
+79,Economic Devolopment,7930,Economic Incentives,Novartis,79_7930_Novartis
+79,Economic Devolopment,7930,Economic Incentives,Novartis/Seqirus,79_7930_Novartis/Seqirus
+79,Economic Devolopment,7930,Economic Incentives,Novozymes,79_7930_Novozymes
+79,Economic Devolopment,7930,Economic Incentives,Raleigh Bike Share Agreement,79_7930_Raleigh Bike Share Agreement
+79,Economic Devolopment,7930,Economic Incentives,RDU Delta Revenue Guaranty Agreement,79_7930_RDU Delta Revenue Guaranty Agreement
+79,Economic Devolopment,7930,Economic Incentives,Red Hat,79_7930_Red Hat
+79,Economic Devolopment,7930,Economic Incentives,Trilliant,79_7930_Trilliant
+79,Economic Devolopment,7930,Economic Incentives,Xellia,79_7930_Xellia
+79,Economic Devolopment,7940,Watershed Nutrient Management,Nutrient Reduction Study,79_7940_Nutrient Reduction Study
+79,Economic Devolopment,7950,"Water, Sewer & Road Improvements",Banks Pointe Road Improvements,79_7950_Banks Pointe Road Improvements
+79,Economic Devolopment,7950,"Water, Sewer & Road Improvements",Forrest Ridge Subdivision Road Improvements,79_7950_Forrest Ridge Subdivision Road Improvements
+79,Economic Devolopment,7950,"Water, Sewer & Road Improvements",Mallard Crossing Subdivision Road Improvements,79_7950_Mallard Crossing Subdivision Road Improvements
+79,Economic Devolopment,7950,"Water, Sewer & Road Improvements",Preserve at Longbranch (Paving),79_7950_Preserve at Longbranch (Paving)
+79,Economic Devolopment,7950,"Water, Sewer & Road Improvements","Reserved for Future Water, Sewer & Road Improvments","79_7950_Reserved for Future Water, Sewer & Road Improvments"
+79,Economic Devolopment,7950,"Water, Sewer & Road Improvements",Rose Hall Subdivision Road Improvements,79_7950_Rose Hall Subdivision Road Improvements
+79,Economic Devolopment,7950,"Water, Sewer & Road Improvements","Water, Sewer & Road Studies","79_7950_Water, Sewer & Road Studies"
+84,Fire And Rescue CIP,8420,Fire Facilities,Fire Facility Condition Assessments,84_8420_Fire Facility Condition Assessments
+84,Fire And Rescue CIP,8420,Fire Facilities,Fire Planned Facility Repairs,84_8420_Fire Planned Facility Repairs
+84,Fire And Rescue CIP,8420,Fire Facilities,Stony Hill Remediation,84_8420_Stony Hill Remediation
+84,Fire And Rescue CIP,8420,Fire Facilities,"Wendell Falls Station, Fire Tax Portion","84_8420_Wendell Falls Station, Fire Tax Portion"
+84,Fire And Rescue CIP,8430,Fire Fighting Equipment,CONTINGENCIES & GRANT MATCHES,84_8430_CONTINGENCIES & GRANT MATCHES
+84,Fire And Rescue CIP,8430,Fire Fighting Equipment,Fire 800MHZ - Omnilink Upgrade,84_8430_Fire 800MHZ - Omnilink Upgrade
+84,Fire And Rescue CIP,8430,Fire Fighting Equipment,Fire Air Bottle Replacement,84_8430_Fire Air Bottle Replacement
+84,Fire And Rescue CIP,8430,Fire Fighting Equipment,Fire Defibrillators,84_8430_Fire Defibrillators
+84,Fire And Rescue CIP,8430,Fire Fighting Equipment,Fire SCBA's,84_8430_Fire SCBA's
+84,Fire And Rescue CIP,8430,Fire Fighting Equipment,Fire Small Capital - FY16,84_8430_Fire Small Capital - FY16
+84,Fire And Rescue CIP,8430,Fire Fighting Equipment,Fire Small Capital - FY17,84_8430_Fire Small Capital - FY17
+84,Fire And Rescue CIP,8430,Fire Fighting Equipment,Fire Small Capital - FY18,84_8430_Fire Small Capital - FY18
+84,Fire And Rescue CIP,8430,Fire Fighting Equipment,Fire Small Capital - FY19,84_8430_Fire Small Capital - FY19
+84,Fire And Rescue CIP,8430,Fire Fighting Equipment,Fire Thermal Imaging Cameras,84_8430_Fire Thermal Imaging Cameras
+84,Fire And Rescue CIP,8430,Fire Fighting Equipment,Pager Replacements,84_8430_Pager Replacements
+84,Fire And Rescue CIP,8430,Fire Fighting Equipment,TURNOUT GEAR,84_8430_TURNOUT GEAR
+84,Fire And Rescue CIP,8440,Fire Apparatus,Apparatus Emergency Repairs,84_8440_Apparatus Emergency Repairs
+84,Fire And Rescue CIP,8440,Fire Apparatus,Cost Share apparatus debt payments,84_8440_Cost Share apparatus debt payments
+84,Fire And Rescue CIP,8440,Fire Apparatus,Fire Small Vehicles,84_8440_Fire Small Vehicles
+84,Fire And Rescue CIP,8440,Fire Apparatus,FY15 Large Apparatus - Municipal,84_8440_FY15 Large Apparatus - Municipal
+84,Fire And Rescue CIP,8440,Fire Apparatus,FY15 Large Apparatus - Rural,84_8440_FY15 Large Apparatus - Rural
+84,Fire And Rescue CIP,8440,Fire Apparatus,FY16 Large Apparatus - Municipal,84_8440_FY16 Large Apparatus - Municipal
+84,Fire And Rescue CIP,8440,Fire Apparatus,FY16 Large Apparatus - Rural,84_8440_FY16 Large Apparatus - Rural
+84,Fire And Rescue CIP,8440,Fire Apparatus,FY17 Large Apparatus - Municipal,84_8440_FY17 Large Apparatus - Municipal
+84,Fire And Rescue CIP,8440,Fire Apparatus,FY17 Large Apparatus - Rural,84_8440_FY17 Large Apparatus - Rural
+84,Fire And Rescue CIP,8440,Fire Apparatus,FY18 Large Apparatus - Rural,84_8440_FY18 Large Apparatus - Rural
+84,Fire And Rescue CIP,8440,Fire Apparatus,FY19 Large Apparatus - Municipal,84_8440_FY19 Large Apparatus - Municipal
+84,Fire And Rescue CIP,8440,Fire Apparatus,FY19 Large Apparatus - Rural,84_8440_FY19 Large Apparatus - Rural
+84,Fire And Rescue CIP,8440,Fire Apparatus,General Fire Apparatus,84_8440_General Fire Apparatus
+84,Fire And Rescue CIP,8499,Fire Capital Uncommitted,Fire Capital Uncommitted,84_8499_Fire Capital Uncommitted
+84,Fire And Rescue CIP,8499,Fire Capital Uncommitted,Fire Preexisting Department - Debt Service,84_8499_Fire Preexisting Department - Debt Service
+84,Fire And Rescue CIP,8499,Fire Capital Uncommitted,Garner Station #4 Interlocal Agreement,84_8499_Garner Station #4 Interlocal Agreement
+84,Fire And Rescue CIP,8499,Fire Capital Uncommitted,Transfer to Debt Service Fund,84_8499_Transfer to Debt Service Fund
+86,Major Facilities Capital Fund,8600,Occupancy And Prepared Food CIP,5 County Stadium Scoreboard,86_8600_5 County Stadium Scoreboard
+86,Major Facilities Capital Fund,8600,Occupancy And Prepared Food CIP,Ammons Competition Complex,86_8600_Ammons Competition Complex
+86,Major Facilities Capital Fund,8600,Occupancy And Prepared Food CIP,Five County Stadium,86_8600_Five County Stadium
+86,Major Facilities Capital Fund,8600,Occupancy And Prepared Food CIP,"Five County Stadium - Capital Improvements, Repairs & Rent","86_8600_Five County Stadium - Capital Improvements, Repairs & Rent"
+86,Major Facilities Capital Fund,8600,Occupancy And Prepared Food CIP,Green Square Project,86_8600_Green Square Project
+86,Major Facilities Capital Fund,8600,Occupancy And Prepared Food CIP,Holly Springs - North Main Complex,86_8600_Holly Springs - North Main Complex
+86,Major Facilities Capital Fund,8600,Occupancy And Prepared Food CIP,Marbles Kid Grid,86_8600_Marbles Kid Grid
+86,Major Facilities Capital Fund,8600,Occupancy And Prepared Food CIP,Marbles/IMAX Upgrades,86_8600_Marbles/IMAX Upgrades
+86,Major Facilities Capital Fund,8600,Occupancy And Prepared Food CIP,RESERVED FOR FUTURE PROJECTS,86_8600_Reserved for Future Projects
+86,Major Facilities Capital Fund,8610,2 for 1 Competitive Projects,Ammons Competition Complex,86_8610_Ammons Competition Complex
+86,Major Facilities Capital Fund,8610,2 for 1 Competitive Projects,Fleming Loop Park Project,86_8610_Fleming Loop Park Project
+86,Major Facilities Capital Fund,8610,2 for 1 Competitive Projects,Holly Springs - North Main Complex,86_8610_Holly Springs - North Main Complex
+86,Major Facilities Capital Fund,8610,2 for 1 Competitive Projects,Marble Kids Museum PLaY-stallation Project,86_8610_Marble Kids Museum PLaY-stallation Project
+86,Major Facilities Capital Fund,8610,2 for 1 Competitive Projects,NC State Gregg Museum,86_8610_NC State Gregg Museum
+86,Major Facilities Capital Fund,8610,2 for 1 Competitive Projects,NCMA Park Expansion Project,86_8610_NCMA Park Expansion Project
+86,Major Facilities Capital Fund,8610,2 for 1 Competitive Projects,Town of Cary - Major Sports Venues Enhancements,86_8610_Town of Cary - Major Sports Venues Enhancements
+86,Major Facilities Capital Fund,8610,2 for 1 Competitive Projects,Town of Knightdale Forestville Road Athletic Park,86_8610_Town of Knightdale Forestville Road Athletic Park
+86,Major Facilities Capital Fund,8610,2 for 1 Competitive Projects,Town of Morrisville Cricket Field Lights,86_8610_Town of Morrisville Cricket Field Lights
+86,Major Facilities Capital Fund,8610,2 for 1 Competitive Projects,Triangle Aquatic Center Expansion,86_8610_Triangle Aquatic Center Expansion
+86,Major Facilities Capital Fund,8610,2 for 1 Competitive Projects,Wake Forest Renaissance Centre,86_8610_Wake Forest Renaissance Centre
+86,Major Facilities Capital Fund,8620,20th ILA Competitive Projects,Competitive Projects,86_8620_Competitive Projects
+86,Major Facilities Capital Fund,8620,20th ILA Competitive Projects,RESERVED FOR FUTURE PROJECTS,86_8620_Reserved for Future Projects
+86,Major Facilities Capital Fund,8620,20th ILA Competitive Projects,Town of Cary Soccer Park Project,86_8620_Town of Cary Soccer Park Project
+86,Major Facilities Capital Fund,8620,20th ILA Competitive Projects,Town of Cary Sports Facility Master Plan,86_8620_Town of Cary Sports Facility Master Plan
+88,Program Wide Projects,8810,440 Co Construction - General - Revenue,RESERVED FOR FUTURE PROJECTS,88_8810_RESERVED FOR FUTURE PROJECTS
+88,Program Wide Projects,8810,440 Co Construction - General - Revenue,Transfer to Affordable Housing,88_8810_Transfer to Affordable Housing
+88,Program Wide Projects,8810,440 Co Construction - General - Revenue,Transfer to Debt Service Fund,88_8810_Transfer to Debt Service Fund
+88,Program Wide Projects,8810,440 Co Construction - General - Revenue,Transfer to Fire CIP,88_8810_Transfer to Fire CIP
+88,Program Wide Projects,8810,440 Co Construction - General - Revenue,Transfer to General Fund,88_8810_Transfer to General Fund
+88,Program Wide Projects,8810,440 Co Construction - General - Revenue,Transfer to Major Facilities CIP,88_8810_Transfer to Major Facilities CIP
+88,Program Wide Projects,8810,440 Co Construction - General - Revenue,Transfer to Wake Tech Capital Fund,88_8810_Transfer to Wake Tech Capital Fund
+97,Solid Waste Enterprise Capital Projects,9010,Convenience Centers,Conv Center - Reconstruct Site 3,97_9010_Conv Center - Reconstruct Site 3
+97,Solid Waste Enterprise Capital Projects,9010,Convenience Centers,Conv Center - Reconstruction Site 2,97_9010_Conv Center - Reconstruction Site 2
+97,Solid Waste Enterprise Capital Projects,9010,Convenience Centers,Convenience Center - Site 10 Paving,97_9010_Convenience Center - Site 10 Paving
+97,Solid Waste Enterprise Capital Projects,9010,Convenience Centers,Convenience Center - Site 11,97_9010_Convenience Center - Site 11
+97,Solid Waste Enterprise Capital Projects,9010,Convenience Centers,Convenience Center Compaction,97_9010_Convenience Center Compaction
+97,Solid Waste Enterprise Capital Projects,9010,Convenience Centers,Convenience Center Uncommitted,97_9010_Convenience Center Uncommitted
+97,Solid Waste Enterprise Capital Projects,9010,Convenience Centers,General Convenience Centers Projects,97_9010_General Convenience Centers Projects
+97,Solid Waste Enterprise Capital Projects,9010,Convenience Centers,North MMRF Expansion & HHW Improvements (9826),97_9010_North MMRF Expansion & HHW Improvements (9826)
+97,Solid Waste Enterprise Capital Projects,9010,Convenience Centers,Oyster Shell Holding Area,97_9010_Oyster Shell Holding Area
+97,Solid Waste Enterprise Capital Projects,9010,Convenience Centers,South MMRF Expansion & HHW Improvements,97_9010_South MMRF Expansion & HHW Improvements
+97,Solid Waste Enterprise Capital Projects,9010,Convenience Centers,SWLF Multi-material Recycling Center,97_9010_SWLF Multi-material Recycling Center
+97,Solid Waste Enterprise Capital Projects,9030,North Wake Landfill,NW Landfill Gas Systems,97_9030_NW Landfill Gas Systems
+97,Solid Waste Enterprise Capital Projects,9030,North Wake Landfill,NW Subtitle D Landfill Closure,97_9030_NW Subtitle D Landfill Closure
+97,Solid Waste Enterprise Capital Projects,9030,North Wake Landfill,NWLF Master Plan - Phase 1,97_9030_NWLF Master Plan - Phase 1
+97,Solid Waste Enterprise Capital Projects,9050,South Wake Landfill,EWTS Wall & Floor Repairs,97_9050_EWTS Wall & Floor Repairs
+97,Solid Waste Enterprise Capital Projects,9050,South Wake Landfill,General South Wake Landfill Projects,97_9050_General South Wake Landfill Projects
+97,Solid Waste Enterprise Capital Projects,9050,South Wake Landfill,Long term Solid Waste Disposal Evaluation,97_9050_Long term Solid Waste Disposal Evaluation
+97,Solid Waste Enterprise Capital Projects,9050,South Wake Landfill,SW Management Field Office & WI Office,97_9050_SW Management Field Office & WI Office
+97,Solid Waste Enterprise Capital Projects,9050,South Wake Landfill,SWLF Closure - Phase 1,97_9050_SWLF Closure - Phase 1
+97,Solid Waste Enterprise Capital Projects,9050,South Wake Landfill,SWLF Soil - Phase 1B,97_9050_SWLF Soil - Phase 1B
+97,Solid Waste Enterprise Capital Projects,9050,South Wake Landfill,Waste Removal Near Scalehouse (9828),97_9050_Waste Removal Near Scalehouse (9828)
+97,Solid Waste Enterprise Capital Projects,9080,Landfill Gas Systems,Landfill Gas System Projects,97_9080_Landfill Gas System Projects
+97,Solid Waste Enterprise Capital Projects,9080,Landfill Gas Systems,NWLF Gas to Energy,97_9080_NWLF Gas to Energy
+97,Solid Waste Enterprise Capital Projects,9090,East Wake Landfill,East Wake Landfill,97_9090_East Wake Landfill
+97,Solid Waste Enterprise Capital Projects,9095,Solid Waste - Full Accrual,Solid Waste - Full Accrual,97_9095_Solid Waste - Full Accrual
