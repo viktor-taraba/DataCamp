@@ -1,0 +1,3 @@
+"seasonality_code","seasonality_text"
+"S","Seasonally Adjusted"
+"U","Not Seasonally Adjusted"
