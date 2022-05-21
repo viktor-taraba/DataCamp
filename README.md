@@ -19,7 +19,7 @@
 | 15 | [Reports in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Reports%20in%20Power%20BI) | Done |
 | 16 | Report Design in Power BI | In progress |
 | 17 | User-Oriented Design in Power BI | In progress |
-| 18 | Machine Learning with Tree-Based Models in Python | In progress |
+| 18 | [Machine Learning with Tree-Based Models in Python](https://github.com/Viktor-T-2001/DataCamp/tree/master/Machine%20Learning%20with%20Tree-Based%20Models%20in%20Python) | Done |
 
 ## Datacamp Projects ##
 
