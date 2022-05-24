@@ -15,7 +15,7 @@
 | 11 | [DAX Functions in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/DAX%20Functions%20in%20Power%20BI) | Done |
 | 12 | [Trend Analysis in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Trend%20Analysis%20in%20Power%20BI) | Done |
 | 13 | Object-Oriented Programming in Python | In progress |
-| 14 | Intermediate DAX in Power BI | In progress |
+| 14 | [Intermediate DAX in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Intermediate%20DAX%20in%20Power%20BI) | Done |
 | 15 | [Reports in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Reports%20in%20Power%20BI) | Done |
 | 16 | [Report Design in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Report%20Design%20in%20Power%20BI) | In progress |
 | 17 | [User-Oriented Design in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/User-Oriented%20Design%20in%20Power%20BI) | In progress |
