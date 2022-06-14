@@ -6,6 +6,14 @@ Link: https://app.datacamp.com/learn/courses/user-oriented-design-in-power-bi
 
 In this course you learn how to design with users in mind. You’ll also learn to use R and Python to create unique visualizations, adding custom chart types that would otherwise not be available in Power BI. You’ll get introduced to some best practices in data visualization and optimize your visualizations to be more accessible to visually impaired individuals. This course also teaches you how to create paginated reports, a prerequisite for the official PL-300 exam!
 
+## **Final report**
+
+![Page1](https://github.com/Viktor-T-2001/DataCamp/blob/master/User-Oriented%20Design%20in%20Power%20BI/Page1.png)
+
+![Page2](https://github.com/Viktor-T-2001/DataCamp/blob/master/User-Oriented%20Design%20in%20Power%20BI/Page2.png)
+
+![Page3](https://github.com/Viktor-T-2001/DataCamp/blob/master/User-Oriented%20Design%20in%20Power%20BI/Page3.png)
+
 ## **Course Structure**
 
 | № | Module | Description |
