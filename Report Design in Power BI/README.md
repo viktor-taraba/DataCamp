@@ -6,6 +6,24 @@ Link: https://app.datacamp.com/learn/courses/report-design-in-power-bi
 
 Continue your data visualization journey with this course on designing reports in Power BI. You'll learn practical techniques for incorporating DAX measures and calculations in your reports—empowering users to filter, highlight values, and group data effectively. Through hands-on exercises, you'll also be introduced to progressive disclosure, a user experience (UX) technique to make reporting easier before discovering how to change report themes and optimize them for mobile users.
 
+## **Final report**
+
+![Page1](https://github.com/Viktor-T-2001/DataCamp/blob/master/Report%20Design%20in%20Power%20BI/Report%20Page%201.png)
+
+![Page2](https://github.com/Viktor-T-2001/DataCamp/blob/master/Report%20Design%20in%20Power%20BI/Report%20Page%202.png)
+
+![Page3](https://github.com/Viktor-T-2001/DataCamp/blob/master/Report%20Design%20in%20Power%20BI/Report%20Page%203.png)
+
+![Page4](https://github.com/Viktor-T-2001/DataCamp/blob/master/Report%20Design%20in%20Power%20BI/Report%20Page%204.png)
+
+## **Final report (Mobile)**
+
+![Mobile1](https://github.com/Viktor-T-2001/DataCamp/blob/master/Report%20Design%20in%20Power%20BI/Mobile1.jpg)
+
+![Mobile2](https://github.com/Viktor-T-2001/DataCamp/blob/master/Report%20Design%20in%20Power%20BI/Mobile2.jpg)
+
+![Mobile3](https://github.com/Viktor-T-2001/DataCamp/blob/master/Report%20Design%20in%20Power%20BI/Mobile3.jpg)
+
 ## **Course Structure**
 
 | № | Module | Description |
