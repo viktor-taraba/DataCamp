@@ -20,6 +20,7 @@
 | 16 | [Report Design in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Report%20Design%20in%20Power%20BI) | Done |
 | 17 | [User-Oriented Design in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/User-Oriented%20Design%20in%20Power%20BI) | Done |
 | 18 | [Machine Learning with Tree-Based Models in Python](https://github.com/Viktor-T-2001/DataCamp/tree/master/Machine%20Learning%20with%20Tree-Based%20Models%20in%20Python) | Done |
+| 19 | [Case Study: Analyzing Job Market Data in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Case%20Study:%20Analyzing%20Job%20Market%20Data%20in%20Power%20BI) | In progress |
 
 ## Datacamp Projects ##
 
