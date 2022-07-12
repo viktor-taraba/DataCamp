@@ -52,10 +52,10 @@ ITsalary (ID, Salary) AS (
 SELECT 
 	ITjobs.NAME,
 	ITjobs.POSITION,
-    ITsalary.Salary
+    	ITsalary.Salary
 FROM ITjobs
     -- Combine the two CTE tables the correct join variant
-    INNER JOIN ITsalary
+INNER JOIN ITsalary
     -- Execute the join on the ID of the tables
     ON ITjobs.ID = ITsalary.ID;
 
@@ -98,13 +98,13 @@ You are going to leverage the definition above with the help of a recursive CTE.
 WITH calculate_factorial AS (
 	SELECT 
 		-- Initialize step and the factorial number      
-      	1 AS step,
-        1 AS factorial
+      		1 AS step,
+        	1 AS factorial
 	UNION ALL
 	SELECT 
 	 	step + 1,
 		-- Calculate the recursive part by n!*(n+1)
-	    factorial * (step + 1)
+	    	factorial * (step + 1)
 	FROM calculate_factorial        
 	-- Stop the recursion reaching the wanted factorial number
 	WHERE step < 6)
@@ -163,5 +163,5 @@ WITH calculate_potencies (step, result) AS (
     
 SELECT 
 	step, 
-    result
+    	result
 FROM calculate_potencies;
