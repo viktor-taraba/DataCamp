@@ -1,0 +1,20 @@
+﻿Departure,Arrival,FlightNumber,Cost,FlightTime
+London,Frankfurt,LH20903,759.44,2
+London,San Francisco,EA87334,159.3,10
+London,New York,LH19681,46.21,8
+London,Paris,LH19618,59.21,1.5
+Frankfurt,Vienna,AU9134,569.92,3
+Frankfurt,New York,LH12375,546.1,9
+Frankfurt,Paris,EH54200,848.58,2
+San Francisco,New York,LH71803,379.27,4
+San Francisco,Vienna,EA10922,105.6,11
+San Francisco,Frankfurt,EH29963,29.48,10
+New York ,Paris,AU45243,853.72,8
+New York ,Vienna,EA8302,178.95,7
+New York ,Franfurt,AU36738,799.23,9.5
+Paris,San Francisco,AU53720,941.36,8.5
+Paris,Vienna,LH89281,873.52,3
+Paris,Frankfurt,EH52253,459.41,2
+Vienna,New York,AU84861,482.42,2.4
+Vienna,Paris,EA37910,74.88,3
+Vienna,Chicago,EH55853,391.23,8
