@@ -24,7 +24,7 @@
 | 20 | [Case Study: Analyzing Job Market Data in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Case%20Study:%20Analyzing%20Job%20Market%20Data%20in%20Power%20BI) | Done |
 | 21 | [Hierarchical and Recursive Queries in SQL Server](https://github.com/Viktor-T-2001/DataCamp/tree/master/Hierarchical%20and%20Recursive%20Queries%20in%20SQL%20Server) | Done |
 | 22 | Statistical Thinking in Python (Part 1) | In progress |
-| 23 | Data Structures and Algorithms in Python | In progress |
+| 23 | [Data Structures and Algorithms in Python](https://github.com/viktor-taraba/DataCamp/tree/master/Data%20Structures%20and%20Algorithms%20in%20Python) | Done |
 
 ## Datacamp Projects ##
 
