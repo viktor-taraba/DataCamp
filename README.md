@@ -25,7 +25,7 @@
 | 21 | [Hierarchical and Recursive Queries in SQL Server](https://github.com/Viktor-T-2001/DataCamp/tree/master/Hierarchical%20and%20Recursive%20Queries%20in%20SQL%20Server) | Done |
 | 22 | Statistical Thinking in Python (Part 1) | In progress |
 | 23 | [Data Structures and Algorithms in Python](https://github.com/viktor-taraba/DataCamp/tree/master/Data%20Structures%20and%20Algorithms%20in%20Python) | Done |
-
+| 24 | Introduction to Airflow in Python | In progress |
 ## Datacamp Projects ##
 
 | # | Name | Status |
