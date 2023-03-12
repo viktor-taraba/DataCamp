@@ -26,7 +26,7 @@
 | 22 | Statistical Thinking in Python (Part 1) | In progress |
 | 23 | [Data Structures and Algorithms in Python](https://github.com/viktor-taraba/DataCamp/tree/master/Data%20Structures%20and%20Algorithms%20in%20Python) | Done |
 | 24 | [Introduction to Airflow in Python](https://github.com/viktor-taraba/DataCamp/tree/master/Introduction%20to%20Airflow%20in%20Python) | Done |
-| 25 | Writing Efficient Code with pandas | In progress |
+| 25 | [Writing Efficient Code with pandas](https://github.com/viktor-taraba/DataCamp/tree/master/Writing%20Efficient%20Code%20with%20pandas) | Done |
 ## Datacamp Projects ##
 
 | # | Name | Status |
