@@ -28,6 +28,7 @@
 | 24 | [Introduction to Airflow in Python](https://github.com/viktor-taraba/DataCamp/tree/master/Introduction%20to%20Airflow%20in%20Python) | Done |
 | 25 | [Writing Efficient Code with pandas](https://github.com/viktor-taraba/DataCamp/tree/master/Writing%20Efficient%20Code%20with%20pandas) | Done |
 | 26 | [Python Data Science Toolbox](https://github.com/viktor-taraba/DataCamp/tree/master/Python%20Data%20Science%20Toolbox) | Done |
+| 27 | Analyzing Financial Statements in Python | In progress |
 
 ## Datacamp Projects ##
 
