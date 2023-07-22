@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Bokeh Plot</title>
+    <style>
+      html, body {
+        box-sizing: border-box;
+        display: flow-root;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.2.1.min.js"></script>
+    <script type="text/javascript">
+        Bokeh.set_log_level("info");
+    </script>
+  </head>
+  <body>
+    <div id="a0af3693-6764-4aca-93cb-15c7d6bf6cbc" data-root-id="p1834" style="display: contents;"></div>
+  
+    <script type="application/json" id="p1841">
+      {"ab597382-f818-40c3-a77d-7318e3fe4e26":{"version":"3.2.1","title":"Bokeh Application","roots":[{"type":"object","name":"Column","id":"p1834","attributes":{"children":[{"type":"object","name":"Figure","id":"p1758","attributes":{"x_range":{"type":"object","name":"FactorRange","id":"p1767","attributes":{"factors":["Eastern","Southern","Western","Northern"]}},"y_range":{"type":"object","name":"DataRange1d","id":"p1760"},"x_scale":{"type":"object","name":"CategoricalScale","id":"p1768"},"y_scale":{"type":"object","name":"LinearScale","id":"p1769"},"title":{"type":"object","name":"Title","id":"p1765","attributes":{"text_color":"#E0E0E0","text_font":"Helvetica","text_font_size":"1.15em"}},"outline_line_color":"#E0E0E0","outline_line_alpha":0.25,"renderers":[{"type":"object","name":"GlyphRenderer","id":"p1822","attributes":{"data_source":{"type":"object","name":"ColumnDataSource","id":"p1503","attributes":{"selected":{"type":"object","name":"Selection","id":"p1504","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"p1505"},"data":{"type":"map","entries":[["index",{"type":"ndarray","array":{"type":"bytes","data":"AAAAAAEAAAACAAAAAwAAAAQAAAAFAAAABgAAAAcAAAA="},"shape":[8],"dtype":"int32","order":"little"}],["region",{"type":"ndarray","array":["Eastern","Eastern Victoria","Northern","Northern Victoria","South-Eastern","Southern","Western","Western Victoria"],"shape":[8],"dtype":"object","order":"little"}],["land_area",{"type":"ndarray","array":{"type":"bytes","data":"/Of1RRLRg0CkJhhvZQunQGYPw6aVx4FAS9SuRO02qkBlh6nL7S+DQKgyOfEI1H9AmgaNqrXZfkAAAAAAAHyEQA=="},"shape":[8],"dtype":"float64","order":"little"}],["building_area",{"type":"ndarray","array":{"type":"bytes","data":"3dHpdAxAZkBxPQrXo/RmQEhQOtBfC19A3hjBRH9Jm0B6bBZbf1dkQJ6Z6TyXMmNAcXRC7VIWYkCSroLE4dVgQA=="},"shape":[8],"dtype":"float64","order":"little"}]]}}},"view":{"type":"object","name":"CDSView","id":"p1823","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p1824"}}},"glyph":{"type":"object","name":"VBar","id":"p1819","attributes":{"x":{"type":"field","field":"region"},"top":{"type":"field","field":"building_area"},"line_color":{"type":"value","value":"#1f77b4"},"fill_color":{"type":"value","value":"#1f77b4"}}},"nonselection_glyph":{"type":"object","name":"VBar","id":"p1820","attributes":{"x":{"type":"field","field":"region"},"top":{"type":"field","field":"building_area"},"line_color":{"type":"value","value":"#1f77b4"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"#1f77b4"},"fill_alpha":{"type":"value","value":0.1},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"VBar","id":"p1821","attributes":{"x":{"type":"field","field":"region"},"top":{"type":"field","field":"building_area"},"line_color":{"type":"value","value":"#1f77b4"},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"value","value":"#1f77b4"},"fill_alpha":{"type":"value","value":0.2},"hatch_alpha":{"type":"value","value":0.2}}}}}],"toolbar":{"type":"object","name":"Toolbar","id":"p1766","attributes":{"tools":[{"type":"object","name":"PanTool","id":"p1780"},{"type":"object","name":"WheelZoomTool","id":"p1781"},{"type":"object","name":"BoxZoomTool","id":"p1782","attributes":{"overlay":{"type":"object","name":"BoxAnnotation","id":"p1783","attributes":{"syncable":false,"level":"overlay","visible":false,"left_units":"canvas","right_units":"canvas","bottom_units":"canvas","top_units":"canvas","line_color":"black","line_alpha":1.0,"line_width":2,"line_dash":[4,4],"fill_color":"lightgrey","fill_alpha":0.5}}}},{"type":"object","name":"SaveTool","id":"p1784"},{"type":"object","name":"ResetTool","id":"p1785"},{"type":"object","name":"HelpTool","id":"p1786"}]}},"left":[{"type":"object","name":"LinearAxis","id":"p1775","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"p1776","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"p1777"},"axis_label":"Building Size (Meters Squared)","axis_label_standoff":10,"axis_label_text_color":"#E0E0E0","axis_label_text_font":"Helvetica","axis_label_text_font_size":"1.25em","axis_label_text_font_style":"normal","major_label_policy":{"type":"object","name":"AllLabels","id":"p1778"},"major_label_text_color":"#E0E0E0","major_label_text_font":"Helvetica","major_label_text_font_size":"1.025em","axis_line_color":"#E0E0E0","axis_line_alpha":0,"major_tick_line_color":"#E0E0E0","major_tick_line_alpha":0,"minor_tick_line_color":"#E0E0E0","minor_tick_line_alpha":0}}],"below":[{"type":"object","name":"CategoricalAxis","id":"p1770","attributes":{"ticker":{"type":"object","name":"CategoricalTicker","id":"p1771"},"formatter":{"type":"object","name":"CategoricalTickFormatter","id":"p1772"},"axis_label":"Region","axis_label_standoff":10,"axis_label_text_color":"#E0E0E0","axis_label_text_font":"Helvetica","axis_label_text_font_size":"1.25em","axis_label_text_font_style":"normal","major_label_policy":{"type":"object","name":"AllLabels","id":"p1773"},"major_label_text_color":"#E0E0E0","major_label_text_font":"Helvetica","major_label_text_font_size":"1.025em","axis_line_color":"#E0E0E0","axis_line_alpha":0,"major_tick_line_color":"#E0E0E0","major_tick_line_alpha":0,"minor_tick_line_color":"#E0E0E0","minor_tick_line_alpha":0}}],"center":[{"type":"object","name":"Grid","id":"p1774","attributes":{"axis":{"id":"p1770"},"grid_line_color":"#E0E0E0","grid_line_alpha":0.25}},{"type":"object","name":"Grid","id":"p1779","attributes":{"dimension":1,"axis":{"id":"p1775"},"grid_line_color":"#E0E0E0","grid_line_alpha":0.25}}],"background_fill_color":"#20262B","border_fill_color":"#15191C"}},{"type":"object","name":"Figure","id":"p1787","attributes":{"x_range":{"type":"object","name":"FactorRange","id":"p1796","attributes":{"factors":["Eastern","Southern","Western","Northern"]}},"y_range":{"type":"object","name":"DataRange1d","id":"p1789"},"x_scale":{"type":"object","name":"CategoricalScale","id":"p1797"},"y_scale":{"type":"object","name":"LinearScale","id":"p1798"},"title":{"type":"object","name":"Title","id":"p1794","attributes":{"text_color":"#E0E0E0","text_font":"Helvetica","text_font_size":"1.15em"}},"outline_line_color":"#E0E0E0","outline_line_alpha":0.25,"renderers":[{"type":"object","name":"GlyphRenderer","id":"p1831","attributes":{"data_source":{"id":"p1503"},"view":{"type":"object","name":"CDSView","id":"p1832","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p1833"}}},"glyph":{"type":"object","name":"VBar","id":"p1828","attributes":{"x":{"type":"field","field":"region"},"top":{"type":"field","field":"land_area"},"line_color":{"type":"value","value":"#1f77b4"},"fill_color":{"type":"value","value":"#1f77b4"}}},"nonselection_glyph":{"type":"object","name":"VBar","id":"p1829","attributes":{"x":{"type":"field","field":"region"},"top":{"type":"field","field":"land_area"},"line_color":{"type":"value","value":"#1f77b4"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"#1f77b4"},"fill_alpha":{"type":"value","value":0.1},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"VBar","id":"p1830","attributes":{"x":{"type":"field","field":"region"},"top":{"type":"field","field":"land_area"},"line_color":{"type":"value","value":"#1f77b4"},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"value","value":"#1f77b4"},"fill_alpha":{"type":"value","value":0.2},"hatch_alpha":{"type":"value","value":0.2}}}}}],"toolbar":{"type":"object","name":"Toolbar","id":"p1795","attributes":{"tools":[{"type":"object","name":"PanTool","id":"p1809"},{"type":"object","name":"WheelZoomTool","id":"p1810"},{"type":"object","name":"BoxZoomTool","id":"p1811","attributes":{"overlay":{"type":"object","name":"BoxAnnotation","id":"p1812","attributes":{"syncable":false,"level":"overlay","visible":false,"left_units":"canvas","right_units":"canvas","bottom_units":"canvas","top_units":"canvas","line_color":"black","line_alpha":1.0,"line_width":2,"line_dash":[4,4],"fill_color":"lightgrey","fill_alpha":0.5}}}},{"type":"object","name":"SaveTool","id":"p1813"},{"type":"object","name":"ResetTool","id":"p1814"},{"type":"object","name":"HelpTool","id":"p1815"}]}},"left":[{"type":"object","name":"LinearAxis","id":"p1804","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"p1805","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"p1806"},"axis_label":"Land Size (Meters Squared)","axis_label_standoff":10,"axis_label_text_color":"#E0E0E0","axis_label_text_font":"Helvetica","axis_label_text_font_size":"1.25em","axis_label_text_font_style":"normal","major_label_policy":{"type":"object","name":"AllLabels","id":"p1807"},"major_label_text_color":"#E0E0E0","major_label_text_font":"Helvetica","major_label_text_font_size":"1.025em","axis_line_color":"#E0E0E0","axis_line_alpha":0,"major_tick_line_color":"#E0E0E0","major_tick_line_alpha":0,"minor_tick_line_color":"#E0E0E0","minor_tick_line_alpha":0}}],"below":[{"type":"object","name":"CategoricalAxis","id":"p1799","attributes":{"ticker":{"type":"object","name":"CategoricalTicker","id":"p1800"},"formatter":{"type":"object","name":"CategoricalTickFormatter","id":"p1801"},"axis_label":"Region","axis_label_standoff":10,"axis_label_text_color":"#E0E0E0","axis_label_text_font":"Helvetica","axis_label_text_font_size":"1.25em","axis_label_text_font_style":"normal","major_label_policy":{"type":"object","name":"AllLabels","id":"p1802"},"major_label_text_color":"#E0E0E0","major_label_text_font":"Helvetica","major_label_text_font_size":"1.025em","axis_line_color":"#E0E0E0","axis_line_alpha":0,"major_tick_line_color":"#E0E0E0","major_tick_line_alpha":0,"minor_tick_line_color":"#E0E0E0","minor_tick_line_alpha":0}}],"center":[{"type":"object","name":"Grid","id":"p1803","attributes":{"axis":{"id":"p1799"},"grid_line_color":"#E0E0E0","grid_line_alpha":0.25}},{"type":"object","name":"Grid","id":"p1808","attributes":{"dimension":1,"axis":{"id":"p1804"},"grid_line_color":"#E0E0E0","grid_line_alpha":0.25}}],"background_fill_color":"#20262B","border_fill_color":"#15191C"}}]}}]}}
+    </script>
+    <script type="text/javascript">
+      (function() {
+        const fn = function() {
+          Bokeh.safely(function() {
+            (function(root) {
+              function embed_document(root) {
+              const docs_json = document.getElementById('p1841').textContent;
+              const render_items = [{"docid":"ab597382-f818-40c3-a77d-7318e3fe4e26","roots":{"p1834":"a0af3693-6764-4aca-93cb-15c7d6bf6cbc"},"root_ids":["p1834"]}];
+              root.Bokeh.embed.embed_items(docs_json, render_items);
+              }
+              if (root.Bokeh !== undefined) {
+                embed_document(root);
+              } else {
+                let attempts = 0;
+                const timer = setInterval(function(root) {
+                  if (root.Bokeh !== undefined) {
+                    clearInterval(timer);
+                    embed_document(root);
+                  } else {
+                    attempts++;
+                    if (attempts > 100) {
+                      clearInterval(timer);
+                      console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                    }
+                  }
+                }, 10, root)
+              }
+            })(window);
+          });
+        };
+        if (document.readyState != "loading") fn();
+        else document.addEventListener("DOMContentLoaded", fn);
+      })();
+    </script>
+  </body>
+</html>
