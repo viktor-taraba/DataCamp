@@ -30,6 +30,7 @@
 | 26 | [Python Data Science Toolbox](https://github.com/viktor-taraba/DataCamp/tree/master/Python%20Data%20Science%20Toolbox) | Done |
 | 27 | [Analyzing Financial Statements in Python](https://github.com/viktor-taraba/DataCamp/tree/master/Analyzing%20Financial%20Statements%20in%20Python) | Done |
 | 28 | [Intermediate Data Modeling in Power BI](https://github.com/viktor-taraba/DataCamp/tree/master/Intermediate%20Data%20Modeling%20in%20Power%20BI) | Done |
+| 29 | Interactive Data Visualization with Bokeh | In progress |
 
 ## Datacamp Projects ##
 
