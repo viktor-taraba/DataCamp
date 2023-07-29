@@ -31,6 +31,7 @@
 | 27 | [Analyzing Financial Statements in Python](https://github.com/viktor-taraba/DataCamp/tree/master/Analyzing%20Financial%20Statements%20in%20Python) | Done |
 | 28 | [Intermediate Data Modeling in Power BI](https://github.com/viktor-taraba/DataCamp/tree/master/Intermediate%20Data%20Modeling%20in%20Power%20BI) | Done |
 | 29 | [Interactive Data Visualization with Bokeh](https://github.com/viktor-taraba/DataCamp/tree/master/Interactive%20Data%20Visualization%20with%20Bokeh) | Done |
+| 30 | Introduction to Portfolio Analysis in Python | In progress |
 
 ## Datacamp Projects ##
 
