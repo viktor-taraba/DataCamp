@@ -41,3 +41,4 @@
 | 2 | [Analyze International Debt Statistics](https://github.com/Viktor-T-2001/DataCamp/tree/master/Analyze%20International%20Debt%20Statistics) | Done |
 | 3 | [Writing Functions for Product Analysis](https://github.com/Viktor-T-2001/DataCamp/tree/master/Writing%20Functions%20for%20Product%20Analysis) | Done |
 | 4 | [Drunken Datetimes in Ames, Iowa](https://github.com/Viktor-T-2001/DataCamp/tree/master/Drunken%20Datetimes%20in%20Ames%2C%20Iowa) | Done |
+| 5 | [Consolidating Employee Data](https://github.com/viktor-taraba/DataCamp/tree/master/Consolidating%20Employee%20Data) | Done |
