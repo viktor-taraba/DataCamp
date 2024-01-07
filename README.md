@@ -43,4 +43,5 @@
 | 4 | [Drunken Datetimes in Ames, Iowa](https://github.com/Viktor-T-2001/DataCamp/tree/master/Drunken%20Datetimes%20in%20Ames%2C%20Iowa) | Done |
 | 5 | [Consolidating Employee Data](https://github.com/viktor-taraba/DataCamp/tree/master/Consolidating%20Employee%20Data) | Done |
 | 6 | [Risk and Returns: The Sharpe Ratio](https://github.com/viktor-taraba/DataCamp/tree/master/Risk%20and%20Returns%3A%20The%20Sharpe%20Ratio) | Done |
-| 7 | [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/viktor-taraba/DataCamp/blob/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/README.md) | Done |
+| 7 | [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/viktor-taraba/DataCamp/blob/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing) | Done |
+| 8 | [Rise and Fall of Programming Languages](https://github.com/viktor-taraba/DataCamp/blob/master/Rise%20and%20Fall%20of%20Programming%20Languages) | Done |
