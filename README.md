@@ -32,6 +32,7 @@
 | 28 | [Intermediate Data Modeling in Power BI](https://github.com/viktor-taraba/DataCamp/tree/master/Intermediate%20Data%20Modeling%20in%20Power%20BI) | Done |
 | 29 | [Interactive Data Visualization with Bokeh](https://github.com/viktor-taraba/DataCamp/tree/master/Interactive%20Data%20Visualization%20with%20Bokeh) | Done |
 | 30 | [Introduction to Portfolio Analysis in Python](https://app.datacamp.com/learn/courses/introduction-to-portfolio-analysis-in-python) | Done |
+| 31 | [Introduction to APIs in Python](https://github.com/viktor-taraba/DataCamp/tree/master/Introduction%20to%20APIs%20in%20Python) | In progress |
 
 ## Datacamp Projects ##
 
