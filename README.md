@@ -14,7 +14,7 @@
 | 10 | Reshaping Data with pandas | In progress |
 | 11 | [DAX Functions in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/DAX%20Functions%20in%20Power%20BI) | Done |
 | 12 | [Trend Analysis in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Trend%20Analysis%20in%20Power%20BI) | Done |
-| 13 | [Introduction to Object-Oriented Programming in Python](/Introduction to Object-Oriented Programming in Python) | In progress |
+| 13 | [Introduction to Object-Oriented Programming in Python](/Introduction%20to%20Object-Oriented%20Programming%20in%20Python) | In progress |
 | 14 | [Intermediate DAX in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Intermediate%20DAX%20in%20Power%20BI) | Done |
 | 15 | [Reports in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Reports%20in%20Power%20BI) | Done |
 | 16 | [Exploratory Data Analysis in Power BI](https://github.com/Viktor-T-2001/DataCamp/tree/master/Exploratory%20Data%20Analysis%20in%20Power%20BI) | Done |
