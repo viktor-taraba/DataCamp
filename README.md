@@ -14,7 +14,7 @@
 | 10 | Reshaping Data with pandas | In progress |
 | 11 | [DAX Functions in Power BI](/DAX%20Functions%20in%20Power%20BI) | Done |
 | 12 | [Trend Analysis in Power BI](/Trend%20Analysis%20in%20Power%20BI) | Done |
-| 13 | [Introduction to Object-Oriented Programming in Python](/Introduction%20to%20Object-Oriented%20Programming%20in%20Python) | In progress |
+| 13 | [Introduction to Object-Oriented Programming in Python](/Introduction%20to%20Object-Oriented%20Programming%20in%20Python) | Done |
 | 14 | [Intermediate DAX in Power BI](/Intermediate%20DAX%20in%20Power%20BI) | Done |
 | 15 | [Reports in Power BI](/Reports%20in%20Power%20BI) | Done |
 | 16 | [Exploratory Data Analysis in Power BI](/Exploratory%20Data%20Analysis%20in%20Power%20BI) | Done |
