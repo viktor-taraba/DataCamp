@@ -33,6 +33,7 @@
 | 29 | [Interactive Data Visualization with Bokeh](/Interactive%20Data%20Visualization%20with%20Bokeh) | Done |
 | 30 | [Introduction to Portfolio Analysis in Python](https://app.datacamp.com/learn/courses/introduction-to-portfolio-analysis-in-python) | Done |
 | 31 | [Introduction to APIs in Python](/Introduction%20to%20APIs%20in%20Python) | In progress |
+| 32 | [Intermediate Object-Oriented Programming in Python](/Intermediate%20Object-Oriented%20Programming%20in%20Python) | Done |
 
 ## Datacamp Projects ##
 
