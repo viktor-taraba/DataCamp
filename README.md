@@ -34,6 +34,7 @@
 | 30 | [Introduction to Portfolio Analysis in Python](https://app.datacamp.com/learn/courses/introduction-to-portfolio-analysis-in-python) | Done |
 | 31 | [Introduction to APIs in Python](/Introduction%20to%20APIs%20in%20Python) | In progress |
 | 32 | [Intermediate Object-Oriented Programming in Python](/Intermediate%20Object-Oriented%20Programming%20in%20Python) | Done |
+| 33 | [Data Processing in Shell](/Data%20Processing%20in%20Shell) | Done |
 
 ## Datacamp Projects ##
 

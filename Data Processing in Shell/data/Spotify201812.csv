@@ -1,0 +1,7 @@
+artist_name,track_id,track_name,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence,popularity
+"Chris Cooq,2jbYvQCyPgX3CdmAzeVeuS,""Same - Original mix"",3.52e-05,0.7829999999999999,124016,0.792,0.878,7,0.0332,-10.277000000000001,1,0.0661,120.04700000000001,4,0.9279999999999999,8"
+"Curbo,26Y1lX7ZOpw9Ql3gGAlqLK,""Debauchery - Original mix"",0.00115,0.81,124016,0.41700000000000004,0.919,9,0.106,-10.783,0,0.0793,120.025,4,0.8370000000000001,8"
+"Bingo Play,5eIyK73BrxHLnly4F9PWqg,""Grandma - Original mix"",0.000539,0.8190000000000001,132742,0.72,0.863,4,0.0727,-8.895,0,0.151,124.00299999999999,4,0.934,8"
+"G Herbo,13Mf2ZBpfNkgWJowvM5hXh,""Bon appetit"",0.115,0.885,181838,0.348,0.0,9,0.107,-12.569,1,0.451,142.111,4,0.18,10"
+34 Feet,7BQaRTHk44DkMhIVNcXy2D,Among - Original mix,5.8399999999999997e-05,0.74,124016,0.47200000000000003,0.847,8,0.0959,-9.008,1,0.0551,120.03399999999999,4,0.622,8
+"Chris Cooq,049RxG2laEl9U1PGYeIqLV,""Hazard - Original mix"",8.109999999999999e-05,0.813,132742,0.731,0.91,11,0.0727,-8.932,1,0.0697,124.031,4,0.9440000000000001,7"
