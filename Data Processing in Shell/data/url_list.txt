@@ -1,0 +1,3 @@
+https://assets.datacamp.com/production/repositories/4180/datasets/6704d531266f9fb54f89200205198cabd592d03c/Spotify201811.csv
+https://assets.datacamp.com/production/repositories/4180/datasets/0441f2c68c64faf961fd8d73dc3363a6005679af/Spotify201810.csv
+https://assets.datacamp.com/production/repositories/4180/datasets/218a0674cd823751f0d5135bfe3814d56944a1bd/Spotify201809.csv
